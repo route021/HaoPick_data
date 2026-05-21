@@ -1,1 +1,63 @@
+[
+  {
+    "id": "short_001",
+    "title": "상하이 최대 야시장 TOP8",
+    "category": "Food",
+    "duration": "0:15",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/shorts/short_001.jpg",
+    "instagram_url": "https://www.instagram.com/reel/DVnsGRcEZTd/?igsh=MWM1ZmFveXBmejZodw==",
+    "status": "active",
+    "sort_order": 1
+  },
+  {
+    "id": "short_002",
+    "title": "상하이 홍챠오역 환승 1분 컷!",
+    "category": "Transport",
+    "duration": "0:15",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/shorts/short_002.jpg",
+    "instagram_url": "https://www.instagram.com/reel/DXHFbApkaat/?igsh=aTIxODB2Zzk4aWF3",
+    "status": "active",
+    "sort_order": 2
+  },
+  {
+    "id": "short_003",
+    "title": "푸동공항 → 홍차오역 40분 컷!",
+    "category": "Transport",
+    "duration": "0:15",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/shorts/short_003.jpg",
+    "instagram_url": "https://www.instagram.com/p/DSXbcCvkVMa/?igsh=b2c5Mnp5NXhteDBm",
+    "status": "active",
+    "sort_order": 3
+  },
+  {
+    "id": "short_004",
+    "title": "중국 입국 신고서 온라인 작성 방법",
+    "category": "Guide",
+    "duration": "0:15",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/shorts/short_004.jpg",
+    "instagram_url": "https://www.instagram.com/p/DRg8PHakdtC/?igsh=aHh6amR5MHk3dHZ5",
+    "status": "active",
+    "sort_order": 4
+  },
+  {
+    "id": "short_005",
+    "title": "중국여행 이 시기 피하세요!",
+    "category": "Tip",
+    "duration": "0:15",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/shorts/short_005.jpg",
+    "instagram_url": "https://www.instagram.com/p/DQ3yCB8EYB8/?igsh=MXI5ZGVyd3p1azZlZA==",
+    "status": "active",
+    "sort_order": 5
+  },
+  {
+    "id": "short_006",
+    "title": "상하이 쫀득 3대장 조합",
+    "category": "Food",
+    "duration": "0:15",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/shorts/short_006.jpg",
+    "instagram_url": "https://www.instagram.com/reel/DUSrXNgEQMs/?igsh=MW1wbnd1NmhpYXNjdQ==",
+    "status": "active",
+    "sort_order": 6
+  }
+]
 
