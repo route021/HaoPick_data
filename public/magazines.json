@@ -84,4 +84,17 @@
     "status": "active"
   }
 ]
-
+{
+  "id": "mag_007",
+  "title": "#한국인 국룰 코스",
+  "subtitle": "SNS에서 가져온 한국인 코스 복붙하기. 한국인 정모 가능",
+  "body": "상하이 처음 가는 한국인이라면 한 번쯤 저장해봤을 국룰 코스예요. 점도덕 홍미창펀, 헤이티 과일티, 헌지우이치엔 양꼬치, 와이탄 야경, 레드립스 마라반, 소양생전 셩지엔, 패왕차희 백아절현까지. 여기에 상하이 임시정부, 신천지, 우캉맨션, 하메이, 예원까지 넣으면 SNS에서 보던 상하이 여행 코스가 완성됩니다. 맛집과 간식, 쇼핑, 관광지를 한 번에 훑는 코스라 이동은 많지만 실패 확률은 낮아요.",
+  "tags": "한국인국룰,SNS코스,맛집,간식,핫플,상하이처음",
+  "place_ids": "diandoude,heytea,henjiu_yiqian,waitan,red_lips,yangs_dumpling,chagee,korean_provisional_government,xintiandi,polux_xintiandi,wukang_building,harmay,jiangbianchengwai,lillian_egg_tart,miniso,yuyuan,hongkuijia",
+  "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_007.jpg",
+  "estimated_time": "1~2일",
+  "recommended_time": "오전~밤",
+  "difficulty": "보통",
+  "sort_order": 7,
+  "status": "active"
+}
