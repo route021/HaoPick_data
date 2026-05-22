@@ -110,4 +110,18 @@
   "difficulty": "쉬움",
   "sort_order": 8,
   "status": "active"
+},
+  {
+  "id": "mag_009",
+  "title": "#상하이 속의 일본",
+  "subtitle": "라멘부터 스시, 카페까지 상하이에서 만나는 일본 프랜차이즈",
+  "body": "상하이는 일본 문화와 외식 브랜드의 영향도 꽤 큰 도시예요. 현지 음식이 부담스럽거나 익숙한 일본식 메뉴가 생각날 때는 하마스시, 스키야, 코메다 커피, 요시노야, 아지센 라멘 같은 일본 프랜차이즈를 활용해보세요. 라멘, 스시, 규동, 카페, 베이커리까지 선택지가 다양해서 중국 여행 중에도 비교적 익숙한 맛을 찾기 좋아요. 대부분 체인 브랜드라 특정 지점을 고정하기보다 현재 위치 기준으로 가까운 지점을 찾아가는 방식이 편합니다.",
+  "tags": "일본프랜차이즈,라멘,스시,카페,아는맛,상하이맛집",
+  "place_ids": "hamazushi,sukiya,komeda_coffee,yoshinoya,ajisen_ramen,saizeriya,yamazaki_bakery,coco_ichibanya,ippudo,hakata_ikkousha,arabica,katsukura,gatten_sushi,torikizoku",
+  "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_009.jpg",
+  "estimated_time": "30분~1시간",
+  "recommended_time": "아침~저녁",
+  "difficulty": "쉬움",
+  "sort_order": 9,
+  "status": "active"
 }
