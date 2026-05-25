@@ -204,5 +204,46 @@
   ],
   "status": "active",
   "sort_order": 11
+},
+  {
+  "id": "mag_012",
+  "title": "#중국 야식 추천",
+  "subtitle": "상하이에서 밤 늦게까지 즐기는 중국식 야식 문화",
+  "description": "중국은 밤이 되면 진짜 여행이 시작된다는 말이 있을 정도로 야식 문화가 발달해 있어요. 새벽까지 운영하는 훠궈집부터 길거리 꼬치, 야시장, 편의점 야식까지 혼자서도 부담 없이 즐길 수 있는 곳들을 모아봤어요. 밤 12시 이후에도 갈 곳이 많아서 상하이 밤거리를 제대로 느끼기 좋아요.",
+  "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_012_thumb.jpg",
+  "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_012_cover.jpg",
+  "category": "food",
+  "city": "상하이",
+  "tags": [
+    "#야식",
+    "#혼술",
+    "#야시장",
+    "#맥주",
+    "#상하이맛집"
+  ],
+  "place_ids": [
+    "haidilao",
+    "shaokao_street",
+    "shanghai_night_market",
+    "lawson",
+    "familymart"
+  ],
+  "estimated_time": "1시간~3시간",
+  "recommended_time": "밤 10시~새벽",
+  "difficulty": "쉬움",
+  "tips": [
+    "중국은 새벽까지 운영하는 식당이 많아서 늦은 시간에도 먹을 곳 찾기 쉬워요.",
+    "烧烤(샤오카오)는 꼬치구이 느낌으로 맥주랑 같이 먹는 문화가 강해요.",
+    "편의점에서도 간단한 야식, 맥주, 컵라면 종류가 정말 다양해요.",
+    "해저로우는 혼자 가도 부담 없이 먹을 수 있고 새벽 시간대가 오히려 덜 붐비는 편이에요."
+  ],
+  "highlights": [
+    "밤 12시 이후에도 갈 곳 많음",
+    "혼술·혼밥 난이도 낮음",
+    "중국식 꼬치 + 맥주 문화 체험 가능",
+    "현지인들의 진짜 밤 분위기 느끼기 좋음"
+  ],
+  "status": "active",
+  "sort_order": 12
 }
 ]
