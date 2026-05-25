@@ -223,10 +223,9 @@
   ],
   "place_ids": [
     "haidilao",
-    "shaokao_street",
-    "shanghai_night_market",
+   "sijing_night_market",
     "lawson",
-    "familymart"
+    "familymart","haoxianglai"
   ],
   "estimated_time": "1시간~3시간",
   "recommended_time": "밤 10시~새벽",
