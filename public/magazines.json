@@ -124,5 +124,85 @@
     "difficulty": "쉬움",
     "sort_order": 9,
     "status": "active"
-  }
+  },
+  {
+  "id": "mag_010",
+  "title": "#중국 편의점 털기",
+  "subtitle": "중국 여행 초보라면 한 번쯤 꼭 해봐야 하는 야식 코스",
+  "description": "중국 편의점은 한국과 비슷하면서도 꽤 달라요. 중국 여행 초보들도 부담 없이 즐길 수 있는 음식부터 중국에서만 보이는 음료, 실패 없는 간식까지 모아봤어요. 로손, 패밀리마트, 편리봉, 하오터마이 같은 현지 편의점들을 돌면서 가볍게 중국 로컬 분위기를 느껴보세요. 전자레인지 사용법이나 QR 결제 팁까지 함께 정리했어요.",
+  "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_010_thumb.jpg",
+  "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_010_cover.jpg",
+  "category": "food",
+  "city": "상하이",
+  "tags": [
+    "#편의점",
+    "#간식",
+    "#야식",
+    "#초보추천"
+  ],
+  "place_ids": [
+    "lawson",
+    "familymart",
+    "bianlifeng",
+    "haotemai",
+    "hema_mini"
+  ],
+  "estimated_time": "30분~1시간",
+  "recommended_time": "저녁~야식",
+  "difficulty": "쉬움",
+  "tips": [
+    "편의점 도시락은 전자레인지 데워달라고 하면 직원이 해주는 경우가 많아요.",
+    "중국 편의점에서는 우유차, 요거트 음료 종류가 정말 다양해요.",
+    "QR결제가 어려우면 알리페이/위챗 대신 카드 결제 가능한지 먼저 물어보세요.",
+    "하오터마이(好特卖)는 유통기한 임박 할인 간식이 많아서 구경하는 재미가 있어요."
+  ],
+  "highlights": [
+    "한국인 입맛에도 무난한 음식 많음",
+    "중국 한정 음료/간식 구경 가능",
+    "야식이나 간단한 아침 해결하기 좋음",
+    "현지인 일상 분위기 느끼기 쉬움"
+  ],
+  "status": "active",
+  "sort_order": 10
+},{
+  "id": "mag_011",
+  "title": "#중국 카페 감성 투어",
+  "subtitle": "상하이에서 발견하는 중국식 카페 감성",
+  "description": "요즘 중국 카페들은 단순히 커피만 마시는 공간이 아니에요. 감성적인 인테리어, 조용한 작업 분위기, 개성 있는 디저트까지 한국 카페 좋아하는 사람이라면 오히려 더 만족할 수도 있어요. 상하이에서 유명한 카페 브랜드들을 중심으로 중국 카페 문화를 가볍게 경험해보세요.",
+  "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_011_thumb.jpg",
+  "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_011_cover.jpg",
+  "category": "cafe",
+  "city": "상하이",
+  "tags": [
+    "#카페",
+    "#감성카페",
+    "#작업카페",
+    "#디저트",
+    "#상하이카페"
+  ],
+  "place_ids": [
+    "manner_coffee",
+    "seesaw_coffee",
+    "arabica_shanghai",
+    "peets_coffee",
+    "grid_coffee"
+  ],
+  "estimated_time": "1시간~3시간",
+  "recommended_time": "오전~오후",
+  "difficulty": "쉬움",
+  "tips": [
+    "중국 카페들은 좌석 간격이 넓고 작업하기 좋은 곳이 많아요.",
+    "Manner Coffee는 가성비, % Arabica는 감성 사진 스팟으로 유명해요.",
+    "주문은 미니프로그램이나 QR 주문 방식인 경우도 많아요.",
+    "중국 카페 디저트는 한국보다 달지 않은 스타일도 많아서 호불호가 적어요."
+  ],
+  "highlights": [
+    "한국보다 감성적인 인테리어",
+    "조용하게 작업하기 좋은 분위기",
+    "브랜드별 개성이 뚜렷함",
+    "커피 + 디저트 문화 체험 가능"
+  ],
+  "status": "active",
+  "sort_order": 11
+}
 ]
