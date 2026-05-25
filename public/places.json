@@ -20,8 +20,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "上海浦东国际机场-T2航站楼",
+    "search_keyword_ko": "푸동국제공항 2터미널"
   },
   {
     "id": "pvg_t1",
@@ -44,8 +44,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "上海浦东国际机场-T1航站楼",
+    "search_keyword_ko": "푸동국제공항 1터미널"
   },
   {
     "id": "hongqiao_airport",
@@ -54,8 +54,8 @@
     "category": "공항·교통",
     "subcategory": "공항",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.20",
+    "longitude": "121.34",
     "short_description": "도심 가까운 공항",
     "tags": "공항,교통",
     "recommended_time": "any",
@@ -68,8 +68,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "上海虹桥国际机场",
+    "search_keyword_ko": "홍차오공항"
   },
   {
     "id": "longyang_road_station",
@@ -92,8 +92,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "龙阳路地铁站",
+    "search_keyword_ko": "롱양루역"
   },
   {
     "id": "waitan",
@@ -116,8 +116,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "外滩",
+    "search_keyword_ko": "와이탄"
   },
   {
     "id": "oriental_pearl",
@@ -126,8 +126,8 @@
     "category": "대표 관광지",
     "subcategory": "전망대",
     "district": "",
-    "latitude": "31.2397",
-    "longitude": "121.4998",
+    "latitude": "31.24",
+    "longitude": "121.50",
     "short_description": "상하이 대표 전망대",
     "tags": "전망대,야경,사진",
     "recommended_time": "evening",
@@ -140,8 +140,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "东方明珠广播电视塔",
+    "search_keyword_ko": "동방명주타워"
   },
   {
     "id": "shanghai_disneyland",
@@ -164,8 +164,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "上海迪士尼度假区",
+    "search_keyword_ko": "상하이 디즈니랜드"
   },
   {
     "id": "wukang_building",
@@ -174,8 +174,8 @@
     "category": "대표 관광지",
     "subcategory": "건축 포토존",
     "district": "",
-    "latitude": "31.2143",
-    "longitude": "121.4350",
+    "latitude": "31.21",
+    "longitude": "121.44",
     "short_description": "상하이 대표 건축 포토존",
     "tags": "건축,사진,산책",
     "recommended_time": "afternoon",
@@ -188,8 +188,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "武康大楼",
+    "search_keyword_ko": "우캉대루"
   },
   {
     "id": "yuyuan",
@@ -198,8 +198,8 @@
     "category": "대표 관광지",
     "subcategory": "전통 정원",
     "district": "",
-    "latitude": "31.2273",
-    "longitude": "121.4925",
+    "latitude": "31.23",
+    "longitude": "121.49",
     "short_description": "전통 정원 관광 명소",
     "tags": "전통,관광,사진",
     "recommended_time": "afternoon",
@@ -212,8 +212,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "豫园",
+    "search_keyword_ko": "예원"
   },
   {
     "id": "jingan_temple",
@@ -222,8 +222,8 @@
     "category": "대표 관광지",
     "subcategory": "사찰",
     "district": "",
-    "latitude": "31.2230",
-    "longitude": "121.4458",
+    "latitude": "31.22",
+    "longitude": "121.45",
     "short_description": "도심 속 사찰 명소",
     "tags": "사찰,관광,야경",
     "recommended_time": "afternoon",
@@ -236,8 +236,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "静安寺",
+    "search_keyword_ko": "정안사,징안쓰,징안사"
   },
   {
     "id": "peace_hotel",
@@ -246,8 +246,8 @@
     "category": "대표 관광지",
     "subcategory": "클래식 건축",
     "district": "",
-    "latitude": "31.2396",
-    "longitude": "121.4905",
+    "latitude": "31.24",
+    "longitude": "121.49",
     "short_description": "와이탄 대표 클래식 호텔",
     "tags": "호텔,와이탄,사진",
     "recommended_time": "afternoon",
@@ -260,8 +260,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "和平饭店",
+    "search_keyword_ko": "페어몬트 피스 호텔"
   },
   {
     "id": "shanghai_tower",
@@ -270,8 +270,8 @@
     "category": "대표 관광지",
     "subcategory": "전망대",
     "district": "",
-    "latitude": "31.2336",
-    "longitude": "121.5055",
+    "latitude": "31.23",
+    "longitude": "121.51",
     "short_description": "상하이 최고층 전망대",
     "tags": "전망대,야경,사진",
     "recommended_time": "evening",
@@ -284,8 +284,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "上海中心大厦",
+    "search_keyword_ko": "상하이 타워"
   },
   {
     "id": "jinmao_tower",
@@ -294,8 +294,8 @@
     "category": "대표 관광지",
     "subcategory": "전망대",
     "district": "",
-    "latitude": "31.2333",
-    "longitude": "121.5033",
+    "latitude": "31.24",
+    "longitude": "121.51",
     "short_description": "루자쭈이 대표 전망대",
     "tags": "전망대,야경,사진",
     "recommended_time": "evening",
@@ -308,8 +308,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "金茂大厦",
+    "search_keyword_ko": "진마오 타워"
   },
   {
     "id": "people_square",
@@ -318,8 +318,8 @@
     "category": "대표 관광지",
     "subcategory": "광장",
     "district": "",
-    "latitude": "31.2304",
-    "longitude": "121.4737",
+    "latitude": "31.23",
+    "longitude": "121.48",
     "short_description": "도심 중심 광장",
     "tags": "광장,교통,관광",
     "recommended_time": "afternoon",
@@ -332,8 +332,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "人民广场",
+    "search_keyword_ko": "인민광장"
   },
   {
     "id": "nanjing_east",
@@ -342,8 +342,8 @@
     "category": "거리·산책",
     "subcategory": "거리·골목",
     "district": "",
-    "latitude": "31.2380",
-    "longitude": "121.4905",
+    "latitude": "31.24",
+    "longitude": "121.48",
     "short_description": "상하이 대표 쇼핑 거리",
     "tags": "쇼핑,거리,야경",
     "recommended_time": "evening",
@@ -356,8 +356,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "南京东路",
+    "search_keyword_ko": "난징동루"
   },
   {
     "id": "nanjing_west",
@@ -366,8 +366,8 @@
     "category": "거리·산책",
     "subcategory": "거리·골목",
     "district": "",
-    "latitude": "31.2295",
-    "longitude": "121.4450",
+    "latitude": "31.23",
+    "longitude": "121.46",
     "short_description": "고급 쇼핑 거리",
     "tags": "쇼핑,백화점,카페",
     "recommended_time": "afternoon",
@@ -380,8 +380,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "南京西路",
+    "search_keyword_ko": "난징시루"
   },
   {
     "id": "xintiandi",
@@ -390,8 +390,8 @@
     "category": "거리·산책",
     "subcategory": "거리·골목",
     "district": "",
-    "latitude": "31.2195",
-    "longitude": "121.4740",
+    "latitude": "31.22",
+    "longitude": "121.48",
     "short_description": "분위기 좋은 핫플 거리",
     "tags": "카페,맛집,야경",
     "recommended_time": "evening",
@@ -404,8 +404,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "新天地",
+    "search_keyword_ko": "신천지"
   },
   {
     "id": "wukang_road",
@@ -414,8 +414,8 @@
     "category": "거리·산책",
     "subcategory": "거리·골목",
     "district": "",
-    "latitude": "31.2140",
-    "longitude": "121.4350",
+    "latitude": "31.21",
+    "longitude": "121.44",
     "short_description": "감성 산책 거리",
     "tags": "카페,산책,사진",
     "recommended_time": "afternoon",
@@ -428,8 +428,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "武康路",
+    "search_keyword_ko": "우캉루"
   },
   {
     "id": "anfu_road",
@@ -438,8 +438,8 @@
     "category": "거리·산책",
     "subcategory": "거리·골목",
     "district": "",
-    "latitude": "31.2135",
-    "longitude": "121.4390",
+    "latitude": "31.21",
+    "longitude": "121.44",
     "short_description": "핫한 카페 거리",
     "tags": "카페,브런치,쇼핑",
     "recommended_time": "afternoon",
@@ -452,8 +452,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "安福路",
+    "search_keyword_ko": "안푸루"
   },
   {
     "id": "yongkang_road",
@@ -462,8 +462,8 @@
     "category": "거리·산책",
     "subcategory": "거리·골목",
     "district": "",
-    "latitude": "31.2085",
-    "longitude": "121.4565",
+    "latitude": "31.21",
+    "longitude": "121.46",
     "short_description": "로컬 감성 거리",
     "tags": "카페,산책,로컬",
     "recommended_time": "afternoon",
@@ -476,8 +476,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "永康路",
+    "search_keyword_ko": "용캉루"
   },
   {
     "id": "sinan_road",
@@ -486,8 +486,8 @@
     "category": "거리·산책",
     "subcategory": "거리·골목",
     "district": "",
-    "latitude": "31.2170",
-    "longitude": "121.4695",
+    "latitude": "31.21",
+    "longitude": "121.47",
     "short_description": "조용한 산책 거리",
     "tags": "산책,건축,사진",
     "recommended_time": "afternoon",
@@ -500,8 +500,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "思南路",
+    "search_keyword_ko": "쓰난루"
   },
   {
     "id": "tianzifang",
@@ -510,8 +510,8 @@
     "category": "거리·산책",
     "subcategory": "거리·골목",
     "district": "",
-    "latitude": "31.2100",
-    "longitude": "121.4665",
+    "latitude": "31.21",
+    "longitude": "121.47",
     "short_description": "골목형 관광지",
     "tags": "골목,쇼핑,기념품",
     "recommended_time": "afternoon",
@@ -524,8 +524,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "田子坊",
+    "search_keyword_ko": "티엔즈팡"
   },
   {
     "id": "zhujiajiao",
@@ -534,8 +534,8 @@
     "category": "대표 관광지",
     "subcategory": "수향마을·근교",
     "district": "",
-    "latitude": "31.1070",
-    "longitude": "121.0570",
+    "latitude": "31.11",
+    "longitude": "121.05",
     "short_description": "대표 수향마을",
     "tags": "근교,수향마을,관광",
     "recommended_time": "afternoon",
@@ -548,8 +548,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "朱家角古镇",
+    "search_keyword_ko": "주가각"
   },
   {
     "id": "qibao",
@@ -559,7 +559,7 @@
     "subcategory": "수향마을·근교",
     "district": "",
     "latitude": "31.1500",
-    "longitude": "121.3500",
+    "longitude": "121.36",
     "short_description": "가까운 수향마을",
     "tags": "근교,먹거리,관광",
     "recommended_time": "afternoon",
@@ -572,8 +572,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "七宝古镇",
+    "search_keyword_ko": "치바오"
   },
   {
     "id": "panlong_tiandi",
@@ -582,8 +582,8 @@
     "category": "대표 관광지",
     "subcategory": "수향마을·근교",
     "district": "",
-    "latitude": "31.1890",
-    "longitude": "121.2710",
+    "latitude": "31.19",
+    "longitude": "121.28",
     "short_description": "새롭게 뜨는 수향마을",
     "tags": "근교,수향마을,쇼핑",
     "recommended_time": "afternoon",
@@ -596,8 +596,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "蟠龙天地",
+    "search_keyword_ko": "판롱티엔디"
   },
   {
     "id": "korean_provisional_government",
@@ -606,8 +606,8 @@
     "category": "독립운동유적",
     "subcategory": "역사 유적",
     "district": "",
-    "latitude": "31.2158",
-    "longitude": "121.4689",
+    "latitude": "31.22",
+    "longitude": "121.47",
     "short_description": "상하이 독립운동 유적",
     "tags": "역사,독립운동,한국",
     "recommended_time": "afternoon",
@@ -620,8 +620,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "大韩民国临时政府旧址",
+    "search_keyword_ko": "대한민국임시정부 유적지"
   },
   {
     "id": "luxun_park_yunbonggil",
@@ -630,8 +630,8 @@
     "category": "독립운동유적",
     "subcategory": "역사 유적",
     "district": "",
-    "latitude": "31.2800",
-    "longitude": "121.4840",
+    "latitude": "31.27",
+    "longitude": "121.48",
     "short_description": "윤봉길 의사 관련 유적",
     "tags": "역사,독립운동,한국",
     "recommended_time": "afternoon",
@@ -644,8 +644,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "上海鲁迅公园",
+    "search_keyword_ko": "루쉰공원 윤봉길의사기념관"
   },
   {
     "id": "north_bund_park",
@@ -654,8 +654,8 @@
     "category": "거리·산책",
     "subcategory": "야경 산책",
     "district": "",
-    "latitude": "31.2550",
-    "longitude": "121.5050",
+    "latitude": "31.25",
+    "longitude": "121.50",
     "short_description": "북와이탄 야경 포토존",
     "tags": "야경,사진,산책",
     "recommended_time": "night",
@@ -668,8 +668,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "北外滩滨江绿地",
+    "search_keyword_ko": "북와이탄 빈장공원"
   },
   {
     "id": "manner_north_bund",
@@ -678,8 +678,8 @@
     "category": "카페",
     "subcategory": "커피",
     "district": "",
-    "latitude": "31.2545",
-    "longitude": "121.5045",
+    "latitude": "31.25",
+    "longitude": "121.50",
     "short_description": "북와이탄 카페 포토존",
     "tags": "사진,카페,야경,특정지점",
     "recommended_time": "afternoon",
@@ -702,8 +702,8 @@
     "category": "거리·산책",
     "subcategory": "포토스팟",
     "district": "",
-    "latitude": "31.2445",
-    "longitude": "121.4918",
+    "latitude": "31.24",
+    "longitude": "121.49",
     "short_description": "와이탄 대표 포토 스팟",
     "tags": "다리,야경,사진",
     "recommended_time": "night",
@@ -716,8 +716,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "外白渡桥",
+    "search_keyword_ko": "외백도교"
   },
   {
     "id": "magic_matrix",
@@ -726,8 +726,8 @@
     "category": "거리·산책",
     "subcategory": "조형물 포토스팟",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.25",
+    "longitude": "121.50",
     "short_description": "북와이탄 조형물 포토존",
     "tags": "사진,조형물,핫플",
     "recommended_time": "afternoon",
@@ -740,8 +740,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "魔都矩阵",
+    "search_keyword_ko": "계란 조형물"
   },
   {
     "id": "rainbow_bridge",
@@ -750,8 +750,8 @@
     "category": "거리·산책",
     "subcategory": "포토스팟",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.14",
+    "longitude": "121.02",
     "short_description": "사진 찍기 좋은 다리",
     "tags": "사진,다리,야경",
     "recommended_time": "night",
@@ -764,8 +764,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "彩虹桥",
+    "search_keyword_ko": "레인보우 브릿지"
   },
   {
     "id": "huangpu_cruise",
@@ -774,8 +774,8 @@
     "category": "체험",
     "subcategory": "유람선",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.23",
+    "longitude": "121.50",
     "short_description": "황푸강 야경 유람선",
     "tags": "유람선,야경,체험",
     "recommended_time": "night",
@@ -788,8 +788,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "十六铺游船码头二区",
+    "search_keyword_ko": "황푸강 유람선"
   },
   {
     "id": "china_art_museum",
@@ -798,8 +798,8 @@
     "category": "박물관·문화",
     "subcategory": "미술관",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.18",
+    "longitude": "121.49",
     "short_description": "대형 현대미술 공간",
     "tags": "미술관,문화,실내",
     "recommended_time": "afternoon",
@@ -812,8 +812,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "中华艺术宫",
+    "search_keyword_ko": "중화예술궁"
   },
   {
     "id": "shanghai_museum",
@@ -822,8 +822,8 @@
     "category": "박물관·문화",
     "subcategory": "박물관",
     "district": "황푸구",
-    "latitude": "31.2303",
-    "longitude": "121.4705",
+    "latitude": "31.23",
+    "longitude": "121.48",
     "short_description": "상하이 대표 박물관",
     "tags": "박물관,문화,실내",
     "recommended_time": "afternoon",
@@ -837,8 +837,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "上海博物馆",
+    "search_keyword_ko": "상하이 박물관"
   },
   {
     "id": "shanghai_science_museum",
@@ -847,8 +847,8 @@
     "category": "박물관·문화",
     "subcategory": "박물관",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.22",
+    "longitude": "121.54",
     "short_description": "가족 여행 실내 명소",
     "tags": "박물관,가족,실내",
     "recommended_time": "afternoon",
@@ -861,8 +861,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "上海科技馆",
+    "search_keyword_ko": "상하이 과학기술관"
   },
   {
     "id": "shanghai_aquarium",
@@ -871,8 +871,8 @@
     "category": "박물관·문화",
     "subcategory": "수족관",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.24",
+    "longitude": "121.50",
     "short_description": "루자쭈이 실내 수족관",
     "tags": "수족관,가족,실내",
     "recommended_time": "afternoon",
@@ -885,8 +885,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "上海海洋水族馆",
+    "search_keyword_ko": "상하이 해양수족관"
   },
   {
     "id": "pudong_art_museum",
@@ -895,8 +895,8 @@
     "category": "박물관·문화",
     "subcategory": "미술관",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.24",
+    "longitude": "121.50",
     "short_description": "와이탄 전망 미술관",
     "tags": "미술관,전망,실내",
     "recommended_time": "afternoon",
@@ -909,8 +909,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "浦东美术馆",
+    "search_keyword_ko": "푸동 미술관"
   },
   {
     "id": "xujiahui_library",
@@ -919,8 +919,8 @@
     "category": "박물관·문화",
     "subcategory": "서점·문화공간",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.19",
+    "longitude": "121.44",
     "short_description": "분위기 좋은 문화 공간",
     "tags": "서점,문화,실내",
     "recommended_time": "afternoon",
@@ -933,8 +933,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "徐家汇书院",
+    "search_keyword_ko": "쉬자후이 서원"
   },
   {
     "id": "post_museum",
@@ -943,8 +943,8 @@
     "category": "박물관·문화",
     "subcategory": "박물관",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.24",
+    "longitude": "121.48",
     "short_description": "건축이 멋진 박물관",
     "tags": "박물관,건축,실내",
     "recommended_time": "afternoon",
@@ -957,8 +957,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "上海邮政博物馆",
+    "search_keyword_ko": "상하이 우정박물관"
   },
   {
     "id": "duoyun_bookstore",
@@ -967,8 +967,8 @@
     "category": "박물관·문화",
     "subcategory": "서점·문화공간",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.23",
+    "longitude": "121.51",
     "short_description": "상하이타워 52층 서점",
     "tags": "서점,전망,실내",
     "recommended_time": "afternoon",
@@ -981,8 +981,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "朵云书院·旗舰店",
+    "search_keyword_ko": "도운서원"
   },
   {
     "id": "wuzhen",
@@ -991,8 +991,8 @@
     "category": "대표 관광지",
     "subcategory": "수향마을·근교",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "30.75",
+    "longitude": "120.49",
     "short_description": "중국 대표 수향마을",
     "tags": "근교,수향마을,관광",
     "recommended_time": "afternoon",
@@ -1005,8 +1005,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "乌镇",
+    "search_keyword_ko": "우전"
   },
   {
     "id": "diandoude",
@@ -1195,12 +1195,12 @@
     "is_available_for_route": true,
     "sort_order": 50,
     "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
+    "is_chain": true,
+    "brand_is_chain": true,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "半酌烧烤小酒馆",
+    "search_keyword_ko": "하프어드링크 꼬치 술집"
   },
   {
     "id": "fengmao_skewer",
@@ -1233,8 +1233,8 @@
     "category": "맛집",
     "subcategory": "고기·꼬치",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.20",
+    "longitude": "121.42",
     "short_description": "로컬 꼬치구이 맛집",
     "tags": "꼬치,로컬,고기",
     "recommended_time": "evening",
@@ -1247,8 +1247,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "回味香烧烤",
+    "search_keyword_ko": "회미향 꼬치구이"
   },
   {
     "id": "nanjiang_skewer",
@@ -1267,12 +1267,12 @@
     "is_available_for_route": true,
     "sort_order": 53,
     "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
+    "is_chain": true,
+    "brand_is_chain": true,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "南疆小伙烤肉王",
+    "search_keyword_ko": "남강 소년 양꼬치왕"
   },
   {
     "id": "brother_bbq",
@@ -1291,12 +1291,12 @@
     "is_available_for_route": true,
     "sort_order": 54,
     "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
+    "is_chain": true,
+    "brand_is_chain": true,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "兄弟烤吧",
+    "search_keyword_ko": "형제 꼬치집"
   },
   {
     "id": "haidilao",
@@ -1339,12 +1339,12 @@
     "is_available_for_route": true,
     "sort_order": 56,
     "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
+    "is_chain": true,
+    "brand_is_chain": true,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "左庭右院鲜牛肉火锅",
+    "search_keyword_ko": "좌정우원"
   },
   {
     "id": "niunew_sukiyaki",
@@ -1363,12 +1363,12 @@
     "is_available_for_route": true,
     "sort_order": 57,
     "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
+    "is_chain": true,
+    "brand_is_chain": true,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "牛New寿喜烧",
+    "search_keyword_ko": "니우니우 스키야키"
   },
   {
     "id": "maotou_laodie",
@@ -1387,12 +1387,12 @@
     "is_available_for_route": true,
     "sort_order": 58,
     "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
+    "is_chain": true,
+    "brand_is_chain": true,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "毛头老爹饭店",
+    "search_keyword_ko": "마오터우 라오디에"
   },
   {
     "id": "guimanlong",
@@ -1411,12 +1411,12 @@
     "is_available_for_route": true,
     "sort_order": 59,
     "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
+    "is_chain": true,
+    "brand_is_chain": true,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "桂满陇",
+    "search_keyword_ko": "꾸이만롱"
   },
   {
     "id": "laojishi",
@@ -1435,36 +1435,12 @@
     "is_available_for_route": true,
     "sort_order": 60,
     "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
+    "is_chain": true,
+    "brand_is_chain": true,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
-  },
-  {
-    "id": "shanghai_laolao",
-    "name_ko": "상하이 라오라오",
-    "name_zh": "上海姥姥家常饭馆",
-    "category": "맛집",
-    "subcategory": "상하이요리",
-    "district": "",
-    "latitude": "",
-    "longitude": "",
-    "short_description": "상하이 가정식 맛집",
-    "tags": "상하이요리,가정식,식사",
-    "recommended_time": "evening",
-    "is_featured": false,
-    "is_visible_on_map": true,
-    "is_available_for_route": true,
-    "sort_order": 61,
-    "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
-    "is_specific_branch": false,
-    "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "老吉士",
+    "search_keyword_ko": "라오지스"
   },
   {
     "id": "waipojia",
@@ -1511,8 +1487,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "夜上海",
+    "search_keyword_ko": "예상하이"
   },
   {
     "id": "siji_minfu",
@@ -1593,8 +1569,8 @@
     "category": "맛집",
     "subcategory": "중식·홍콩요리",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.24",
+    "longitude": "121.49",
     "short_description": "와이탄 고급 중식당",
     "tags": "중식,고급,와이탄",
     "recommended_time": "evening",
@@ -1607,8 +1583,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "Hakkasan 餐厅",
+    "search_keyword_ko": "하카산"
   },
   {
     "id": "quanjude",
@@ -1651,12 +1627,12 @@
     "is_available_for_route": true,
     "sort_order": 69,
     "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
+    "is_chain": true,
+    "brand_is_chain": true,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "庄氏隆兴·蟹粉面道",
+    "search_keyword_ko": "장씨 융싱 게살국수"
   },
   {
     "id": "yuxingji",
@@ -1919,8 +1895,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "香江姳苑",
+    "search_keyword_ko": "홍콩음식점"
   },
   {
     "id": "sichuan_citizen",
@@ -1947,9 +1923,9 @@
     "search_keyword_ko": "쓰촨시티즌"
   },
   {
-    "id": "bianjie_danbing",
-    "name_ko": "비엔제 지단빙",
-    "name_zh": "卞姐蛋饼",
+    "id": "danbing",
+    "name_ko": "지단빙",
+    "name_zh": "蛋饼",
     "category": "맛집",
     "subcategory": "길거리음식",
     "district": "",
@@ -1963,12 +1939,12 @@
     "is_available_for_route": true,
     "sort_order": 82,
     "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
+    "is_chain": true,
+    "brand_is_chain": true,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "蛋饼",
+    "search_keyword_ko": "지단빙"
   },
   {
     "id": "dingxing_danbing",
@@ -1977,8 +1953,8 @@
     "category": "맛집",
     "subcategory": "길거리음식",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.24",
+    "longitude": "121.47",
     "short_description": "로컬 지단빙 노점",
     "tags": "길거리음식,아침,로컬",
     "recommended_time": "morning",
@@ -1991,8 +1967,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "定兴路蛋饼摊",
+    "search_keyword_ko": "딩싱루 지단빙 노점"
   },
   {
     "id": "duojigu_jianbing",
@@ -2001,8 +1977,8 @@
     "category": "맛집",
     "subcategory": "길거리음식",
     "district": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.24",
+    "longitude": "121.49",
     "short_description": "간단한 지엔빙 맛집",
     "tags": "지엔빙,간식,로컬",
     "recommended_time": "morning",
@@ -2015,8 +1991,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "多几谷·煎饼凉皮",
+    "search_keyword_ko": "백화점지엔빙"
   },
   {
     "id": "shancheng_kaoyu",
@@ -2035,12 +2011,12 @@
     "is_available_for_route": true,
     "sort_order": 85,
     "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
+    "is_chain": true,
+    "brand_is_chain": true,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "山城炭烤鱼",
+    "search_keyword_ko": "산성 탄카오위"
   },
   {
     "id": "heytea",
@@ -2068,7 +2044,7 @@
   },
   {
     "id": "chagee",
-    "name_ko": "패왕차희",
+    "name_ko": "차지",
     "name_zh": "霸王茶姬",
     "category": "밀크티·음료",
     "subcategory": "밀크티·차",
@@ -2088,7 +2064,7 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "霸王茶姬",
-    "search_keyword_ko": "패왕차희"
+    "search_keyword_ko": "차지"
   },
   {
     "id": "amashouzuo",
@@ -2337,8 +2313,8 @@
     "category": "카페",
     "subcategory": "커피",
     "district": "",
-    "latitude": "31.2256",
-    "longitude": "121.4547",
+    "latitude": "31.23",
+    "longitude": "121.46",
     "short_description": "상하이 대표 리저브 매장",
     "tags": "커피,특정지점,카페,핫플",
     "recommended_time": "afternoon",
@@ -2396,12 +2372,12 @@
     "is_available_for_route": true,
     "sort_order": 100,
     "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
+    "is_chain": true,
+    "brand_is_chain": true,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "Punchline Coffee & Roaster",
+    "search_keyword_ko": "펀치라인 커피"
   },
   {
     "id": "the_press",
@@ -2420,12 +2396,12 @@
     "is_available_for_route": true,
     "sort_order": 101,
     "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
+    "is_chain": true,
+    "brand_is_chain": true,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "THE PRESS",
+    "search_keyword_ko": "더 프레스 카페"
   },
   {
     "id": "dugout",
@@ -2448,8 +2424,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "Dugout Brunch & Bistro",
+    "search_keyword_ko": "덕아웃 브런치"
   },
   {
     "id": "lillian_egg_tart",
@@ -2540,12 +2516,12 @@
     "is_available_for_route": true,
     "sort_order": 106,
     "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
+    "is_chain": true,
+    "brand_is_chain": true,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "FLUFFY.LFB 冰淇淋",
+    "search_keyword_ko": "플러피 아이스크림"
   },
   {
     "id": "marzo_13de",
@@ -2564,12 +2540,12 @@
     "is_available_for_route": true,
     "sort_order": 107,
     "status": "active",
-    "is_chain": false,
-    "brand_is_chain": false,
+    "is_chain": true,
+    "brand_is_chain": true,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "13DE MARZO CAFÉ",
+    "search_keyword_ko": "13DE 마르조 카페"
   },
   {
     "id": "dq",
@@ -2640,8 +2616,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": "",
+    "search_keyword_zh": "THE BVLGARI BAR",
+    "search_keyword_ko": "불가리 바",
     "address": "上海市静安区河南北路33号上海宝格丽酒店"
   },
   {
@@ -2665,8 +2641,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": "",
+    "search_keyword_zh": "Flair Rooftop",
+    "search_keyword_ko": "플레어 루프탑 바",
     "address": "上海市浦东新区世纪大道8号上海浦东丽思卡尔顿酒店"
   },
   {
@@ -2690,8 +2666,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "OPUS Lounge",
+    "search_keyword_ko": "오푸스 라운지"
   },
   {
     "id": "ad_astra",
@@ -2714,8 +2690,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "Ad Astra",
+    "search_keyword_ko": "아드 아스트라"
   },
   {
     "id": "the_captain",
@@ -2738,8 +2714,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": "",
+    "search_keyword_zh": "The Captain",
+    "search_keyword_ko": "더 캡틴 바",
     "address": "上海市黄浦区福州路37号"
   },
   {
@@ -2883,8 +2859,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": "",
+    "search_keyword_zh": "新世界城",
+    "search_keyword_ko": "신세계성",
     "address": "上海市黄浦区南京西路2-68号"
   },
   {
@@ -2908,8 +2884,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": "",
+    "search_keyword_zh": "第一百货商业中心",
+    "search_keyword_ko": "제일백화점",
     "address": "上海市黄浦区南京东路830号"
   },
   {
@@ -2957,8 +2933,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "名创优品 IP乐园",
+    "search_keyword_ko": "미니소 IP파크"
   },
   {
     "id": "harmay",
@@ -3152,8 +3128,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "塔皮屋",
+    "search_keyword_ko": "타기"
   },
   {
     "id": "blanbunny",
@@ -3273,8 +3249,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "桃源乡",
+    "search_keyword_ko": "도원향"
   },
   {
     "id": "kangdao_massage",
@@ -3297,8 +3273,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "康道按摩",
+    "search_keyword_ko": "강다오"
   },
   {
     "id": "capella_shanghai",
@@ -3322,8 +3298,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "建业里",
+    "search_keyword_ko": "카펠라 상하이"
   },
   {
     "id": "bulgari_hotel_shanghai",
@@ -3347,8 +3323,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "上海宝格丽酒店",
+    "search_keyword_ko": "불가리 호텔 상하이"
   },
   {
     "id": "maison_dongliang",
@@ -3372,8 +3348,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "栋梁之家",
+    "search_keyword_ko": "메종동량"
   },
   {
     "id": "prada_rongzhai",
@@ -3397,8 +3373,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "Prada 荣宅",
+    "search_keyword_ko": "미샹 프라다 롱자이"
   },
   {
     "id": "hakuna_matata",
@@ -3422,8 +3398,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "HAKUNA MATATA",
+    "search_keyword_ko": "하쿠나마타타"
   },
   {
     "id": "su_xiaoliu",
@@ -3472,8 +3448,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "LABELHOOD",
+    "search_keyword_ko": "라벨후드"
   },
   {
     "id": "shushu_tong",
@@ -3497,8 +3473,8 @@
     "brand_is_chain": false,
     "is_specific_branch": false,
     "map_action_type": "navigate",
-    "search_keyword_zh": "",
-    "search_keyword_ko": ""
+    "search_keyword_zh": "SHUSHU/TONG",
+    "search_keyword_ko": "슈슈통"
   },
   {
     "id": "coco_naicha",
@@ -4127,27 +4103,27 @@
     "status": "active"
   },
   {
-  "id": "haoxianglai",
-  "name_ko": "하오샹라이",
-  "name_zh": "好想来",
-  "category": "쇼핑",
-  "subcategory": "간식할인점",
-  "district": "상하이",
-  "latitude": "",
-  "longitude": "",
-  "short_description": "중국에서 인기 많은 초저가 간식·음료 할인 체인",
-  "tags": "간식,쇼핑,편의점,중국간식,할인매장",
-  "recommended_time": "evening",
-  "is_featured": false,
-  "is_visible_on_map": false,
-  "is_available_for_route": false,
-  "is_chain": true,
-  "brand_is_chain": true,
-  "is_specific_branch": false,
-  "map_action_type": "search_nearby",
-  "search_keyword_zh": "好想来",
-  "search_keyword_ko": "하오샹라이",
-  "sort_order": 210,
-  "status": "active"
-}
+    "id": "haoxianglai",
+    "name_ko": "하오샹라이",
+    "name_zh": "好想来",
+    "category": "쇼핑",
+    "subcategory": "간식할인점",
+    "district": "상하이",
+    "latitude": "",
+    "longitude": "",
+    "short_description": "중국에서 인기 많은 초저가 간식·음료 할인 체인",
+    "tags": "간식,쇼핑,편의점,중국간식,할인매장",
+    "recommended_time": "evening",
+    "is_featured": false,
+    "is_visible_on_map": false,
+    "is_available_for_route": false,
+    "is_chain": true,
+    "brand_is_chain": true,
+    "is_specific_branch": false,
+    "map_action_type": "search_nearby",
+    "search_keyword_zh": "好想来",
+    "search_keyword_ko": "하오샹라이",
+    "sort_order": 210,
+    "status": "active"
+  }
 ]
