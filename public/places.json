@@ -21,7 +21,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "上海浦东国际机场-T2航站楼",
-    "search_keyword_ko": "푸동국제공항 2터미널"
+    "search_keyword_ko": "푸동국제공항 2터미널",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "푸동국제공항 2터미널는 상하이 입출국 동선의 기준점으로 쓰기 좋은 교통 스팟이에요. 공항에서 시내로 이동할 때 터미널 위치를 먼저 확인하는 게 중요해요.",
+    "visit_tip_ko": "항공권의 터미널을 확인한 뒤, 지하철·공항버스·택시 중 이동 수단을 미리 정해두면 도착 후 덜 헤매요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "pvg_t1",
@@ -45,7 +53,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "上海浦东国际机场-T1航站楼",
-    "search_keyword_ko": "푸동국제공항 1터미널"
+    "search_keyword_ko": "푸동국제공항 1터미널",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "푸동국제공항 1터미널는 상하이 입출국 동선의 기준점으로 쓰기 좋은 교통 스팟이에요. 공항에서 시내로 이동할 때 터미널 위치를 먼저 확인하는 게 중요해요.",
+    "visit_tip_ko": "항공권의 터미널을 확인한 뒤, 지하철·공항버스·택시 중 이동 수단을 미리 정해두면 도착 후 덜 헤매요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "hongqiao_airport",
@@ -69,7 +85,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "上海虹桥国际机场",
-    "search_keyword_ko": "홍차오공항"
+    "search_keyword_ko": "홍차오공항",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "홍차오공항는 상하이 입출국 동선의 기준점으로 쓰기 좋은 교통 스팟이에요. 공항에서 시내로 이동할 때 터미널 위치를 먼저 확인하는 게 중요해요.",
+    "visit_tip_ko": "항공권의 터미널을 확인한 뒤, 지하철·공항버스·택시 중 이동 수단을 미리 정해두면 도착 후 덜 헤매요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "longyang_road_station",
@@ -93,7 +117,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "龙阳路地铁站",
-    "search_keyword_ko": "롱양루역"
+    "search_keyword_ko": "롱양루역",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "롱양루역는 공항·시내 이동을 연결해주는 환승 기준점으로 보기 좋아요. 교통 동선을 단순하게 잡고 싶은 여행자에게 유용해요.",
+    "visit_tip_ko": "환승역은 출구와 노선 방향이 중요하니, 이동 전 지도앱에서 목적지 출구를 한 번 더 확인해보세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "waitan",
@@ -121,7 +153,15 @@
     "thumbnail_url": "/images/places/waitan_01.jpg",
     "image_urls": [
       "/images/places/waitan_01.jpg"
-    ]
+    ],
+    "dianping_category": "景点/地标",
+    "local_review_summary_ko": "해질 무렵부터 밤까지 야경이 가장 예쁘다는 반응이 많고, 주말과 공휴일에는 사람이 많다는 후기가 많아요.",
+    "visit_tip_ko": "사진을 찍고 싶다면 해 질 무렵에 도착해 밝을 때와 야경을 함께 보는 걸 추천해요.",
+    "source_updated_at": "2026-05-27",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_url": ""
   },
   {
     "id": "oriental_pearl",
@@ -145,7 +185,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "东方明珠广播电视塔",
-    "search_keyword_ko": "동방명주타워"
+    "search_keyword_ko": "동방명주타워",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "동방명주타워는 상하이 스카이라인을 한눈에 보기 좋은 전망 스팟이에요. 날씨와 시간대에 따라 만족도가 크게 달라지는 곳이에요.",
+    "visit_tip_ko": "맑은 날 오후나 야경 시간대를 추천해요. 흐린 날에는 전망이 제한될 수 있어 날씨를 먼저 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "shanghai_disneyland",
@@ -169,7 +217,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "上海迪士尼度假区",
-    "search_keyword_ko": "상하이 디즈니랜드"
+    "search_keyword_ko": "상하이 디즈니랜드",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "상하이 디즈니랜드는 하루를 통째로 잡고 가는 대표 테마파크 스팟이에요. 가족 여행이나 놀이기구 중심 일정에 잘 맞아요.",
+    "visit_tip_ko": "인기 어트랙션은 대기가 길 수 있어 오픈 시간에 맞춰 입장하고, 앱 예약·패스트패스 정보를 미리 확인하는 게 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "wukang_building",
@@ -197,7 +253,15 @@
     "thumbnail_url": "/images/places/wukang_building_01.jpg",
     "image_urls": [
       "/images/places/wukang_building_01.jpg"
-    ]
+    ],
+    "dianping_category": "历史建筑/打卡点",
+    "local_review_summary_ko": "상하이 대표 포토스팟으로 많이 언급되며, 건물 전체가 잘 보이는 코너에서 사진을 찍는 사람이 많아요.",
+    "visit_tip_ko": "사람이 적은 사진을 원하면 오전 시간대가 비교적 편하고, 우캉루 산책과 함께 보기 좋아요.",
+    "source_updated_at": "2026-05-27",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_url": ""
   },
   {
     "id": "yuyuan",
@@ -225,7 +289,15 @@
     "thumbnail_url": "/images/places/yuyuan_01.jpg",
     "image_urls": [
       "/images/places/yuyuan_01.jpg"
-    ]
+    ],
+    "dianping_category": "园林/老城厢",
+    "local_review_summary_ko": "전통 건축과 조명이 예뻐 사진 찍기 좋다는 반응이 많고, 주말과 저녁 시간에는 사람이 많다는 의견이 있어요.",
+    "visit_tip_ko": "전통 분위기를 느끼고 싶다면 낮, 조명과 야경을 보고 싶다면 저녁 시간대로 잡으면 좋아요.",
+    "source_updated_at": "2026-05-27",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_url": ""
   },
   {
     "id": "jingan_temple",
@@ -253,7 +325,15 @@
     "thumbnail_url": "/images/places/jingan_temple_01.jpg",
     "image_urls": [
       "/images/places/jingan_temple_01.jpg"
-    ]
+    ],
+    "dianping_category": "寺庙/景点",
+    "local_review_summary_ko": "도심 한가운데 있는 금빛 사찰이라 상하이의 현대적인 풍경과 대비가 인상적이라는 반응이 많아요.",
+    "visit_tip_ko": "낮에는 사찰 디테일이 잘 보이고, 저녁에는 주변 빌딩과 함께 보는 야경 분위기가 좋아요.",
+    "source_updated_at": "2026-05-27",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_url": ""
   },
   {
     "id": "shanghai_tower",
@@ -277,7 +357,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "上海中心大厦",
-    "search_keyword_ko": "상하이 타워"
+    "search_keyword_ko": "상하이 타워",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "상하이 타워는 상하이 스카이라인을 한눈에 보기 좋은 전망 스팟이에요. 날씨와 시간대에 따라 만족도가 크게 달라지는 곳이에요.",
+    "visit_tip_ko": "맑은 날 오후나 야경 시간대를 추천해요. 흐린 날에는 전망이 제한될 수 있어 날씨를 먼저 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "jinmao_tower",
@@ -301,7 +389,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "金茂大厦",
-    "search_keyword_ko": "진마오 타워"
+    "search_keyword_ko": "진마오 타워",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "진마오 타워는 상하이 스카이라인을 한눈에 보기 좋은 전망 스팟이에요. 날씨와 시간대에 따라 만족도가 크게 달라지는 곳이에요.",
+    "visit_tip_ko": "맑은 날 오후나 야경 시간대를 추천해요. 흐린 날에는 전망이 제한될 수 있어 날씨를 먼저 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "people_square",
@@ -325,7 +421,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "人民广场",
-    "search_keyword_ko": "인민광장"
+    "search_keyword_ko": "인민광장",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "인민광장는 상하이 주요 관광 동선에 넣기 좋은 대표 스팟이에요. 처음 여행하는 사람도 부담 없이 방문하기 좋아요.",
+    "visit_tip_ko": "오후 일정 중간에 넣기 좋고, 주변 산책 코스와 함께 묶기 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "nanjing_east",
@@ -353,7 +457,15 @@
     "thumbnail_url": "/images/places/nanjing_east_01.jpg",
     "image_urls": [
       "/images/places/nanjing_east_01.jpg"
-    ]
+    ],
+    "dianping_category": "商业街/步行街",
+    "local_review_summary_ko": "상하이 대표 보행가라 쇼핑과 야경을 함께 보기 좋지만, 관광객이 많고 피크 시간에는 붐빈다는 의견이 많아요.",
+    "visit_tip_ko": "와이탄 야경 전후 동선으로 묶기 좋고, 사람이 적은 시간대를 원하면 오전이나 이른 오후가 편해요.",
+    "source_updated_at": "2026-05-27",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_url": ""
   },
   {
     "id": "nanjing_west",
@@ -377,7 +489,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "南京西路",
-    "search_keyword_ko": "난징시루"
+    "search_keyword_ko": "난징시루",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "난징시루는 상하이의 거리 분위기를 느끼며 걷기 좋은 산책 스팟이에요. 카페, 상점, 골목 구경을 함께하기 좋아요.",
+    "visit_tip_ko": "목적지 하나만 찍고 가기보다 주변 골목과 카페를 같이 둘러보는 방식이 좋아요. 편한 신발을 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "xintiandi",
@@ -405,7 +525,15 @@
     "thumbnail_url": "/images/places/xintiandi_01.jpg",
     "image_urls": [
       "/images/places/xintiandi_01.jpg"
-    ]
+    ],
+    "dianping_category": "商业街区",
+    "local_review_summary_ko": "시쿠먼 건축과 카페·레스토랑 분위기가 좋아 저녁 산책지로 많이 언급되지만, 가격대는 비교적 높은 편이라는 반응이 있어요.",
+    "visit_tip_ko": "식사 목적이면 미리 후보 매장을 정하고, 산책 목적이면 해 질 무렵부터 저녁 시간대가 분위기 좋아요.",
+    "source_updated_at": "2026-05-27",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_url": ""
   },
   {
     "id": "wukang_road",
@@ -433,7 +561,15 @@
     "thumbnail_url": "/images/places/wukang_road_01.jpg",
     "image_urls": [
       "/images/places/wukang_road_01.jpg"
-    ]
+    ],
+    "dianping_category": "特色街区",
+    "local_review_summary_ko": "플라타너스 길과 오래된 건축물이 예뻐 산책과 사진 코스로 좋다는 반응이 많아요. 주말에는 인기 포토존 주변이 붐빌 수 있어요.",
+    "visit_tip_ko": "우캉대루, 안푸루, 카페 코스와 함께 천천히 걷는 일정으로 묶기 좋아요.",
+    "source_updated_at": "2026-05-27",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_url": ""
   },
   {
     "id": "anfu_road",
@@ -461,7 +597,15 @@
     "thumbnail_url": "/images/places/anfu_road_01.jpg",
     "image_urls": [
       "/images/places/anfu_road_01.jpg"
-    ]
+    ],
+    "dianping_category": "特色街区",
+    "local_review_summary_ko": "카페와 편집숍이 모여 있어 감성 산책 코스로 좋다는 반응이 많지만, 인기 매장은 웨이팅이 생길 수 있어요.",
+    "visit_tip_ko": "우캉루와 함께 묶고, 마음에 드는 카페는 피크 시간을 살짝 피해서 방문하는 걸 추천해요.",
+    "source_updated_at": "2026-05-27",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_url": ""
   },
   {
     "id": "yongkang_road",
@@ -485,7 +629,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "永康路",
-    "search_keyword_ko": "용캉루"
+    "search_keyword_ko": "용캉루",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "용캉루는 상하이의 거리 분위기를 느끼며 걷기 좋은 산책 스팟이에요. 카페, 상점, 골목 구경을 함께하기 좋아요.",
+    "visit_tip_ko": "목적지 하나만 찍고 가기보다 주변 골목과 카페를 같이 둘러보는 방식이 좋아요. 편한 신발을 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "sinan_road",
@@ -509,7 +661,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "思南路",
-    "search_keyword_ko": "쓰난루"
+    "search_keyword_ko": "쓰난루",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "쓰난루는 상하이의 거리 분위기를 느끼며 걷기 좋은 산책 스팟이에요. 카페, 상점, 골목 구경을 함께하기 좋아요.",
+    "visit_tip_ko": "목적지 하나만 찍고 가기보다 주변 골목과 카페를 같이 둘러보는 방식이 좋아요. 편한 신발을 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "tianzifang",
@@ -533,7 +693,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "田子坊",
-    "search_keyword_ko": "티엔즈팡"
+    "search_keyword_ko": "티엔즈팡",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "티엔즈팡는 상하이의 거리 분위기를 느끼며 걷기 좋은 산책 스팟이에요. 카페, 상점, 골목 구경을 함께하기 좋아요.",
+    "visit_tip_ko": "목적지 하나만 찍고 가기보다 주변 골목과 카페를 같이 둘러보는 방식이 좋아요. 편한 신발을 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "zhujiajiao",
@@ -557,7 +725,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "朱家角古镇",
-    "search_keyword_ko": "주가각"
+    "search_keyword_ko": "주가각",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "주가각는 상하이 도심과 다른 분위기를 느낄 수 있는 근교형 스팟이에요. 물길, 골목, 전통 건축을 함께 보는 일정에 좋아요.",
+    "visit_tip_ko": "이동 시간이 길 수 있으니 반나절 이상 여유를 두고, 주말보다는 평일 방문이 더 편해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "qibao",
@@ -581,7 +757,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "七宝古镇",
-    "search_keyword_ko": "치바오"
+    "search_keyword_ko": "치바오",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "치바오는 상하이 도심과 다른 분위기를 느낄 수 있는 근교형 스팟이에요. 물길, 골목, 전통 건축을 함께 보는 일정에 좋아요.",
+    "visit_tip_ko": "이동 시간이 길 수 있으니 반나절 이상 여유를 두고, 주말보다는 평일 방문이 더 편해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "panlong_tiandi",
@@ -605,7 +789,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "蟠龙天地",
-    "search_keyword_ko": "판롱티엔디"
+    "search_keyword_ko": "판롱티엔디",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "판롱티엔디는 상하이 도심과 다른 분위기를 느낄 수 있는 근교형 스팟이에요. 물길, 골목, 전통 건축을 함께 보는 일정에 좋아요.",
+    "visit_tip_ko": "이동 시간이 길 수 있으니 반나절 이상 여유를 두고, 주말보다는 평일 방문이 더 편해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "korean_provisional_government",
@@ -629,7 +821,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "大韩民国临时政府旧址",
-    "search_keyword_ko": "대한민국임시정부 유적지"
+    "search_keyword_ko": "대한민국임시정부 유적지",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "대한민국임시정부 유적지는 상하이에서 한국 근현대사를 함께 돌아볼 수 있는 의미 있는 역사 스팟이에요.",
+    "visit_tip_ko": "관람 전후로 주변 신천지·루쉰공원 등 근처 동선과 함께 묶으면 역사 여행 코스로 보기 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "luxun_park_yunbonggil",
@@ -653,7 +853,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "上海鲁迅公园",
-    "search_keyword_ko": "루쉰공원 윤봉길의사기념관"
+    "search_keyword_ko": "루쉰공원 윤봉길의사기념관",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "루쉰공원 윤봉길의사기념관는 상하이에서 한국 근현대사를 함께 돌아볼 수 있는 의미 있는 역사 스팟이에요.",
+    "visit_tip_ko": "관람 전후로 주변 신천지·루쉰공원 등 근처 동선과 함께 묶으면 역사 여행 코스로 보기 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "north_bund_park",
@@ -681,7 +889,15 @@
     "thumbnail_url": "/images/places/north_bund_park_01.jpg",
     "image_urls": [
       "/images/places/north_bund_park_01.jpg"
-    ]
+    ],
+    "dianping_category": "滨江公园/夜景",
+    "local_review_summary_ko": "루자쭈이 스카이라인을 비교적 여유롭게 볼 수 있어 야경 산책과 사진 코스로 좋다는 반응이 많아요.",
+    "visit_tip_ko": "와이탄보다 조금 여유로운 야경을 보고 싶을 때 좋고, 바람이 강할 수 있어 겉옷을 챙기면 좋아요.",
+    "source_updated_at": "2026-05-27",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_url": ""
   },
   {
     "id": "manner_north_bund",
@@ -705,7 +921,15 @@
     "is_specific_branch": true,
     "map_action_type": "navigate",
     "search_keyword_zh": "Manner Coffee 国客滨江店",
-    "search_keyword_ko": "북와이탄 매너커피"
+    "search_keyword_ko": "북와이탄 매너커피",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "북와이탄 매너커피는 여행 중 잠깐 쉬어가거나 커피 한 잔 마시기 좋은 카페 스팟이에요.",
+    "visit_tip_ko": "산책 동선 중간에 넣기 좋고, 인기 지점은 피크 시간대를 피하면 더 여유로워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "waibaidu_bridge",
@@ -729,7 +953,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "外白渡桥",
-    "search_keyword_ko": "외백도교"
+    "search_keyword_ko": "외백도교",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "외백도교는 짧게 들러 사진을 남기기 좋은 포토스팟이에요. 주변 산책 동선과 함께 묶기 좋아요.",
+    "visit_tip_ko": "포토스팟만 보고 이동하기보다 근처 카페나 거리 산책 코스와 함께 넣으면 동선이 더 자연스러워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "magic_matrix",
@@ -753,7 +985,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "魔都矩阵",
-    "search_keyword_ko": "계란 조형물"
+    "search_keyword_ko": "계란 조형물",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "계란 조형물는 짧게 들러 사진을 남기기 좋은 포토스팟이에요. 주변 산책 동선과 함께 묶기 좋아요.",
+    "visit_tip_ko": "포토스팟만 보고 이동하기보다 근처 카페나 거리 산책 코스와 함께 넣으면 동선이 더 자연스러워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "rainbow_bridge",
@@ -777,7 +1017,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "彩虹桥",
-    "search_keyword_ko": "레인보우 브릿지"
+    "search_keyword_ko": "레인보우 브릿지",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "레인보우 브릿지는 짧게 들러 사진을 남기기 좋은 포토스팟이에요. 주변 산책 동선과 함께 묶기 좋아요.",
+    "visit_tip_ko": "포토스팟만 보고 이동하기보다 근처 카페나 거리 산책 코스와 함께 넣으면 동선이 더 자연스러워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "huangpu_cruise",
@@ -801,7 +1049,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "十六铺游船码头二区",
-    "search_keyword_ko": "황푸강 유람선"
+    "search_keyword_ko": "황푸강 유람선",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "황푸강 유람선는 황푸강 위에서 상하이 야경을 한 번에 볼 수 있는 체험형 스팟이에요.",
+    "visit_tip_ko": "야경 시간대는 인기가 많아 미리 예매하거나 탑승 위치를 확인해두는 게 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "china_art_museum",
@@ -825,7 +1081,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "中华艺术宫",
-    "search_keyword_ko": "중화예술궁"
+    "search_keyword_ko": "중화예술궁",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "중화예술궁는 실내에서 전시와 공간 분위기를 함께 즐기기 좋은 문화 스팟이에요.",
+    "visit_tip_ko": "전시는 기간에 따라 만족도가 달라지니, 방문 전 현재 전시와 예약 여부를 확인하는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "shanghai_museum",
@@ -850,7 +1114,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "上海博物馆",
-    "search_keyword_ko": "상하이 박물관"
+    "search_keyword_ko": "상하이 박물관",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "상하이 박물관는 상하이의 역사와 문화를 실내에서 차분히 볼 수 있는 스팟이에요.",
+    "visit_tip_ko": "입장 예약이나 휴관일이 있을 수 있으니 방문 전 공식 안내를 확인하는 게 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "shanghai_science_museum",
@@ -874,7 +1146,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "上海科技馆",
-    "search_keyword_ko": "상하이 과학기술관"
+    "search_keyword_ko": "상하이 과학기술관",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "상하이 과학기술관는 상하이의 역사와 문화를 실내에서 차분히 볼 수 있는 스팟이에요.",
+    "visit_tip_ko": "입장 예약이나 휴관일이 있을 수 있으니 방문 전 공식 안내를 확인하는 게 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "shanghai_aquarium",
@@ -898,7 +1178,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "上海海洋水族馆",
-    "search_keyword_ko": "상하이 해양수족관"
+    "search_keyword_ko": "상하이 해양수족관",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "상하이 해양수족관는 가족 여행이나 실내 일정에 넣기 좋은 관람형 스팟이에요.",
+    "visit_tip_ko": "주말에는 가족 단위 방문객이 많을 수 있어 오전이나 평일 방문이 더 여유로워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "pudong_art_museum",
@@ -922,7 +1210,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "浦东美术馆",
-    "search_keyword_ko": "푸동 미술관"
+    "search_keyword_ko": "푸동 미술관",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "푸동 미술관는 실내에서 전시와 공간 분위기를 함께 즐기기 좋은 문화 스팟이에요.",
+    "visit_tip_ko": "전시는 기간에 따라 만족도가 달라지니, 방문 전 현재 전시와 예약 여부를 확인하는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "xujiahui_library",
@@ -946,7 +1242,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "徐家汇书院",
-    "search_keyword_ko": "쉬자후이 서원"
+    "search_keyword_ko": "쉬자후이 서원",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "쉬자후이 서원는 조용히 쉬어가며 상하이의 문화 공간 분위기를 느끼기 좋은 스팟이에요.",
+    "visit_tip_ko": "비 오는 날이나 더운 날 실내 코스로 넣기 좋아요. 사진 촬영 가능 구역은 현장 안내를 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "post_museum",
@@ -970,7 +1274,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "上海邮政博物馆",
-    "search_keyword_ko": "상하이 우정박물관"
+    "search_keyword_ko": "상하이 우정박물관",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "상하이 우정박물관는 상하이의 역사와 문화를 실내에서 차분히 볼 수 있는 스팟이에요.",
+    "visit_tip_ko": "입장 예약이나 휴관일이 있을 수 있으니 방문 전 공식 안내를 확인하는 게 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "duoyun_bookstore",
@@ -994,7 +1306,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "朵云书院·旗舰店",
-    "search_keyword_ko": "도운서원"
+    "search_keyword_ko": "도운서원",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "도운서원는 조용히 쉬어가며 상하이의 문화 공간 분위기를 느끼기 좋은 스팟이에요.",
+    "visit_tip_ko": "비 오는 날이나 더운 날 실내 코스로 넣기 좋아요. 사진 촬영 가능 구역은 현장 안내를 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "wuzhen",
@@ -1018,7 +1338,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "乌镇",
-    "search_keyword_ko": "우전"
+    "search_keyword_ko": "우전",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "우전는 상하이 도심과 다른 분위기를 느낄 수 있는 근교형 스팟이에요. 물길, 골목, 전통 건축을 함께 보는 일정에 좋아요.",
+    "visit_tip_ko": "이동 시간이 길 수 있으니 반나절 이상 여유를 두고, 주말보다는 평일 방문이 더 편해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "diandoude",
@@ -1042,7 +1370,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "点都德",
-    "search_keyword_ko": "점도덕"
+    "search_keyword_ko": "점도덕",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "점도덕는 상하이에서 가볍게 딤섬·샤오롱바오류를 먹고 싶을 때 보기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "뜨거운 육즙이 있는 메뉴가 많아 천천히 먹는 게 좋아요. 점심 피크에는 대기가 생길 수 있어요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "din_taifung",
@@ -1066,7 +1402,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "鼎泰丰",
-    "search_keyword_ko": "딘타이펑"
+    "search_keyword_ko": "딘타이펑",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "딘타이펑는 상하이에서 가볍게 딤섬·샤오롱바오류를 먹고 싶을 때 보기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "뜨거운 육즙이 있는 메뉴가 많아 천천히 먹는 게 좋아요. 점심 피크에는 대기가 생길 수 있어요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "jiajia_tangbao",
@@ -1090,7 +1434,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "佳家汤包",
-    "search_keyword_ko": "가가탕포"
+    "search_keyword_ko": "가가탕포",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "가가탕포 게살국수는 상하이에서 가볍게 딤섬·샤오롱바오류를 먹고 싶을 때 보기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "뜨거운 육즙이 있는 메뉴가 많아 천천히 먹는 게 좋아요. 점심 피크에는 대기가 생길 수 있어요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "lailai_xiaolong",
@@ -1115,7 +1467,15 @@
     "is_specific_branch": true,
     "map_action_type": "navigate",
     "search_keyword_zh": "莱莱小笼 乔艾",
-    "search_keyword_ko": "라이라이 샤오롱바오"
+    "search_keyword_ko": "라이라이 샤오롱바오",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "라이라이 샤오롱바오는 상하이에서 가볍게 딤섬·샤오롱바오류를 먹고 싶을 때 보기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "뜨거운 육즙이 있는 메뉴가 많아 천천히 먹는 게 좋아요. 점심 피크에는 대기가 생길 수 있어요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "yangs_dumpling",
@@ -1139,7 +1499,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "小杨生煎",
-    "search_keyword_ko": "소양생전"
+    "search_keyword_ko": "소양생전",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "소양생전는 상하이에서 가볍게 딤섬·샤오롱바오류를 먹고 싶을 때 보기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "뜨거운 육즙이 있는 메뉴가 많아 천천히 먹는 게 좋아요. 점심 피크에는 대기가 생길 수 있어요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "dahuchun",
@@ -1163,7 +1531,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "大壶春",
-    "search_keyword_ko": "대호춘"
+    "search_keyword_ko": "대호춘",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "대호춘는 상하이에서 가볍게 딤섬·샤오롱바오류를 먹고 싶을 때 보기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "뜨거운 육즙이 있는 메뉴가 많아 천천히 먹는 게 좋아요. 점심 피크에는 대기가 생길 수 있어요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "henjiu_yiqian",
@@ -1188,7 +1564,15 @@
     "is_specific_branch": true,
     "map_action_type": "navigate",
     "search_keyword_zh": "很久以前羊肉串 打浦路店",
-    "search_keyword_ko": "헌지우이치엔 다푸루점"
+    "search_keyword_ko": "헌지우이치엔 다푸루점",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "헌지우이치엔 양꼬치는 저녁에 고기나 꼬치류를 먹으며 하루를 마무리하기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "저녁 피크와 술자리 시간대에는 붐빌 수 있어 조금 이른 시간에 가는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "banzhuo_bbq",
@@ -1212,7 +1596,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "半酌烧烤小酒馆",
-    "search_keyword_ko": "하프어드링크 꼬치 술집"
+    "search_keyword_ko": "하프어드링크 꼬치 술집",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "하프어드링크 꼬치 술집는 저녁에 고기나 꼬치류를 먹으며 하루를 마무리하기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "저녁 피크와 술자리 시간대에는 붐빌 수 있어 조금 이른 시간에 가는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "fengmao_skewer",
@@ -1236,7 +1628,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "丰茂烤串",
-    "search_keyword_ko": "풍마오 양꼬치"
+    "search_keyword_ko": "풍마오 양꼬치",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "풍마오 양꼬치는 저녁에 고기나 꼬치류를 먹으며 하루를 마무리하기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "저녁 피크와 술자리 시간대에는 붐빌 수 있어 조금 이른 시간에 가는 걸 추천해요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "huiweixiang_bbq",
@@ -1260,7 +1660,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "回味香烧烤",
-    "search_keyword_ko": "회미향 꼬치구이"
+    "search_keyword_ko": "회미향 꼬치구이",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "회미향 꼬치구이는 저녁에 고기나 꼬치류를 먹으며 하루를 마무리하기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "저녁 피크와 술자리 시간대에는 붐빌 수 있어 조금 이른 시간에 가는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "nanjiang_skewer",
@@ -1284,7 +1692,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "南疆小伙烤肉王",
-    "search_keyword_ko": "남강 소년 양꼬치왕"
+    "search_keyword_ko": "남강 소년 양꼬치왕",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "남강 소년 양꼬치왕는 저녁에 고기나 꼬치류를 먹으며 하루를 마무리하기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "저녁 피크와 술자리 시간대에는 붐빌 수 있어 조금 이른 시간에 가는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "brother_bbq",
@@ -1308,7 +1724,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "兄弟烤吧",
-    "search_keyword_ko": "형제 꼬치집"
+    "search_keyword_ko": "형제 꼬치집",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "형제 꼬치집는 저녁에 고기나 꼬치류를 먹으며 하루를 마무리하기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "저녁 피크와 술자리 시간대에는 붐빌 수 있어 조금 이른 시간에 가는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "haidilao",
@@ -1332,7 +1756,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "海底捞火锅",
-    "search_keyword_ko": "하이디라오"
+    "search_keyword_ko": "하이디라오",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "하이디라오 훠궈는 여럿이 함께 먹기 좋은 훠궈·고기 요리 후보예요. 재료 선택과 국물 선택이 만족도를 좌우해요.",
+    "visit_tip_ko": "매운맛이 부담스럽다면 맑은 탕이나 반반탕을 고르고, 피크 시간에는 대기 여부를 먼저 확인하세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "zuotingyouyuan",
@@ -1356,7 +1788,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "左庭右院鲜牛肉火锅",
-    "search_keyword_ko": "좌정우원"
+    "search_keyword_ko": "좌정우원",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "좌정우원는 여럿이 함께 먹기 좋은 훠궈·고기 요리 후보예요. 재료 선택과 국물 선택이 만족도를 좌우해요.",
+    "visit_tip_ko": "매운맛이 부담스럽다면 맑은 탕이나 반반탕을 고르고, 피크 시간에는 대기 여부를 먼저 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "niunew_sukiyaki",
@@ -1380,7 +1820,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "牛New寿喜烧",
-    "search_keyword_ko": "니우니우 스키야키"
+    "search_keyword_ko": "니우니우 스키야키",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "니우니우 스키야키는 여럿이 함께 먹기 좋은 훠궈·고기 요리 후보예요. 재료 선택과 국물 선택이 만족도를 좌우해요.",
+    "visit_tip_ko": "매운맛이 부담스럽다면 맑은 탕이나 반반탕을 고르고, 피크 시간에는 대기 여부를 먼저 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "maotou_laodie",
@@ -1404,7 +1852,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "毛头老爹饭店",
-    "search_keyword_ko": "마오터우 라오디에"
+    "search_keyword_ko": "마오터우 라오디에",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "마오터우 라오디에는 상하이식·로컬 중식을 경험해보고 싶을 때 넣기 좋은 식사 후보예요.",
+    "visit_tip_ko": "대표 메뉴를 2~3개 골라 나눠 먹는 방식이 좋아요. 인원이 적다면 주문량을 살짝 줄이세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "guimanlong",
@@ -1428,7 +1884,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "桂满陇",
-    "search_keyword_ko": "꾸이만롱"
+    "search_keyword_ko": "꾸이만롱",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "꾸이만롱는 상하이식·로컬 중식을 경험해보고 싶을 때 넣기 좋은 식사 후보예요.",
+    "visit_tip_ko": "대표 메뉴를 2~3개 골라 나눠 먹는 방식이 좋아요. 인원이 적다면 주문량을 살짝 줄이세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "laojishi",
@@ -1452,7 +1916,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "老吉士",
-    "search_keyword_ko": "라오지스"
+    "search_keyword_ko": "라오지스",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "라오지스는 상하이식·로컬 중식을 경험해보고 싶을 때 넣기 좋은 식사 후보예요.",
+    "visit_tip_ko": "대표 메뉴를 2~3개 골라 나눠 먹는 방식이 좋아요. 인원이 적다면 주문량을 살짝 줄이세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "waipojia",
@@ -1476,7 +1948,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "外婆家",
-    "search_keyword_ko": "와이포지아"
+    "search_keyword_ko": "와이포지아",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "와이포지아는 상하이식·로컬 중식을 경험해보고 싶을 때 넣기 좋은 식사 후보예요.",
+    "visit_tip_ko": "대표 메뉴를 2~3개 골라 나눠 먹는 방식이 좋아요. 인원이 적다면 주문량을 살짝 줄이세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "ye_shanghai",
@@ -1500,7 +1980,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "夜上海",
-    "search_keyword_ko": "예상하이"
+    "search_keyword_ko": "예상하이",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "예상하이는 베이징덕이나 오리 요리를 먹고 싶을 때 보기 좋은 중식 후보예요.",
+    "visit_tip_ko": "베이징덕은 조리 시간이 걸릴 수 있어 식사 시간을 넉넉히 잡고, 인원 수에 맞춰 주문하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "siji_minfu",
@@ -1524,7 +2012,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "四季民福",
-    "search_keyword_ko": "사계민복"
+    "search_keyword_ko": "사계민복",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "사계민복는 베이징덕이나 오리 요리를 먹고 싶을 때 보기 좋은 중식 후보예요.",
+    "visit_tip_ko": "베이징덕은 조리 시간이 걸릴 수 있어 식사 시간을 넉넉히 잡고, 인원 수에 맞춰 주문하세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "dadong",
@@ -1548,7 +2044,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "大董",
-    "search_keyword_ko": "다동"
+    "search_keyword_ko": "다동",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "다동는 베이징덕이나 오리 요리를 먹고 싶을 때 보기 좋은 중식 후보예요.",
+    "visit_tip_ko": "베이징덕은 조리 시간이 걸릴 수 있어 식사 시간을 넉넉히 잡고, 인원 수에 맞춰 주문하세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "xiaodadong",
@@ -1572,7 +2076,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "小大董",
-    "search_keyword_ko": "샤오다동"
+    "search_keyword_ko": "샤오다동",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "샤오다동는 베이징덕이나 오리 요리를 먹고 싶을 때 보기 좋은 중식 후보예요.",
+    "visit_tip_ko": "베이징덕은 조리 시간이 걸릴 수 있어 식사 시간을 넉넉히 잡고, 인원 수에 맞춰 주문하세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "hakkasan",
@@ -1596,7 +2108,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "Hakkasan 餐厅",
-    "search_keyword_ko": "하카산"
+    "search_keyword_ko": "하카산",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "하카산는 조금 더 세련된 중식이나 홍콩식 요리를 찾을 때 보기 좋은 후보예요.",
+    "visit_tip_ko": "가격대가 높을 수 있으니 메뉴판과 위치를 먼저 확인하고, 특별한 저녁 일정에 넣기 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "quanjude",
@@ -1620,7 +2140,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "全聚德",
-    "search_keyword_ko": "전취덕"
+    "search_keyword_ko": "전취덕",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "전취덕는 베이징덕이나 오리 요리를 먹고 싶을 때 보기 좋은 중식 후보예요.",
+    "visit_tip_ko": "베이징덕은 조리 시간이 걸릴 수 있어 식사 시간을 넉넉히 잡고, 인원 수에 맞춰 주문하세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "zhuangshi_longxing",
@@ -1644,7 +2172,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "庄氏隆兴·蟹粉面道",
-    "search_keyword_ko": "장씨 융싱 게살국수"
+    "search_keyword_ko": "장씨 융싱 게살국수",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "장씨 융싱 게살국수는 국물 있는 한 끼나 간단한 면 요리가 당길 때 넣기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "혼밥이나 짧은 점심 일정에 잘 맞아요. 매운 메뉴는 주문 전 맵기 정도를 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "yuxingji",
@@ -1668,7 +2204,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "裕兴记",
-    "search_keyword_ko": "위싱지"
+    "search_keyword_ko": "위싱지",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "위싱지 게살국수는 국물 있는 한 끼나 간단한 면 요리가 당길 때 넣기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "혼밥이나 짧은 점심 일정에 잘 맞아요. 매운 메뉴는 주문 전 맵기 정도를 확인하세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "xiaoman_rice_noodle",
@@ -1692,7 +2236,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "小满手工粉",
-    "search_keyword_ko": "샤오만 쌀국수"
+    "search_keyword_ko": "샤오만 쌀국수",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "샤오만 쌀국수는 국물 있는 한 끼나 간단한 면 요리가 당길 때 넣기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "혼밥이나 짧은 점심 일정에 잘 맞아요. 매운 메뉴는 주문 전 맵기 정도를 확인하세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "red_lips",
@@ -1716,7 +2268,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "红唇串串香",
-    "search_keyword_ko": "레드립스"
+    "search_keyword_ko": "레드립스",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "레드립스는 얼얼하고 매운 중국식 맛을 경험하고 싶을 때 보기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "매운맛에 약하다면 덜 맵게 요청하거나 음료를 함께 준비하는 게 좋아요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "fei_dachu",
@@ -1740,7 +2300,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "费大厨辣椒炒肉",
-    "search_keyword_ko": "페이다추"
+    "search_keyword_ko": "페이다추",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "페이다추는 얼얼하고 매운 중국식 맛을 경험하고 싶을 때 보기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "매운맛에 약하다면 덜 맵게 요청하거나 음료를 함께 준비하는 게 좋아요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "dongbei_renjia",
@@ -1764,7 +2332,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "东北人家",
-    "search_keyword_ko": "동베이 런지아"
+    "search_keyword_ko": "동베이 런지아",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "동베이 런지아는 상하이식·로컬 중식을 경험해보고 싶을 때 넣기 좋은 식사 후보예요.",
+    "visit_tip_ko": "대표 메뉴를 2~3개 골라 나눠 먹는 방식이 좋아요. 인원이 적다면 주문량을 살짝 줄이세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "dongbei_dumpling",
@@ -1788,7 +2364,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "东北四季饺子王",
-    "search_keyword_ko": "동북 사계 만두왕"
+    "search_keyword_ko": "동북 사계 만두왕",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "동북 사계 만두왕는 상하이식·로컬 중식을 경험해보고 싶을 때 넣기 좋은 식사 후보예요.",
+    "visit_tip_ko": "대표 메뉴를 2~3개 골라 나눠 먹는 방식이 좋아요. 인원이 적다면 주문량을 살짝 줄이세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "longmenzhen",
@@ -1812,7 +2396,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "龙门阵茶屋川菜",
-    "search_keyword_ko": "롱먼전 사천요리"
+    "search_keyword_ko": "롱먼전 사천요리",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "롱먼전 사천요리는 얼얼하고 매운 중국식 맛을 경험하고 싶을 때 보기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "매운맛에 약하다면 덜 맵게 요청하거나 음료를 함께 준비하는 게 좋아요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "huangmenji",
@@ -1836,7 +2428,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "黄焖鸡",
-    "search_keyword_ko": "황먼지"
+    "search_keyword_ko": "황먼지",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "황먼지는 상하이식·로컬 중식을 경험해보고 싶을 때 넣기 좋은 식사 후보예요.",
+    "visit_tip_ko": "대표 메뉴를 2~3개 골라 나눠 먹는 방식이 좋아요. 인원이 적다면 주문량을 살짝 줄이세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "xiangjiang",
@@ -1860,7 +2460,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "香江姳苑",
-    "search_keyword_ko": "홍콩음식점"
+    "search_keyword_ko": "홍콩음식점",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "홍콩음식점는 조금 더 세련된 중식이나 홍콩식 요리를 찾을 때 보기 좋은 후보예요.",
+    "visit_tip_ko": "가격대가 높을 수 있으니 메뉴판과 위치를 먼저 확인하고, 특별한 저녁 일정에 넣기 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "sichuan_citizen",
@@ -1884,7 +2492,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "Sichuan Citizen",
-    "search_keyword_ko": "쓰촨시티즌"
+    "search_keyword_ko": "쓰촨시티즌",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "쓰촨시티즌는 얼얼하고 매운 중국식 맛을 경험하고 싶을 때 보기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "매운맛에 약하다면 덜 맵게 요청하거나 음료를 함께 준비하는 게 좋아요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "danbing",
@@ -1908,7 +2524,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "蛋饼",
-    "search_keyword_ko": "지단빙"
+    "search_keyword_ko": "지단빙",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "지단빙는 현지 간식이나 길거리 음식 분위기를 가볍게 경험하기 좋은 스팟이에요.",
+    "visit_tip_ko": "현금보다 모바일 결제가 편한 곳이 많고, 위생과 대기 줄을 보고 선택하는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "dingxing_danbing",
@@ -1932,7 +2556,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "定兴路蛋饼摊",
-    "search_keyword_ko": "딩싱루 지단빙 노점"
+    "search_keyword_ko": "딩싱루 지단빙 노점",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "딩싱루 지단빙 노점는 현지 간식이나 길거리 음식 분위기를 가볍게 경험하기 좋은 스팟이에요.",
+    "visit_tip_ko": "현금보다 모바일 결제가 편한 곳이 많고, 위생과 대기 줄을 보고 선택하는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "duojigu_jianbing",
@@ -1956,7 +2588,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "多几谷·煎饼凉皮",
-    "search_keyword_ko": "백화점지엔빙"
+    "search_keyword_ko": "백화점지엔빙",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "백화점지엔빙는 현지 간식이나 길거리 음식 분위기를 가볍게 경험하기 좋은 스팟이에요.",
+    "visit_tip_ko": "현금보다 모바일 결제가 편한 곳이 많고, 위생과 대기 줄을 보고 선택하는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "shancheng_kaoyu",
@@ -1980,7 +2620,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "山城炭烤鱼",
-    "search_keyword_ko": "산성 탄카오위"
+    "search_keyword_ko": "산성 탄카오위",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "산성 탄카오위는 해산물이나 생선 요리를 먹고 싶을 때 보기 좋은 식사 후보예요.",
+    "visit_tip_ko": "해산물 메뉴는 가격과 주문 단위를 먼저 확인하고, 여러 명이 함께 가면 더 다양하게 먹기 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "heytea",
@@ -2004,7 +2652,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "喜茶",
-    "search_keyword_ko": "헤이티"
+    "search_keyword_ko": "헤이티",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "헤이티는 중국식 밀크티와 차 음료를 경험하기 좋은 음료 스팟이에요.",
+    "visit_tip_ko": "인기 메뉴는 당도가 높은 편일 수 있어 처음엔 당도 조절을 추천해요. 가까운 지점을 검색해 가면 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "chagee",
@@ -2028,7 +2684,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "霸王茶姬",
-    "search_keyword_ko": "차지"
+    "search_keyword_ko": "차지",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "차지는 중국식 밀크티와 차 음료를 경험하기 좋은 음료 스팟이에요.",
+    "visit_tip_ko": "인기 메뉴는 당도가 높은 편일 수 있어 처음엔 당도 조절을 추천해요. 가까운 지점을 검색해 가면 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "amashouzuo",
@@ -2052,7 +2716,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "阿嬷手作",
-    "search_keyword_ko": "아마수작"
+    "search_keyword_ko": "아마수작",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "아마수작는 중국식 밀크티와 차 음료를 경험하기 좋은 음료 스팟이에요.",
+    "visit_tip_ko": "인기 메뉴는 당도가 높은 편일 수 있어 처음엔 당도 조절을 추천해요. 가까운 지점을 검색해 가면 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "auntea_jenny",
@@ -2076,7 +2748,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "沪上阿姨",
-    "search_keyword_ko": "아운티제니"
+    "search_keyword_ko": "아운티제니",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "아운티제니는 중국식 밀크티와 차 음료를 경험하기 좋은 음료 스팟이에요.",
+    "visit_tip_ko": "인기 메뉴는 당도가 높은 편일 수 있어 처음엔 당도 조절을 추천해요. 가까운 지점을 검색해 가면 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "lelecha",
@@ -2100,7 +2780,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "乐乐茶",
-    "search_keyword_ko": "러러차"
+    "search_keyword_ko": "러러차",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "러러차는 중국식 밀크티와 차 음료를 경험하기 좋은 음료 스팟이에요.",
+    "visit_tip_ko": "인기 메뉴는 당도가 높은 편일 수 있어 처음엔 당도 조절을 추천해요. 가까운 지점을 검색해 가면 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "mixue",
@@ -2124,7 +2812,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "蜜雪冰城",
-    "search_keyword_ko": "미쉐빙청"
+    "search_keyword_ko": "미쉐빙청",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "미쉐빙청는 과일티나 시원한 음료가 당길 때 가볍게 들르기 좋은 음료 브랜드예요.",
+    "visit_tip_ko": "더운 날 이동 중에 넣기 좋고, 당도·얼음 옵션을 조절하면 입맛에 맞추기 쉬워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "naixue",
@@ -2148,7 +2844,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "奈雪的茶",
-    "search_keyword_ko": "나이슈에"
+    "search_keyword_ko": "나이슈에",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "나이슈에는 과일티나 시원한 음료가 당길 때 가볍게 들르기 좋은 음료 브랜드예요.",
+    "visit_tip_ko": "더운 날 이동 중에 넣기 좋고, 당도·얼음 옵션을 조절하면 입맛에 맞추기 쉬워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "linlee",
@@ -2172,7 +2876,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "柠季",
-    "search_keyword_ko": "닝지"
+    "search_keyword_ko": "닝지",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "닝지는 과일티나 시원한 음료가 당길 때 가볍게 들르기 좋은 음료 브랜드예요.",
+    "visit_tip_ko": "더운 날 이동 중에 넣기 좋고, 당도·얼음 옵션을 조절하면 입맛에 맞추기 쉬워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "more_yogurt",
@@ -2196,7 +2908,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "茉酸奶",
-    "search_keyword_ko": "모어요거트"
+    "search_keyword_ko": "모어요거트",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "모어요거트는 달달하고 가볍게 마실 요거트 음료가 필요할 때 보기 좋은 음료 스팟이에요.",
+    "visit_tip_ko": "식사 후 디저트처럼 들르기 좋고, 당도와 얼음 옵션을 조절하면 더 편하게 마실 수 있어요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "manner_coffee",
@@ -2220,7 +2940,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "Manner Coffee",
-    "search_keyword_ko": "매너커피"
+    "search_keyword_ko": "매너커피",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "매너커피는 여행 중 잠깐 쉬어가거나 커피 한 잔 마시기 좋은 카페 스팟이에요.",
+    "visit_tip_ko": "산책 동선 중간에 넣기 좋고, 인기 지점은 피크 시간대를 피하면 더 여유로워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "luckin_coffee",
@@ -2244,7 +2972,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "瑞幸咖啡",
-    "search_keyword_ko": "루이싱커피"
+    "search_keyword_ko": "루이싱커피",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "루이싱커피는 여행 중 잠깐 쉬어가거나 커피 한 잔 마시기 좋은 카페 스팟이에요.",
+    "visit_tip_ko": "산책 동선 중간에 넣기 좋고, 인기 지점은 피크 시간대를 피하면 더 여유로워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "starbucks",
@@ -2268,7 +3004,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "星巴克",
-    "search_keyword_ko": "스타벅스"
+    "search_keyword_ko": "스타벅스",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "스타벅스는 여행 중 잠깐 쉬어가거나 커피 한 잔 마시기 좋은 카페 스팟이에요.",
+    "visit_tip_ko": "산책 동선 중간에 넣기 좋고, 인기 지점은 피크 시간대를 피하면 더 여유로워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "starbucks_reserve",
@@ -2293,7 +3037,15 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "星巴克臻选 上海烘焙工坊",
     "search_keyword_ko": "스타벅스 리저브 상하이",
-    "address": "上海市静安区南京西路789号"
+    "address": "上海市静安区南京西路789号",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "스타벅스 리저브 상하이는 여행 중 잠깐 쉬어가거나 커피 한 잔 마시기 좋은 카페 스팟이에요.",
+    "visit_tip_ko": "산책 동선 중간에 넣기 좋고, 인기 지점은 피크 시간대를 피하면 더 여유로워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "seesaw_coffee",
@@ -2317,7 +3069,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "Seesaw咖啡",
-    "search_keyword_ko": "시소커피"
+    "search_keyword_ko": "시소커피",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "시소커피는 여행 중 잠깐 쉬어가거나 커피 한 잔 마시기 좋은 카페 스팟이에요.",
+    "visit_tip_ko": "산책 동선 중간에 넣기 좋고, 인기 지점은 피크 시간대를 피하면 더 여유로워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "punchline_coffee",
@@ -2341,7 +3101,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "Punchline Coffee & Roaster",
-    "search_keyword_ko": "펀치라인 커피"
+    "search_keyword_ko": "펀치라인 커피",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "펀치라인 커피는 여행 중 잠깐 쉬어가거나 커피 한 잔 마시기 좋은 카페 스팟이에요.",
+    "visit_tip_ko": "산책 동선 중간에 넣기 좋고, 인기 지점은 피크 시간대를 피하면 더 여유로워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "the_press",
@@ -2365,7 +3133,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "THE PRESS",
-    "search_keyword_ko": "더 프레스 카페"
+    "search_keyword_ko": "더 프레스 카페",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "더 프레스 카페는 커피와 브런치를 함께 즐기며 쉬어가기 좋은 카페 스팟이에요.",
+    "visit_tip_ko": "오전 늦게나 오후 초반에 넣기 좋고, 주말에는 대기가 있을 수 있어요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "dugout",
@@ -2389,7 +3165,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "Dugout Brunch & Bistro",
-    "search_keyword_ko": "덕아웃 브런치"
+    "search_keyword_ko": "덕아웃 브런치",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "덕아웃 브런치는 커피와 브런치를 함께 즐기며 쉬어가기 좋은 카페 스팟이에요.",
+    "visit_tip_ko": "오전 늦게나 오후 초반에 넣기 좋고, 주말에는 대기가 있을 수 있어요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "lillian_egg_tart",
@@ -2413,7 +3197,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "莉莲蛋挞",
-    "search_keyword_ko": "릴리안 에그타르트"
+    "search_keyword_ko": "릴리안 에그타르트",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "릴리안 에그타르트는 간식으로 먹기 좋은 베이커리 스팟이에요. 이동 중 가볍게 들르기 좋아요.",
+    "visit_tip_ko": "따뜻할 때 먹으면 더 맛있고, 여러 개 사서 나눠 먹기 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "holiland",
@@ -2437,7 +3229,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "好利来",
-    "search_keyword_ko": "홀리랜드"
+    "search_keyword_ko": "홀리랜드",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "홀리랜드는 빵이나 디저트를 가볍게 사기 좋은 스팟이에요.",
+    "visit_tip_ko": "식사 후 디저트나 숙소에서 먹을 간식으로 넣기 좋아요. 인기 메뉴는 품절될 수 있어요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "shendacheng",
@@ -2461,7 +3261,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "沈大成",
-    "search_keyword_ko": "심대성"
+    "search_keyword_ko": "심대성",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "심대성는 빵이나 디저트를 가볍게 사기 좋은 스팟이에요.",
+    "visit_tip_ko": "식사 후 디저트나 숙소에서 먹을 간식으로 넣기 좋아요. 인기 메뉴는 품절될 수 있어요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "fluffy_icecream",
@@ -2485,7 +3293,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "FLUFFY.LFB 冰淇淋",
-    "search_keyword_ko": "플러피 아이스크림"
+    "search_keyword_ko": "플러피 아이스크림",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "플러피 아이스크림는 더운 날이나 식사 후 가볍게 들르기 좋은 디저트 스팟이에요.",
+    "visit_tip_ko": "주변 산책 코스와 함께 넣기 좋고, 녹기 쉬우니 바로 먹을 수 있는 동선에서 구매하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "marzo_13de",
@@ -2509,7 +3325,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "13DE MARZO CAFÉ",
-    "search_keyword_ko": "13DE 마르조 카페"
+    "search_keyword_ko": "13DE 마르조 카페",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "13DE 마르조 카페는 빵이나 디저트를 가볍게 사기 좋은 스팟이에요.",
+    "visit_tip_ko": "식사 후 디저트나 숙소에서 먹을 간식으로 넣기 좋아요. 인기 메뉴는 품절될 수 있어요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "dq",
@@ -2533,7 +3357,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "DQ 蛋糕 冰淇淋",
-    "search_keyword_ko": "디큐"
+    "search_keyword_ko": "디큐",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "디큐 아이스크림는 더운 날이나 식사 후 가볍게 들르기 좋은 디저트 스팟이에요.",
+    "visit_tip_ko": "주변 산책 코스와 함께 넣기 좋고, 녹기 쉬우니 바로 먹을 수 있는 동선에서 구매하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "haagen_dazs",
@@ -2557,7 +3389,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "哈根达斯",
-    "search_keyword_ko": "하겐다즈"
+    "search_keyword_ko": "하겐다즈",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "하겐다즈는 더운 날이나 식사 후 가볍게 들르기 좋은 디저트 스팟이에요.",
+    "visit_tip_ko": "주변 산책 코스와 함께 넣기 좋고, 녹기 쉬우니 바로 먹을 수 있는 동선에서 구매하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "bvlgari_bar",
@@ -2582,7 +3422,15 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "THE BVLGARI BAR",
     "search_keyword_ko": "불가리 바",
-    "address": "上海市静安区河南北路33号上海宝格丽酒店47层"
+    "address": "上海市静安区河南北路33号上海宝格丽酒店47层",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "불가리 바는 상하이의 밤 분위기를 느끼며 한 잔 하기 좋은 바·라운지 후보예요.",
+    "visit_tip_ko": "가격대와 드레스코드가 있을 수 있으니 방문 전 메뉴와 예약 여부를 확인하세요. 야경석은 일찍 가는 게 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "flair_rooftop",
@@ -2607,7 +3455,15 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "FLAIR顶层餐厅酒吧",
     "search_keyword_ko": "플레어 루프탑 바",
-    "address": "上海市浦东新区世纪大道8号上海浦东丽思卡尔顿酒店"
+    "address": "上海市浦东新区世纪大道8号上海浦东丽思卡尔顿酒店",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "플레어 루프탑 바는 상하이의 밤 분위기를 느끼며 한 잔 하기 좋은 바·라운지 후보예요.",
+    "visit_tip_ko": "가격대와 드레스코드가 있을 수 있으니 방문 전 메뉴와 예약 여부를 확인하세요. 야경석은 일찍 가는 게 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "opus_lounge",
@@ -2631,7 +3487,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "OPUS Lounge",
-    "search_keyword_ko": "오푸스 라운지"
+    "search_keyword_ko": "오푸스 라운지",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "오푸스 라운지는 상하이의 밤 분위기를 느끼며 한 잔 하기 좋은 바·라운지 후보예요.",
+    "visit_tip_ko": "가격대와 드레스코드가 있을 수 있으니 방문 전 메뉴와 예약 여부를 확인하세요. 야경석은 일찍 가는 게 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "ad_astra",
@@ -2655,7 +3519,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "Ad Astra·Whisky&Cocktail",
-    "search_keyword_ko": "아드 아스트라"
+    "search_keyword_ko": "아드 아스트라",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "아드 아스트라는 상하이의 밤 분위기를 느끼며 한 잔 하기 좋은 바·라운지 후보예요.",
+    "visit_tip_ko": "가격대와 드레스코드가 있을 수 있으니 방문 전 메뉴와 예약 여부를 확인하세요. 야경석은 일찍 가는 게 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "the_captain",
@@ -2680,7 +3552,15 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "The Captain 船长餐厅酒吧",
     "search_keyword_ko": "더 캡틴 바",
-    "address": "上海市黄浦区福州路37号6层"
+    "address": "上海市黄浦区福州路37号6层",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "더 캡틴 바는 상하이의 밤 분위기를 느끼며 한 잔 하기 좋은 바·라운지 후보예요.",
+    "visit_tip_ko": "가격대와 드레스코드가 있을 수 있으니 방문 전 메뉴와 예약 여부를 확인하세요. 야경석은 일찍 가는 게 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "mcdonalds",
@@ -2704,7 +3584,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "麦当劳",
-    "search_keyword_ko": "맥도날드"
+    "search_keyword_ko": "맥도날드",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "맥도날드는 중국 음식이 부담스럽거나 빠르게 한 끼 해결하고 싶을 때 유용한 익숙한 선택지예요.",
+    "visit_tip_ko": "쇼핑몰·역 근처 지점이 많아 이동 중 식사 대안으로 쓰기 좋아요. 매장별 운영 시간은 지도앱에서 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "kfc",
@@ -2728,7 +3616,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "肯德基",
-    "search_keyword_ko": "KFC"
+    "search_keyword_ko": "KFC",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "KFC는 중국 음식이 부담스럽거나 빠르게 한 끼 해결하고 싶을 때 유용한 익숙한 선택지예요.",
+    "visit_tip_ko": "쇼핑몰·역 근처 지점이 많아 이동 중 식사 대안으로 쓰기 좋아요. 매장별 운영 시간은 지도앱에서 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "burgerking",
@@ -2752,7 +3648,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "汉堡王",
-    "search_keyword_ko": "버거킹"
+    "search_keyword_ko": "버거킹",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "버거킹는 중국 음식이 부담스럽거나 빠르게 한 끼 해결하고 싶을 때 유용한 익숙한 선택지예요.",
+    "visit_tip_ko": "쇼핑몰·역 근처 지점이 많아 이동 중 식사 대안으로 쓰기 좋아요. 매장별 운영 시간은 지도앱에서 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "dicos",
@@ -2776,7 +3680,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "德克士",
-    "search_keyword_ko": "디코스"
+    "search_keyword_ko": "디코스",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "디코스는 중국 음식이 부담스럽거나 빠르게 한 끼 해결하고 싶을 때 유용한 익숙한 선택지예요.",
+    "visit_tip_ko": "쇼핑몰·역 근처 지점이 많아 이동 중 식사 대안으로 쓰기 좋아요. 매장별 운영 시간은 지도앱에서 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "yonghe_dawang",
@@ -2800,7 +3712,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "永和大王",
-    "search_keyword_ko": "영화대왕,용허따왕"
+    "search_keyword_ko": "영화대왕,용허따왕",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "영화대왕는 중국 음식이 부담스럽거나 빠르게 한 끼 해결하고 싶을 때 유용한 익숙한 선택지예요.",
+    "visit_tip_ko": "쇼핑몰·역 근처 지점이 많아 이동 중 식사 대안으로 쓰기 좋아요. 매장별 운영 시간은 지도앱에서 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "xinshijiecheng",
@@ -2825,7 +3745,15 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "新世界城",
     "search_keyword_ko": "신세계성",
-    "address": "上海市黄浦区南京西路2-68号"
+    "address": "上海市黄浦区南京西路2-68号",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "신세계성는 식사, 쇼핑, 실내 휴식을 한 번에 해결하기 좋은 쇼핑 스팟이에요.",
+    "visit_tip_ko": "비 오는 날이나 더운 날 실내 동선으로 넣기 좋고, 식당가와 화장실 위치를 먼저 확인하면 편해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "first_department_store",
@@ -2850,7 +3778,15 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "第一百货商业中心",
     "search_keyword_ko": "제일백화점",
-    "address": "上海市黄浦区南京东路830号"
+    "address": "上海市黄浦区南京东路830号",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "제일백화점는 식사, 쇼핑, 실내 휴식을 한 번에 해결하기 좋은 쇼핑 스팟이에요.",
+    "visit_tip_ko": "비 오는 날이나 더운 날 실내 동선으로 넣기 좋고, 식당가와 화장실 위치를 먼저 확인하면 편해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "miniso",
@@ -2874,7 +3810,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "名创优品",
-    "search_keyword_ko": "미니소"
+    "search_keyword_ko": "미니소",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "미니소는 기념품이나 브랜드 상품을 구경하기 좋은 쇼핑 스팟이에요.",
+    "visit_tip_ko": "여행 마지막 날에 몰아서 들르기보다 동선 가까울 때 가볍게 들르는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "miniso_no1",
@@ -2898,7 +3842,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "名创优品全球1号店",
-    "search_keyword_ko": "미니소 글로벌 1호점"
+    "search_keyword_ko": "미니소 글로벌 1호점",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "미니소 글로벌 1호점는 기념품이나 브랜드 상품을 구경하기 좋은 쇼핑 스팟이에요.",
+    "visit_tip_ko": "여행 마지막 날에 몰아서 들르기보다 동선 가까울 때 가볍게 들르는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "harmay",
@@ -2922,7 +3874,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "话梅",
-    "search_keyword_ko": "하메이"
+    "search_keyword_ko": "하메이",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "하메이는 중국 현지 뷰티·라이프스타일 쇼핑을 해보기 좋은 편집숍이에요.",
+    "visit_tip_ko": "인기 상품은 재고가 없을 수 있어 마음에 드는 제품은 바로 구매하는 편이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "disney_store",
@@ -2947,7 +3907,15 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "迪士尼商店",
     "search_keyword_ko": "디즈니 스토어",
-    "address": "陆家嘴街道丰和路180号(陆家嘴地铁站1号口步行270米)"
+    "address": "陆家嘴街道丰和路180号(陆家嘴地铁站1号口步行270米)",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "디즈니 스토어는 기념품이나 브랜드 상품을 구경하기 좋은 쇼핑 스팟이에요.",
+    "visit_tip_ko": "여행 마지막 날에 몰아서 들르기보다 동선 가까울 때 가볍게 들르는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "mms_world",
@@ -2972,7 +3940,15 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "m豆巧克力世界(上海世茂广场店)",
     "search_keyword_ko": "엠앤엠즈 월드",
-    "address": "上海市黄浦区南京东路829号"
+    "address": "上海市黄浦区南京东路829号",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "엠앤엠즈 월드는 기념품이나 브랜드 상품을 구경하기 좋은 쇼핑 스팟이에요.",
+    "visit_tip_ko": "여행 마지막 날에 몰아서 들르기보다 동선 가까울 때 가볍게 들르는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "lawson",
@@ -2996,7 +3972,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "罗森",
-    "search_keyword_ko": "로손"
+    "search_keyword_ko": "로손",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "로손는 여행 중 간식, 음료, 생활용품을 빠르게 사기 좋은 실용 스팟이에요.",
+    "visit_tip_ko": "숙소 근처 지점을 저장해두면 물, 간식, 간단한 아침을 사기 편해요. 일부 매장은 모바일 결제가 더 편해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "familymart",
@@ -3020,7 +4004,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "全家",
-    "search_keyword_ko": "패밀리마트"
+    "search_keyword_ko": "패밀리마트",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "패밀리마트는 여행 중 간식, 음료, 생활용품을 빠르게 사기 좋은 실용 스팟이에요.",
+    "visit_tip_ko": "숙소 근처 지점을 저장해두면 물, 간식, 간단한 아침을 사기 편해요. 일부 매장은 모바일 결제가 더 편해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "rt_mart",
@@ -3044,7 +4036,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "大润发",
-    "search_keyword_ko": "따룬파"
+    "search_keyword_ko": "따룬파",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "따룬파는 여행 중 간식, 음료, 생활용품을 빠르게 사기 좋은 실용 스팟이에요.",
+    "visit_tip_ko": "숙소 근처 지점을 저장해두면 물, 간식, 간단한 아침을 사기 편해요. 일부 매장은 모바일 결제가 더 편해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "hema",
@@ -3068,7 +4068,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "盒马鲜生",
-    "search_keyword_ko": "허마센셩"
+    "search_keyword_ko": "허마센셩",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "허마센셩는 여행 중 간식, 음료, 생활용품을 빠르게 사기 좋은 실용 스팟이에요.",
+    "visit_tip_ko": "숙소 근처 지점을 저장해두면 물, 간식, 간단한 아침을 사기 편해요. 일부 매장은 모바일 결제가 더 편해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "tagi",
@@ -3092,7 +4100,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "塔皮屋",
-    "search_keyword_ko": "타기"
+    "search_keyword_ko": "타기",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "타기는 기념품이나 브랜드 상품을 구경하기 좋은 쇼핑 스팟이에요.",
+    "visit_tip_ko": "여행 마지막 날에 몰아서 들르기보다 동선 가까울 때 가볍게 들르는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "blanbunny",
@@ -3116,7 +4132,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "布兰兔",
-    "search_keyword_ko": "블랜버니"
+    "search_keyword_ko": "블랜버니",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "블랜버니는 중국식 밀크티와 차 음료를 경험하기 좋은 음료 스팟이에요.",
+    "visit_tip_ko": "인기 메뉴는 당도가 높은 편일 수 있어 처음엔 당도 조절을 추천해요. 가까운 지점을 검색해 가면 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "white_rabbit",
@@ -3140,7 +4164,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "大白兔",
-    "search_keyword_ko": "대백토"
+    "search_keyword_ko": "대백토",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "대백토는 기념품이나 브랜드 상품을 구경하기 좋은 쇼핑 스팟이에요.",
+    "visit_tip_ko": "여행 마지막 날에 몰아서 들르기보다 동선 가까울 때 가볍게 들르는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "xiaomi",
@@ -3164,7 +4196,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "小米之家",
-    "search_keyword_ko": "샤오미"
+    "search_keyword_ko": "샤오미",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "샤오미는 기념품이나 브랜드 상품을 구경하기 좋은 쇼핑 스팟이에요.",
+    "visit_tip_ko": "여행 마지막 날에 몰아서 들르기보다 동선 가까울 때 가볍게 들르는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "zhengyuanyuan",
@@ -3188,7 +4228,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "郑远元",
-    "search_keyword_ko": "정원원"
+    "search_keyword_ko": "정원원",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "정원원는 많이 걷는 상하이 여행 중 피로를 풀고 싶을 때 고려하기 좋은 마사지 스팟이에요.",
+    "visit_tip_ko": "방문 전 가격, 코스 시간, 예약 가능 여부를 확인하세요. 늦은 저녁 시간대에는 미리 전화나 앱으로 확인하는 게 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "taoyuanxiang",
@@ -3212,7 +4260,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "桃源乡",
-    "search_keyword_ko": "도원향"
+    "search_keyword_ko": "도원향",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "도원향는 많이 걷는 상하이 여행 중 피로를 풀고 싶을 때 고려하기 좋은 마사지 스팟이에요.",
+    "visit_tip_ko": "방문 전 가격, 코스 시간, 예약 가능 여부를 확인하세요. 늦은 저녁 시간대에는 미리 전화나 앱으로 확인하는 게 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "kangdao_massage",
@@ -3236,7 +4292,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "康道按摩",
-    "search_keyword_ko": "강다오"
+    "search_keyword_ko": "강다오",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "강다오는 많이 걷는 상하이 여행 중 피로를 풀고 싶을 때 고려하기 좋은 마사지 스팟이에요.",
+    "visit_tip_ko": "방문 전 가격, 코스 시간, 예약 가능 여부를 확인하세요. 늦은 저녁 시간대에는 미리 전화나 앱으로 확인하는 게 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "capella_shanghai",
@@ -3261,7 +4325,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "建业里",
-    "search_keyword_ko": "카펠라 상하이"
+    "search_keyword_ko": "카펠라 상하이",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "카펠라 상하이는 상하이 주요 관광지와의 접근성을 기준으로 보기 좋은 숙소 후보예요.",
+    "visit_tip_ko": "숙소는 최근 후기, 지하철역 거리, 객실 컨디션이 중요하니 예약 전 최신 사진과 리뷰를 꼭 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "bulgari_hotel_shanghai",
@@ -3286,7 +4358,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "上海宝格丽酒店",
-    "search_keyword_ko": "불가리 호텔 상하이"
+    "search_keyword_ko": "불가리 호텔 상하이",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "불가리 호텔 상하이는 상하이 주요 관광지와의 접근성을 기준으로 보기 좋은 숙소 후보예요.",
+    "visit_tip_ko": "숙소는 최근 후기, 지하철역 거리, 객실 컨디션이 중요하니 예약 전 최신 사진과 리뷰를 꼭 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "maison_dongliang",
@@ -3311,7 +4391,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "栋梁之家",
-    "search_keyword_ko": "메종동량"
+    "search_keyword_ko": "메종동량",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "메종동량는 상하이 로컬 패션과 감각적인 편집숍 분위기를 보고 싶을 때 넣기 좋은 쇼핑 스팟이에요.",
+    "visit_tip_ko": "구매 목적이 아니어도 구경하기 좋고, 주변 카페·거리 산책과 함께 묶으면 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "prada_rongzhai",
@@ -3336,7 +4424,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "Prada 荣宅",
-    "search_keyword_ko": "미샹 프라다 롱자이"
+    "search_keyword_ko": "미샹 프라다 롱자이",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "미샹 프라다 롱자이는 실내에서 전시와 공간 분위기를 함께 즐기기 좋은 문화 스팟이에요.",
+    "visit_tip_ko": "전시는 기간에 따라 만족도가 달라지니, 방문 전 현재 전시와 예약 여부를 확인하는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "hakuna_matata",
@@ -3365,7 +4461,15 @@
     "thumbnail_url": "/images/places/hakuna_matata_01.jpg",
     "image_urls": [
       "/images/places/hakuna_matata_01.jpg"
-    ]
+    ],
+    "dianping_category": "快照摄影/拍照",
+    "local_review_summary_ko": "즉석사진과 빈티지한 촬영 분위기가 여행 기념으로 좋다는 반응이 많고, 인기 시간대에는 대기가 있을 수 있어요.",
+    "visit_tip_ko": "촬영 전 원하는 분위기와 사진 구성을 미리 생각해두면 현장에서 고르기 쉬워요.",
+    "source_updated_at": "2026-05-27",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_url": ""
   },
   {
     "id": "su_xiaoliu",
@@ -3390,7 +4494,15 @@
     "is_specific_branch": false,
     "map_action_type": "search_nearby",
     "search_keyword_zh": "苏小柳点心",
-    "search_keyword_ko": "수샤오리우"
+    "search_keyword_ko": "수샤오리우",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "수샤오리우는 상하이에서 가볍게 딤섬·샤오롱바오류를 먹고 싶을 때 보기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "뜨거운 육즙이 있는 메뉴가 많아 천천히 먹는 게 좋아요. 점심 피크에는 대기가 생길 수 있어요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "labelhood",
@@ -3415,7 +4527,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "LABELHOOD蕾虎旗舰店",
-    "search_keyword_ko": "라벨후드"
+    "search_keyword_ko": "라벨후드",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "라벨후드는 상하이 로컬 패션과 감각적인 편집숍 분위기를 보고 싶을 때 넣기 좋은 쇼핑 스팟이에요.",
+    "visit_tip_ko": "구매 목적이 아니어도 구경하기 좋고, 주변 카페·거리 산책과 함께 묶으면 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "shushu_tong",
@@ -3440,7 +4560,15 @@
     "is_specific_branch": false,
     "map_action_type": "navigate",
     "search_keyword_zh": "SHUSHU/TONG",
-    "search_keyword_ko": "슈슈통"
+    "search_keyword_ko": "슈슈통",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "슈슈통는 상하이 로컬 패션과 감각적인 편집숍 분위기를 보고 싶을 때 넣기 좋은 쇼핑 스팟이에요.",
+    "visit_tip_ko": "구매 목적이 아니어도 구경하기 좋고, 주변 카페·거리 산책과 함께 묶으면 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "coco_naicha",
@@ -3464,7 +4592,15 @@
     "search_keyword_zh": "CoCo都可",
     "search_keyword_ko": "코코나이차",
     "sort_order": 146,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "코코나이차는 중국식 밀크티와 차 음료를 경험하기 좋은 음료 스팟이에요.",
+    "visit_tip_ko": "인기 메뉴는 당도가 높은 편일 수 있어 처음엔 당도 조절을 추천해요. 가까운 지점을 검색해 가면 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "yujian_xiaomian",
@@ -3488,7 +4624,15 @@
     "search_keyword_zh": "遇见小面",
     "search_keyword_ko": "위지엔샤오미엔",
     "sort_order": 148,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "위지엔샤오미엔는 국물 있는 한 끼나 간단한 면 요리가 당길 때 넣기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "혼밥이나 짧은 점심 일정에 잘 맞아요. 매운 메뉴는 주문 전 맵기 정도를 확인하세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "mixian_generic",
@@ -3512,7 +4656,15 @@
     "search_keyword_zh": "米线",
     "search_keyword_ko": "미씨엔",
     "sort_order": 149,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "미씨엔는 국물 있는 한 끼나 간단한 면 요리가 당길 때 넣기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "혼밥이나 짧은 점심 일정에 잘 맞아요. 매운 메뉴는 주문 전 맵기 정도를 확인하세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "huntun_generic",
@@ -3536,7 +4688,15 @@
     "search_keyword_zh": "馄饨",
     "search_keyword_ko": "훈툰",
     "sort_order": 150,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "훈툰는 국물 있는 한 끼나 간단한 면 요리가 당길 때 넣기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "혼밥이나 짧은 점심 일정에 잘 맞아요. 매운 메뉴는 주문 전 맵기 정도를 확인하세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "polux_xintiandi",
@@ -3561,7 +4721,15 @@
     "search_keyword_ko": "폴룩스",
     "sort_order": 151,
     "status": "active",
-    "address": "上海市黄浦区太仓路181弄新天地北里"
+    "address": "上海市黄浦区太仓路181弄新天地北里",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "폴룩스 신천지는 커피와 브런치를 함께 즐기며 쉬어가기 좋은 카페 스팟이에요.",
+    "visit_tip_ko": "오전 늦게나 오후 초반에 넣기 좋고, 주말에는 대기가 있을 수 있어요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "hamazushi",
@@ -3585,7 +4753,15 @@
     "search_keyword_zh": "滨寿司",
     "search_keyword_ko": "하마스시",
     "sort_order": 190,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "하마스시는 해산물이나 생선 요리를 먹고 싶을 때 보기 좋은 식사 후보예요.",
+    "visit_tip_ko": "해산물 메뉴는 가격과 주문 단위를 먼저 확인하고, 여러 명이 함께 가면 더 다양하게 먹기 좋아요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "sukiya",
@@ -3609,7 +4785,15 @@
     "search_keyword_zh": "食其家",
     "search_keyword_ko": "스키야",
     "sort_order": 191,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "스키야는 중국 음식이 부담스럽거나 빠르게 한 끼 해결하고 싶을 때 유용한 익숙한 선택지예요.",
+    "visit_tip_ko": "쇼핑몰·역 근처 지점이 많아 이동 중 식사 대안으로 쓰기 좋아요. 매장별 운영 시간은 지도앱에서 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "komeda_coffee",
@@ -3633,7 +4817,15 @@
     "search_keyword_zh": "口美达咖啡",
     "search_keyword_ko": "코메다 커피",
     "sort_order": 192,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "코메다 커피는 커피와 브런치를 함께 즐기며 쉬어가기 좋은 카페 스팟이에요.",
+    "visit_tip_ko": "오전 늦게나 오후 초반에 넣기 좋고, 주말에는 대기가 있을 수 있어요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "yoshinoya",
@@ -3657,7 +4849,15 @@
     "search_keyword_zh": "吉野家",
     "search_keyword_ko": "요시노야",
     "sort_order": 193,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "요시노야는 중국 음식이 부담스럽거나 빠르게 한 끼 해결하고 싶을 때 유용한 익숙한 선택지예요.",
+    "visit_tip_ko": "쇼핑몰·역 근처 지점이 많아 이동 중 식사 대안으로 쓰기 좋아요. 매장별 운영 시간은 지도앱에서 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "ajisen_ramen",
@@ -3681,7 +4881,15 @@
     "search_keyword_zh": "味千拉面",
     "search_keyword_ko": "아지센 라멘",
     "sort_order": 194,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "아지센 라멘는 국물 있는 한 끼나 간단한 면 요리가 당길 때 넣기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "혼밥이나 짧은 점심 일정에 잘 맞아요. 매운 메뉴는 주문 전 맵기 정도를 확인하세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "saizeriya",
@@ -3705,7 +4913,15 @@
     "search_keyword_zh": "萨莉亚",
     "search_keyword_ko": "사이제리야",
     "sort_order": 195,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "사이제리야는 중국 음식이 부담스럽거나 빠르게 한 끼 해결하고 싶을 때 유용한 익숙한 선택지예요.",
+    "visit_tip_ko": "쇼핑몰·역 근처 지점이 많아 이동 중 식사 대안으로 쓰기 좋아요. 매장별 운영 시간은 지도앱에서 확인하세요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "yamazaki_bakery",
@@ -3729,7 +4945,15 @@
     "search_keyword_zh": "山崎面包",
     "search_keyword_ko": "야마자키 베이커리",
     "sort_order": 196,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "야마자키 베이커리는 빵이나 디저트를 가볍게 사기 좋은 스팟이에요.",
+    "visit_tip_ko": "식사 후 디저트나 숙소에서 먹을 간식으로 넣기 좋아요. 인기 메뉴는 품절될 수 있어요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "coco_ichibanya",
@@ -3753,7 +4977,15 @@
     "search_keyword_zh": "coco壱番屋",
     "search_keyword_ko": "코코이치방야",
     "sort_order": 197,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "코코이치방야는 중국 음식이 부담스러울 때 익숙한 일본식 메뉴로 한 끼 해결하기 좋은 후보예요.",
+    "visit_tip_ko": "쇼핑몰 안 지점이 많아 비 오는 날이나 이동 중 식사 장소로 쓰기 좋아요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "ippudo",
@@ -3777,7 +5009,15 @@
     "search_keyword_zh": "一风堂",
     "search_keyword_ko": "이푸도",
     "sort_order": 198,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "이푸도는 국물 있는 한 끼나 간단한 면 요리가 당길 때 넣기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "혼밥이나 짧은 점심 일정에 잘 맞아요. 매운 메뉴는 주문 전 맵기 정도를 확인하세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "hakata_ikkousha",
@@ -3801,7 +5041,15 @@
     "search_keyword_zh": "博多一幸舍",
     "search_keyword_ko": "하카타 잇코샤",
     "sort_order": 199,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "하카타 잇코샤는 국물 있는 한 끼나 간단한 면 요리가 당길 때 넣기 좋은 맛집 후보예요.",
+    "visit_tip_ko": "혼밥이나 짧은 점심 일정에 잘 맞아요. 매운 메뉴는 주문 전 맵기 정도를 확인하세요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "arabica",
@@ -3825,7 +5073,15 @@
     "search_keyword_zh": "% Arabica阿拉比卡咖啡",
     "search_keyword_ko": "아라비카,%",
     "sort_order": 200,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "아라비카는 여행 중 잠깐 쉬어가거나 커피 한 잔 마시기 좋은 카페 스팟이에요.",
+    "visit_tip_ko": "산책 동선 중간에 넣기 좋고, 인기 지점은 피크 시간대를 피하면 더 여유로워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "katsukura",
@@ -3849,7 +5105,15 @@
     "search_keyword_zh": "Katsukura名藏炸猪排",
     "search_keyword_ko": "카츠쿠라",
     "sort_order": 201,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "카츠쿠라는 중국 음식이 부담스러울 때 익숙한 일본식 메뉴로 한 끼 해결하기 좋은 후보예요.",
+    "visit_tip_ko": "쇼핑몰 안 지점이 많아 비 오는 날이나 이동 중 식사 장소로 쓰기 좋아요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "gatten_sushi",
@@ -3873,7 +5137,15 @@
     "search_keyword_zh": "合点寿司",
     "search_keyword_ko": "갓텐스시",
     "sort_order": 202,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "갓텐스시는 해산물이나 생선 요리를 먹고 싶을 때 보기 좋은 식사 후보예요.",
+    "visit_tip_ko": "해산물 메뉴는 가격과 주문 단위를 먼저 확인하고, 여러 명이 함께 가면 더 다양하게 먹기 좋아요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "torikizoku",
@@ -3897,7 +5169,15 @@
     "search_keyword_zh": "鸟贵族",
     "search_keyword_ko": "토리키조쿠",
     "sort_order": 203,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "토리키조쿠는 중국 음식이 부담스러울 때 익숙한 일본식 메뉴로 한 끼 해결하기 좋은 후보예요.",
+    "visit_tip_ko": "쇼핑몰 안 지점이 많아 비 오는 날이나 이동 중 식사 장소로 쓰기 좋아요. 체인형 장소라 현재 위치 기준으로 가까운 지점을 검색해 가는 방식이 좋아요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "sijing_night_market",
@@ -3922,7 +5202,15 @@
     "search_keyword_ko": "쓰징 야시장",
     "sort_order": 204,
     "status": "active",
-    "address": "上海市松江区泗宝路2号三湘商业广场F1"
+    "address": "上海市松江区泗宝路2号三湘商业广场F1",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "쓰징 야시장는 현지 간식이나 길거리 음식 분위기를 가볍게 경험하기 좋은 스팟이에요.",
+    "visit_tip_ko": "현금보다 모바일 결제가 편한 곳이 많고, 위생과 대기 줄을 보고 선택하는 걸 추천해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "peets_coffee",
@@ -3946,7 +5234,15 @@
     "search_keyword_zh": "Peet's Coffee",
     "search_keyword_ko": "피츠 커피",
     "sort_order": 206,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "피츠 커피는 여행 중 잠깐 쉬어가거나 커피 한 잔 마시기 좋은 카페 스팟이에요.",
+    "visit_tip_ko": "산책 동선 중간에 넣기 좋고, 인기 지점은 피크 시간대를 피하면 더 여유로워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "grid_coffee",
@@ -3970,7 +5266,15 @@
     "search_keyword_zh": "GRID COFFEE",
     "search_keyword_ko": "그리드 커피",
     "sort_order": 207,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "그리드 커피는 여행 중 잠깐 쉬어가거나 커피 한 잔 마시기 좋은 카페 스팟이에요.",
+    "visit_tip_ko": "산책 동선 중간에 넣기 좋고, 인기 지점은 피크 시간대를 피하면 더 여유로워요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "bianlifeng",
@@ -3994,7 +5298,15 @@
     "search_keyword_zh": "便利蜂",
     "search_keyword_ko": "편리봉",
     "sort_order": 208,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "편리봉는 여행 중 간식, 음료, 생활용품을 빠르게 사기 좋은 실용 스팟이에요.",
+    "visit_tip_ko": "숙소 근처 지점을 저장해두면 물, 간식, 간단한 아침을 사기 편해요. 일부 매장은 모바일 결제가 더 편해요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "haotemai",
@@ -4018,7 +5330,15 @@
     "search_keyword_zh": "好特卖",
     "search_keyword_ko": "하오터마이",
     "sort_order": 209,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "하오터마이는 간식이나 생활용품을 저렴하게 구경하기 좋은 쇼핑 스팟이에요.",
+    "visit_tip_ko": "여행 선물이나 숙소 간식을 사기 좋고, 매장별 재고가 자주 바뀔 수 있어요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "haoxianglai",
@@ -4042,7 +5362,15 @@
     "search_keyword_zh": "好想来",
     "search_keyword_ko": "하오샹라이",
     "sort_order": 210,
-    "status": "active"
+    "status": "active",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "local_review_summary_ko": "하오샹라이는 간식이나 생활용품을 저렴하게 구경하기 좋은 쇼핑 스팟이에요.",
+    "visit_tip_ko": "여행 선물이나 숙소 간식을 사기 좋고, 매장별 재고가 자주 바뀔 수 있어요.",
+    "dianping_url": "",
+    "source_updated_at": "2026-05-27"
   },
   {
     "id": "grand_central_hotel_shanghai",
@@ -4070,7 +5398,13 @@
     "search_keyword_ko": "그랜드 센트럴 호텔 상하이,난징동루 호텔,상하이 그랜드 센트럴 호텔",
     "review_summary_ko": "난징동루와 와이탄을 함께 둘러보기 좋은 위치형 호텔이에요. 첫 상하이 여행에서 동선을 단순하게 잡고 싶은 분에게 잘 맞아요.",
     "visit_tip_ko": "난징동루, 와이탄, 인민광장을 함께 둘러볼 일정이라면 숙소 기준점으로 쓰기 좋아요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "난징동루와 와이탄을 함께 둘러보기 좋은 위치형 호텔이에요. 첫 상하이 여행에서 동선을 단순하게 잡고 싶은 분에게 잘 맞아요.",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "dianping_url": ""
   },
   {
     "id": "central_hotel_shanghai",
@@ -4098,7 +5432,13 @@
     "search_keyword_ko": "센트럴 호텔 상하이,상하이 센트럴 호텔,난징동루 호텔",
     "review_summary_ko": "난징동루와 와이탄 접근성이 좋아 짧은 일정에도 동선을 짜기 편한 호텔이에요.",
     "visit_tip_ko": "쇼핑, 야경, 식사 동선을 도보 중심으로 잡고 싶다면 후보로 보기 좋아요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "난징동루와 와이탄 접근성이 좋아 짧은 일정에도 동선을 짜기 편한 호텔이에요.",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "dianping_url": ""
   },
   {
     "id": "holiday_inn_shanghai_nanjing_road",
@@ -4126,7 +5466,13 @@
     "search_keyword_ko": "홀리데이 인 상하이 난징 로드,홀리데이인 난징동루,난징동루 호텔",
     "review_summary_ko": "난징동루 보행가와 가까워 쇼핑, 야경, 식사 동선이 편한 호텔이에요. 첫 상하이 여행이나 가족 여행 숙소 후보로 보기 좋아요.",
     "visit_tip_ko": "난징동루와 와이탄을 도보 중심으로 둘러볼 일정이면 위치 장점이 커요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "난징동루 보행가와 가까워 쇼핑, 야경, 식사 동선이 편한 호텔이에요. 첫 상하이 여행이나 가족 여행 숙소 후보로 보기 좋아요.",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "dianping_url": ""
   },
   {
     "id": "radisson_blu_new_world_shanghai",
@@ -4154,7 +5500,13 @@
     "search_keyword_ko": "래디슨 블루 상하이 뉴 월드,인민광장 호텔,난징동루 호텔",
     "review_summary_ko": "인민광장역과 난징동루 접근성이 좋아 지하철 이동이 많은 여행자에게 편한 호텔이에요.",
     "visit_tip_ko": "디즈니, 공항, 시내 관광지를 지하철로 이동할 계획이라면 인민광장 근처 숙소가 편해요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "인민광장역과 난징동루 접근성이 좋아 지하철 이동이 많은 여행자에게 편한 호텔이에요.",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "dianping_url": ""
   },
   {
     "id": "atour_nanjing_east_road_bund",
@@ -4182,7 +5534,13 @@
     "search_keyword_ko": "아투어 호텔 난징동루,상하이 아투어 호텔,난징동루 가성비 호텔",
     "review_summary_ko": "난징동루와 와이탄 동선을 함께 잡기 좋은 실속형 호텔이에요. 호텔에서 오래 머무르기보다 위치를 중시하는 여행자에게 잘 맞아요.",
     "visit_tip_ko": "와이탄 야경을 자주 볼 일정이면 숙소 후보로 체크해볼 만해요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "난징동루와 와이탄 동선을 함께 잡기 좋은 실속형 호텔이에요. 호텔에서 오래 머무르기보다 위치를 중시하는 여행자에게 잘 맞아요.",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "dianping_url": ""
   },
   {
     "id": "ji_hotel_bund_nanjing_east",
@@ -4210,7 +5568,13 @@
     "search_keyword_ko": "지 호텔 더 번드 난징동루,지호텔 난징동루,난징동루 가성비 호텔",
     "review_summary_ko": "난징동루 근처에서 위치와 가격을 함께 보는 여행자에게 맞는 실속형 체인 호텔이에요.",
     "visit_tip_ko": "중국 체인 호텔이라 예약 전 객실 사진과 최근 후기를 한 번 더 확인하는 걸 추천해요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "난징동루 근처에서 위치와 가격을 함께 보는 여행자에게 맞는 실속형 체인 호텔이에요.",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "dianping_url": ""
   },
   {
     "id": "fairmont_peace_hotel",
@@ -4238,7 +5602,13 @@
     "search_keyword_ko": "페어몬트 피스 호텔,피스호텔,와이탄 호텔,상하이 럭셔리 호텔",
     "review_summary_ko": "와이탄을 대표하는 클래식 호텔로, 숙소 자체가 여행 경험이 되는 럭셔리 숙소예요. 기념일 여행이나 부모님과의 여행 후보로 보기 좋아요.",
     "visit_tip_ko": "숙박하지 않더라도 와이탄 산책 동선에서 건축 포토스팟으로 함께 보기 좋아요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "와이탄을 대표하는 클래식 호텔로, 숙소 자체가 여행 경험이 되는 럭셔리 숙소예요. 기념일 여행이나 부모님과의 여행 후보로 보기 좋아요.",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "dianping_url": ""
   },
   {
     "id": "zhuguangyu_hotpot",
@@ -4265,7 +5635,13 @@
     "search_keyword_ko": "주광옥 훠궈,주광위 훠궈,중국 훠궈,충칭 훠궈",
     "review_summary_ko": "중국 현지에서 인기가 많은 충칭식 훠궈 체인이에요. 매운 훠궈와 현지 분위기를 함께 느끼고 싶은 여행자에게 잘 맞아요.",
     "visit_tip_ko": "인기 지점은 대기가 있을 수 있어 식사 피크 시간을 살짝 피해서 가는 걸 추천해요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "중국 현지에서 인기가 많은 충칭식 훠궈 체인이에요. 매운 훠궈와 현지 분위기를 함께 느끼고 싶은 여행자에게 잘 맞아요.",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "dianping_url": ""
   },
   {
     "id": "tongren_siji_coconut_chicken",
@@ -4295,7 +5671,10 @@
     "dianping_category": "椰子鸡火锅",
     "review_summary_ko": "맵지 않고 맑은 국물의 훠궈를 찾는 사람에게 좋은 코코넛 치킨 훠궈예요. 매운 음식을 부담스러워하는 여행자나 가족 여행에도 잘 맞아요.",
     "visit_tip_ko": "상하이에는 지점이 여러 곳이라 숙소 근처 지점을 검색해서 가는 방식이 좋아요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "맵지 않고 맑은 국물의 훠궈를 찾는 사람에게 좋은 코코넛 치킨 훠궈예요. 매운 음식을 부담스러워하는 여행자나 가족 여행에도 잘 맞아요.",
+    "dianping_review_count": "",
+    "dianping_url": ""
   },
   {
     "id": "coucou_hotpot",
@@ -4326,7 +5705,9 @@
     "dianping_category": "火锅",
     "review_summary_ko": "훠궈와 밀크티를 같이 즐길 수 있는 대만식 훠궈 체인이에요. 깔끔한 매장 분위기와 무난한 맛을 원할 때 선택하기 좋아요.",
     "visit_tip_ko": "대표 메뉴로 대홍포 진주 밀크티와 대만식 마라탕 베이스가 자주 언급돼요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "훠궈와 밀크티를 같이 즐길 수 있는 대만식 훠궈 체인이에요. 깔끔한 매장 분위기와 무난한 맛을 원할 때 선택하기 좋아요.",
+    "dianping_url": ""
   },
   {
     "id": "qixintian_seafood_hotpot",
@@ -4356,7 +5737,10 @@
     "dianping_category": "海鲜火锅",
     "review_summary_ko": "게와 해산물을 먼저 먹고 훠궈로 이어지는 방식의 해산물 훠궈 체인이에요. 일반 마라 훠궈보다 색다른 식사를 원할 때 좋아요.",
     "visit_tip_ko": "해산물 메뉴 중심이라 인원 수에 맞춰 주문량을 조절하는 게 좋아요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "게와 해산물을 먼저 먹고 훠궈로 이어지는 방식의 해산물 훠궈 체인이에요. 일반 마라 훠궈보다 색다른 식사를 원할 때 좋아요.",
+    "dianping_review_count": "",
+    "dianping_url": ""
   },
   {
     "id": "yuku_grilled_fish",
@@ -4386,7 +5770,10 @@
     "dianping_category": "烤鱼",
     "review_summary_ko": "활어를 구워 소스와 함께 먹는 중국식 카오위 체인이에요. 맛 선택이 다양해서 처음 카오위를 먹어보는 여행자도 비교적 고르기 좋아요.",
     "visit_tip_ko": "매운맛이 부담스럽다면 마라 계열보다 마늘, 토마토, 리치향 매운맛처럼 덜 자극적인 맛을 먼저 보는 걸 추천해요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "활어를 구워 소스와 함께 먹는 중국식 카오위 체인이에요. 맛 선택이 다양해서 처음 카오위를 먹어보는 여행자도 비교적 고르기 좋아요.",
+    "dianping_review_count": "",
+    "dianping_url": ""
   },
   {
     "id": "jiangbianchengwai_grilled_fish",
@@ -4415,7 +5802,11 @@
     "dianping_category": "烤鱼",
     "review_summary_ko": "상하이에 여러 지점이 있는 카오위 체인으로, 중국식 생선구이를 무난하게 경험해보고 싶을 때 선택하기 좋아요.",
     "visit_tip_ko": "주문 후 조리 시간이 조금 걸릴 수 있어 식사 시간을 여유 있게 잡는 게 좋아요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "상하이에 여러 지점이 있는 카오위 체인으로, 중국식 생선구이를 무난하게 경험해보고 싶을 때 선택하기 좋아요.",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_url": ""
   },
   {
     "id": "bantianyao_grilled_fish",
@@ -4445,7 +5836,10 @@
     "dianping_category": "烤鱼",
     "review_summary_ko": "청화자오 특유의 얼얼한 향을 앞세운 카오위 체인이에요. 가격 부담이 비교적 낮고 중국 현지 체인 분위기를 느끼기 좋아요.",
     "visit_tip_ko": "청화자오 맛은 얼얼함이 강할 수 있어 매운맛에 약하다면 마늘맛이나 덜 매운 메뉴를 함께 확인해보세요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "청화자오 특유의 얼얼한 향을 앞세운 카오위 체인이에요. 가격 부담이 비교적 낮고 중국 현지 체인 분위기를 느끼기 좋아요.",
+    "dianping_review_count": "",
+    "dianping_url": ""
   },
   {
     "id": "jiangmeixian_grilled_fish",
@@ -4472,7 +5866,13 @@
     "search_keyword_ko": "장메이셴 카오위,장미선 카오위,강미선 카오위,가성비 카오위,중국식 생선구이",
     "review_summary_ko": "카오위를 비교적 가볍게 먹고 싶을 때 보기 좋은 실속형 브랜드예요. 전통적인 대형 카오위 체인보다 부담 없는 식사 후보로 넣기 좋아요.",
     "visit_tip_ko": "지점 수와 메뉴 구성이 변동될 수 있어 방문 전 지도앱에서 가까운 매장 운영 여부를 확인하는 걸 추천해요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "카오위를 비교적 가볍게 먹고 싶을 때 보기 좋은 실속형 브랜드예요. 전통적인 대형 카오위 체인보다 부담 없는 식사 후보로 넣기 좋아요.",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "dianping_url": ""
   },
   {
     "id": "yunli_yunnan_rice_noodle",
@@ -4502,7 +5902,10 @@
     "dianping_category": "小吃快餐",
     "review_summary_ko": "얼큰하고 향긋한 산탕 국물에 미시엔을 넣어 먹는 운남식 쌀국수예요. 국물 있는 한 끼가 당길 때 가볍게 들르기 좋아요.",
     "visit_tip_ko": "대표 메뉴는 소고기 동솥 미시엔이나 향초 산탕 미시엔 계열이에요. 매운맛이 부담스럽다면 주문 전에 맵기와 국물 종류를 확인해보세요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "얼큰하고 향긋한 산탕 국물에 미시엔을 넣어 먹는 운남식 쌀국수예요. 국물 있는 한 끼가 당길 때 가볍게 들르기 좋아요.",
+    "dianping_review_count": "",
+    "dianping_url": ""
   },
   {
     "id": "shangtang_yunnan_rice_noodle",
@@ -4531,7 +5934,12 @@
     "dianping_category": "云南菜",
     "review_summary_ko": "난징동루와 인민광장 동선에서 따뜻한 국물 한 끼가 필요할 때 넣기 좋은 미시엔 맛집이에요. 미시엔뿐 아니라 간단한 구이 메뉴도 함께 보기 좋아요.",
     "visit_tip_ko": "난징동루 쇼핑이나 인민광장 일정 전후로 가볍게 식사하기 좋은 위치예요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "난징동루와 인민광장 동선에서 따뜻한 국물 한 끼가 필요할 때 넣기 좋은 미시엔 맛집이에요. 미시엔뿐 아니라 간단한 구이 메뉴도 함께 보기 좋아요.",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_url": ""
   },
   {
     "id": "dianweiyuan_rice_noodle",
@@ -4560,7 +5968,11 @@
     "dianping_category": "过桥米线",
     "review_summary_ko": "운남식 과교미선을 비교적 전통적인 느낌으로 먹어보고 싶을 때 넣기 좋은 곳이에요.",
     "visit_tip_ko": "지점별 분위기와 메뉴 구성이 다를 수 있어 가까운 지점의 최근 후기를 확인하고 가는 걸 추천해요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "운남식 과교미선을 비교적 전통적인 느낌으로 먹어보고 싶을 때 넣기 좋은 곳이에요.",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_url": ""
   },
   {
     "id": "yunzhuangli_yunnan_rice_noodle",
@@ -4590,7 +6002,10 @@
     "dianping_category": "小吃快餐",
     "review_summary_ko": "부담 없는 가격대로 운남식 동솥 미시엔을 먹기 좋은 곳이에요. 혼밥이나 간단한 점심 후보로 넣기 좋아요.",
     "visit_tip_ko": "관광지 중심 동선보다는 숙소나 이동 경로 근처에 지점이 있을 때 가까운 곳으로 검색해서 가는 방식이 좋아요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "부담 없는 가격대로 운남식 동솥 미시엔을 먹기 좋은 곳이에요. 혼밥이나 간단한 점심 후보로 넣기 좋아요.",
+    "dianping_review_count": "",
+    "dianping_url": ""
   },
   {
     "id": "three_and_half_cafe",
@@ -4619,12 +6034,16 @@
     "dianping_price": "¥75",
     "dianping_category": "咖啡店",
     "review_summary_ko": "100ml씩 두 잔의 커피를 비교하듯 마실 수 있어 커피 좋아하는 사람에게 특히 재미있는 카페예요. 우캉루·안푸루 산책 전후로 들르기 좋아요.",
-    "visit_tip_ko": "오전부터 카페 투어를 시작하고 싶을 때 좋아요. 인기 카페라 주말에는 대기가 있을 수 있어요.",
+    "visit_tip_ko": "좌석과 분위기를 함께 즐기려면 오전이나 이른 오후에 방문하는 걸 추천해요.",
     "source_updated_at": "2026-05-27",
     "thumbnail_url": "/images/places/three_and_half_cafe_01.jpg",
     "image_urls": [
       "/images/places/three_and_half_cafe_01.jpg"
-    ]
+    ],
+    "local_review_summary_ko": "100ml씩 두 잔의 커피를 비교하듯 마시는 구성이 독특해 커피를 좋아하는 여행자에게 반응이 좋아요.",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_url": ""
   },
   {
     "id": "ops_cafe",
@@ -4653,12 +6072,16 @@
     "dianping_price": "¥55",
     "dianping_category": "咖啡店",
     "review_summary_ko": "커피에 티, 과일, 향을 조합한 창작 메뉴가 독특한 곳이에요. 메뉴가 자주 바뀌고 웨이팅이 있을 수 있지만 상하이 카페 투어에서 기억에 남기 좋아요.",
-    "visit_tip_ko": "대기가 있을 수 있어 오픈 시간대나 평일 방문을 추천해요. 메뉴가 시즌별로 바뀌는 편이라 현장에서 설명을 듣고 고르면 좋아요.",
+    "visit_tip_ko": "대기가 있을 수 있어 오픈 시간대나 평일 방문을 추천해요. 메뉴 설명을 듣고 고르면 실패 확률이 낮아요.",
     "source_updated_at": "2026-05-27",
     "thumbnail_url": "/images/places/ops_cafe_01.jpg",
     "image_urls": [
       "/images/places/ops_cafe_01.jpg"
-    ]
+    ],
+    "local_review_summary_ko": "티와 과일, 향을 활용한 창작 커피가 독특하다는 반응이 많고, 메뉴가 시즌별로 바뀌어 방문 경험이 기억에 남는 편이에요.",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_url": ""
   },
   {
     "id": "m_stand_shanghai",
@@ -4685,6 +6108,12 @@
     "search_keyword_ko": "엠스탠드,M Stand,상하이 로컬 커피,상하이 카페",
     "review_summary_ko": "상하이에서 시작한 로컬 커피 브랜드로, 매장 인테리어와 시그니처 음료가 감각적인 편이에요. 가까운 지점이 있으면 가볍게 들르기 좋아요.",
     "visit_tip_ko": "지점마다 공간 분위기가 달라서 사진을 찍고 싶다면 매장 이미지를 먼저 확인해보는 걸 추천해요.",
-    "source_updated_at": "2026-05-27"
+    "source_updated_at": "2026-05-27",
+    "local_review_summary_ko": "상하이에서 시작한 로컬 커피 브랜드로, 매장 인테리어와 시그니처 음료가 감각적인 편이에요. 가까운 지점이 있으면 가볍게 들르기 좋아요.",
+    "dianping_rating": "",
+    "dianping_review_count": "",
+    "dianping_price": "",
+    "dianping_category": "",
+    "dianping_url": ""
   }
 ]
