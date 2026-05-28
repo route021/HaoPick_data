@@ -186,6 +186,10 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "东方明珠广播电视塔",
     "search_keyword_ko": "동방명주타워",
+    "thumbnail_url": "/images/places/oriental_pearl_01.jpg",
+    "image_urls": [
+      "/images/places/oriental_pearl_01.jpg"
+    ],
     "dianping_rating": "",
     "dianping_review_count": "",
     "dianping_price": "",
@@ -218,6 +222,10 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "上海迪士尼度假区",
     "search_keyword_ko": "상하이 디즈니랜드",
+    "thumbnail_url": "/images/places/shanghai_disneyland_01.jpg",
+    "image_urls": [
+      "/images/places/shanghai_disneyland_01.jpg"
+    ],
     "dianping_rating": "",
     "dianping_review_count": "",
     "dianping_price": "",
@@ -358,6 +366,10 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "上海中心大厦",
     "search_keyword_ko": "상하이 타워",
+    "thumbnail_url": "/images/places/shanghai_tower_01.jpg",
+    "image_urls": [
+      "/images/places/shanghai_tower_01.jpg"
+    ],
     "dianping_rating": "",
     "dianping_review_count": "",
     "dianping_price": "",
@@ -390,6 +402,10 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "金茂大厦",
     "search_keyword_ko": "진마오 타워",
+    "thumbnail_url": "/images/places/jinmao_tower_01.jpg",
+    "image_urls": [
+      "/images/places/jinmao_tower_01.jpg"
+    ],
     "dianping_rating": "",
     "dianping_review_count": "",
     "dianping_price": "",
@@ -422,6 +438,10 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "人民广场",
     "search_keyword_ko": "인민광장",
+    "thumbnail_url": "/images/places/people_square_01.jpg",
+    "image_urls": [
+      "/images/places/people_square_01.jpg"
+    ],
     "dianping_rating": "",
     "dianping_review_count": "",
     "dianping_price": "",
@@ -694,6 +714,10 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "田子坊",
     "search_keyword_ko": "티엔즈팡",
+    "thumbnail_url": "/images/places/tianzifang_01.jpg",
+    "image_urls": [
+      "/images/places/tianzifang_01.jpg"
+    ],
     "dianping_rating": "",
     "dianping_review_count": "",
     "dianping_price": "",
@@ -726,6 +750,10 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "朱家角古镇",
     "search_keyword_ko": "주가각",
+    "thumbnail_url": "/images/places/zhujiajiao_01.jpg",
+    "image_urls": [
+      "/images/places/zhujiajiao_01.jpg"
+    ],
     "dianping_rating": "",
     "dianping_review_count": "",
     "dianping_price": "",
@@ -758,6 +786,10 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "七宝古镇",
     "search_keyword_ko": "치바오",
+    "thumbnail_url": "/images/places/qibao_01.jpg",
+    "image_urls": [
+      "/images/places/qibao_01.jpg"
+    ],
     "dianping_rating": "",
     "dianping_review_count": "",
     "dianping_price": "",
@@ -790,6 +822,10 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "蟠龙天地",
     "search_keyword_ko": "판롱티엔디",
+    "thumbnail_url": "/images/places/panlong_tiandi_01.jpg",
+    "image_urls": [
+      "/images/places/panlong_tiandi_01.jpg"
+    ],
     "dianping_rating": "",
     "dianping_review_count": "",
     "dianping_price": "",
@@ -1339,6 +1375,10 @@
     "map_action_type": "navigate",
     "search_keyword_zh": "乌镇",
     "search_keyword_ko": "우전",
+    "thumbnail_url": "/images/places/wuzhen_01.jpg",
+    "image_urls": [
+      "/images/places/wuzhen_01.jpg"
+    ],
     "dianping_rating": "",
     "dianping_review_count": "",
     "dianping_price": "",
