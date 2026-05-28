@@ -5,7 +5,7 @@
     "subtitle": "한국음식은 필수! 이번엔 내가 효도왕",
     "body": "무리한 이동은 줄이고, 체력 부담은 낮추고, 인생샷과 식사 만족도는 챙기는 부모님 동반 상하이 코스예요. 오전에는 예원과 성황묘에서 전통 정원과 찻집 분위기를 느끼고, 점심에는 게살 만두나 향신료 부담이 적은 광동식 훠궈를 추천해요. 오후에는 난징동루를 천천히 걷고, 저녁에는 한국 요리로 익숙한 식사를 챙긴 뒤 와이탄 야경으로 마무리하는 일정입니다. 부모님과 함께라면 이동은 택시나 디디를 추천해요.",
     "tags": "가족,효도,부모님,편한코스,야경,한국음식",
-    "place_ids": "yuyuan,chenghuangmiao,huxinting_teahouse,lailai_xiaolong,futian_fresh_beef_hotpot,nanjing_east,shuanghuadian_nanjing_east,haenyeo_jeju_new_world,waitan",
+    "place_ids": "yuyuan,chenghuangmiao,huxinting_teahouse,lailai_xiaolong,futiantian_beef_hotpot_renmin_square,nanjing_east,shuanghuadian_nanjing_east,haenyeo_jeju_new_world,waitan",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_001.jpg",
     "estimated_time": "1일",
     "recommended_time": "오전~저녁",
@@ -19,7 +19,7 @@
     "subtitle": "과하다 과해 😎 중국 온 김에 중티 풀착장",
     "body": "중국 여행 온 김에 제대로 중티 감성을 즐겨보는 쇼핑 코스예요. 호텔에서 출장 메이크업을 받고, 징안다위에청으로 이동해 왕샤오뻔, 중티다스 체험, KKV, WOW BEAUTY, THE COLORIST, 헌지우이치엔, TOP TOY까지 둘러보는 일정입니다. 쇼핑과 사진, 중국 감성을 한 번에 즐기고 싶을 때 추천해요. 마지막에는 G3-STUDIO 같은 개성 있는 공간까지 더하면 더 완성도 있는 하루가 됩니다.",
     "tags": "중티,쇼핑,사진,핫플,메이크업,감성",
-    "place_ids": "jingan_joy_city,wangxiaoben,adidas,kkv,wow_beauty,the_colorist,henjiu_yiqian,top_toy,g3_studio",
+    "place_ids": "jingan_joy_city,wangxiaoben_jingan_joy_city,kkv_jingan_joy_city,wow_colour_jingan_joy_city,the_colorist_jingan_joy_city,henjiu_yiqian,toptoy_jingan_joy_city,g3_studio_yanping_road",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_002.jpg",
     "estimated_time": "반나절",
     "recommended_time": "오후",
@@ -33,7 +33,7 @@
     "subtitle": "우캉루부터 니치 향수까지, 상하이 감성 산책",
     "body": "상하이의 조용하고 감각적인 분위기를 느끼고 싶은 사람에게 추천하는 산책 코스예요. 우캉멘션을 시작으로 쑹칭링 고거, 감각적인 니치 향수 브랜드 관샤, 태원로와 영가로 주변의 화원양방, 하옌 옛집, 루이진빈관 일대까지 이어지는 코스입니다. 카페, 건축, 정원, 향, 오래된 저택 분위기를 좋아한다면 만족도가 높을 거예요.",
     "tags": "감성,산책,카페,건축,향수,사진,프랑스조계지",
-    "place_ids": "wukang_building,song_qingling_former_residence,to_summer,huayuan_yangfang,taiyuan_yongjia,xiayan_former_residence,ruijin_hotel",
+    "place_ids": "wukang_building,soong_chingling_former_residence,to_summer_shanghai,taiyuan_yongjia_garden_villas,xia_yan_former_residence,ruijin_hotel",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_003.jpg",
     "estimated_time": "반나절",
     "recommended_time": "오후",
@@ -126,123 +126,125 @@
     "status": "active"
   },
   {
-  "id": "mag_010",
-  "title": "#중국 편의점 털기",
-  "subtitle": "중국 여행 초보라면 한 번쯤 꼭 해봐야 하는 야식 코스",
-  "description": "중국 편의점은 한국과 비슷하면서도 꽤 달라요. 중국 여행 초보들도 부담 없이 즐길 수 있는 음식부터 중국에서만 보이는 음료, 실패 없는 간식까지 모아봤어요. 로손, 패밀리마트, 편리봉, 하오터마이 같은 현지 편의점들을 돌면서 가볍게 중국 로컬 분위기를 느껴보세요. 전자레인지 사용법이나 QR 결제 팁까지 함께 정리했어요.",
-  "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_010_thumb.jpg",
-  "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_010_cover.jpg",
-  "category": "food",
-  "city": "상하이",
-  "tags": [
-    "편의점",
-    "간식",
-    "야식",
-    "초보추천"
-  ],
-  "place_ids": [
-    "lawson",
-    "familymart",
-    "bianlifeng",
-    "haotemai",
-    "hema_mini"
-  ],
-  "estimated_time": "30분~1시간",
-  "recommended_time": "저녁~야식",
-  "difficulty": "쉬움",
-  "tips": [
-    "편의점 도시락은 전자레인지 데워달라고 하면 직원이 해주는 경우가 많아요.",
-    "중국 편의점에서는 우유차, 요거트 음료 종류가 정말 다양해요.",
-    "QR결제가 어려우면 알리페이/위챗 대신 카드 결제 가능한지 먼저 물어보세요.",
-    "하오터마이(好特卖)는 유통기한 임박 할인 간식이 많아서 구경하는 재미가 있어요."
-  ],
-  "highlights": [
-    "한국인 입맛에도 무난한 음식 많음",
-    "중국 한정 음료/간식 구경 가능",
-    "야식이나 간단한 아침 해결하기 좋음",
-    "현지인 일상 분위기 느끼기 쉬움"
-  ],
-  "status": "active",
-  "sort_order": 10
-},{
-  "id": "mag_011",
-  "title": "#중국 카페 감성 투어",
-  "subtitle": "상하이에서 발견하는 중국식 카페 감성",
-  "description": "요즘 중국 카페들은 단순히 커피만 마시는 공간이 아니에요. 감성적인 인테리어, 조용한 작업 분위기, 개성 있는 디저트까지 한국 카페 좋아하는 사람이라면 오히려 더 만족할 수도 있어요. 상하이에서 유명한 카페 브랜드들을 중심으로 중국 카페 문화를 가볍게 경험해보세요.",
-  "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_011_thumb.jpg",
-  "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_011_cover.jpg",
-  "category": "cafe",
-  "city": "상하이",
-  "tags": [
-    "카페",
-    "감성카페",
-    "작업카페",
-    "디저트",
-    "상하이카페"
-  ],
-  "place_ids": [
-    "manner_coffee",
-    "seesaw_coffee",
-    "arabica_shanghai",
-    "peets_coffee",
-    "grid_coffee"
-  ],
-  "estimated_time": "1시간~3시간",
-  "recommended_time": "오전~오후",
-  "difficulty": "쉬움",
-  "tips": [
-    "중국 카페들은 좌석 간격이 넓고 작업하기 좋은 곳이 많아요.",
-    "Manner Coffee는 가성비, % Arabica는 감성 사진 스팟으로 유명해요.",
-    "주문은 미니프로그램이나 QR 주문 방식인 경우도 많아요.",
-    "중국 카페 디저트는 한국보다 달지 않은 스타일도 많아서 호불호가 적어요."
-  ],
-  "highlights": [
-    "한국보다 감성적인 인테리어",
-    "조용하게 작업하기 좋은 분위기",
-    "브랜드별 개성이 뚜렷함",
-    "커피 + 디저트 문화 체험 가능"
-  ],
-  "status": "active",
-  "sort_order": 11
-},
+    "id": "mag_010",
+    "title": "#중국 편의점 털기",
+    "subtitle": "중국 여행 초보라면 한 번쯤 꼭 해봐야 하는 야식 코스",
+    "description": "중국 편의점은 한국과 비슷하면서도 꽤 달라요. 중국 여행 초보들도 부담 없이 즐길 수 있는 음식부터 중국에서만 보이는 음료, 실패 없는 간식까지 모아봤어요. 로손, 패밀리마트, 편리봉, 하오터마이 같은 현지 편의점들을 돌면서 가볍게 중국 로컬 분위기를 느껴보세요. 전자레인지 사용법이나 QR 결제 팁까지 함께 정리했어요.",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_010_thumb.jpg",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_010_cover.jpg",
+    "category": "food",
+    "city": "상하이",
+    "tags": [
+      "편의점",
+      "간식",
+      "야식",
+      "초보추천"
+    ],
+    "place_ids": [
+      "lawson",
+      "familymart",
+      "bianlifeng",
+      "haotemai",
+      "hema_mini"
+    ],
+    "estimated_time": "30분~1시간",
+    "recommended_time": "저녁~야식",
+    "difficulty": "쉬움",
+    "tips": [
+      "편의점 도시락은 전자레인지 데워달라고 하면 직원이 해주는 경우가 많아요.",
+      "중국 편의점에서는 우유차, 요거트 음료 종류가 정말 다양해요.",
+      "QR결제가 어려우면 알리페이/위챗 대신 카드 결제 가능한지 먼저 물어보세요.",
+      "하오터마이(好特卖)는 유통기한 임박 할인 간식이 많아서 구경하는 재미가 있어요."
+    ],
+    "highlights": [
+      "한국인 입맛에도 무난한 음식 많음",
+      "중국 한정 음료/간식 구경 가능",
+      "야식이나 간단한 아침 해결하기 좋음",
+      "현지인 일상 분위기 느끼기 쉬움"
+    ],
+    "status": "active",
+    "sort_order": 10
+  },
   {
-  "id": "mag_012",
-  "title": "#중국 야식 추천",
-  "subtitle": "상하이에서 밤 늦게까지 즐기는 중국식 야식 문화",
-  "description": "중국은 밤이 되면 진짜 여행이 시작된다는 말이 있을 정도로 야식 문화가 발달해 있어요. 새벽까지 운영하는 훠궈집부터 길거리 꼬치, 야시장, 편의점 야식까지 혼자서도 부담 없이 즐길 수 있는 곳들을 모아봤어요. 밤 12시 이후에도 갈 곳이 많아서 상하이 밤거리를 제대로 느끼기 좋아요.",
-  "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_012_thumb.jpg",
-  "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_012_cover.jpg",
-  "category": "food",
-  "city": "상하이",
-  "tags": [
-    "야식",
-    "혼술",
-    "야시장",
-    "맥주",
-    "상하이맛집"
-  ],
-  "place_ids": [
-    "haidilao",
-   "sijing_night_market",
-    "lawson",
-    "familymart","haoxianglai"
-  ],
-  "estimated_time": "1시간~3시간",
-  "recommended_time": "밤 10시~새벽",
-  "difficulty": "쉬움",
-  "tips": [
-    "중국은 새벽까지 운영하는 식당이 많아서 늦은 시간에도 먹을 곳 찾기 쉬워요.",
-    "烧烤(샤오카오)는 꼬치구이 느낌으로 맥주랑 같이 먹는 문화가 강해요.",
-    "편의점에서도 간단한 야식, 맥주, 컵라면 종류가 정말 다양해요.",
-    "해저로우는 혼자 가도 부담 없이 먹을 수 있고 새벽 시간대가 오히려 덜 붐비는 편이에요."
-  ],
-  "highlights": [
-    "밤 12시 이후에도 갈 곳 많음",
-    "혼술·혼밥 난이도 낮음",
-    "중국식 꼬치 + 맥주 문화 체험 가능",
-    "현지인들의 진짜 밤 분위기 느끼기 좋음"
-  ],
-  "status": "active",
-  "sort_order": 12
-}
+    "id": "mag_011",
+    "title": "#중국 카페 감성 투어",
+    "subtitle": "상하이에서 발견하는 중국식 카페 감성",
+    "description": "요즘 중국 카페들은 단순히 커피만 마시는 공간이 아니에요. 감성적인 인테리어, 조용한 작업 분위기, 개성 있는 디저트까지 한국 카페 좋아하는 사람이라면 오히려 더 만족할 수도 있어요. 상하이에서 유명한 카페 브랜드들을 중심으로 중국 카페 문화를 가볍게 경험해보세요.",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_011_thumb.jpg",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_011_cover.jpg",
+    "category": "cafe",
+    "city": "상하이",
+    "tags": [
+      "카페",
+      "감성카페",
+      "작업카페",
+      "디저트",
+      "상하이카페"
+    ],
+    "place_ids": [
+      "manner_coffee",
+      "seesaw_coffee",
+      "arabica_shanghai",
+      "peets_coffee",
+      "grid_coffee"
+    ],
+    "estimated_time": "1시간~3시간",
+    "recommended_time": "오전~오후",
+    "difficulty": "쉬움",
+    "tips": [
+      "중국 카페들은 좌석 간격이 넓고 작업하기 좋은 곳이 많아요.",
+      "Manner Coffee는 가성비, % Arabica는 감성 사진 스팟으로 유명해요.",
+      "주문은 미니프로그램이나 QR 주문 방식인 경우도 많아요.",
+      "중국 카페 디저트는 한국보다 달지 않은 스타일도 많아서 호불호가 적어요."
+    ],
+    "highlights": [
+      "한국보다 감성적인 인테리어",
+      "조용하게 작업하기 좋은 분위기",
+      "브랜드별 개성이 뚜렷함",
+      "커피 + 디저트 문화 체험 가능"
+    ],
+    "status": "active",
+    "sort_order": 11
+  },
+  {
+    "id": "mag_012",
+    "title": "#중국 야식 추천",
+    "subtitle": "상하이에서 밤 늦게까지 즐기는 중국식 야식 문화",
+    "description": "중국은 밤이 되면 진짜 여행이 시작된다는 말이 있을 정도로 야식 문화가 발달해 있어요. 새벽까지 운영하는 훠궈집부터 길거리 꼬치, 야시장, 편의점 야식까지 혼자서도 부담 없이 즐길 수 있는 곳들을 모아봤어요. 밤 12시 이후에도 갈 곳이 많아서 상하이 밤거리를 제대로 느끼기 좋아요.",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_012_thumb.jpg",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_012_cover.jpg",
+    "category": "food",
+    "city": "상하이",
+    "tags": [
+      "야식",
+      "혼술",
+      "야시장",
+      "맥주",
+      "상하이맛집"
+    ],
+    "place_ids": [
+      "haidilao",
+      "sijing_night_market",
+      "lawson",
+      "familymart",
+      "haoxianglai"
+    ],
+    "estimated_time": "1시간~3시간",
+    "recommended_time": "밤 10시~새벽",
+    "difficulty": "쉬움",
+    "tips": [
+      "중국은 새벽까지 운영하는 식당이 많아서 늦은 시간에도 먹을 곳 찾기 쉬워요.",
+      "烧烤(샤오카오)는 꼬치구이 느낌으로 맥주랑 같이 먹는 문화가 강해요.",
+      "편의점에서도 간단한 야식, 맥주, 컵라면 종류가 정말 다양해요.",
+      "해저로우는 혼자 가도 부담 없이 먹을 수 있고 새벽 시간대가 오히려 덜 붐비는 편이에요."
+    ],
+    "highlights": [
+      "밤 12시 이후에도 갈 곳 많음",
+      "혼술·혼밥 난이도 낮음",
+      "중국식 꼬치 + 맥주 문화 체험 가능",
+      "현지인들의 진짜 밤 분위기 느끼기 좋음"
+    ],
+    "status": "active",
+    "sort_order": 12
+  }
 ]
