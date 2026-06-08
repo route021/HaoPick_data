@@ -3,15 +3,74 @@
     "id": "mag_001",
     "title": "#엄빠랑 효도 여행",
     "subtitle": "한국음식은 필수! 이번엔 내가 효도왕",
-    "body": "무리한 이동은 줄이고, 체력 부담은 낮추고, 인생샷과 식사 만족도는 챙기는 부모님 동반 상하이 코스예요. 오전에는 예원과 성황묘에서 전통 정원과 찻집 분위기를 느끼고, 점심에는 게살 만두나 향신료 부담이 적은 광동식 훠궈를 추천해요. 오후에는 난징동루를 천천히 걷고, 저녁에는 한국 요리로 익숙한 식사를 챙긴 뒤 와이탄 야경으로 마무리하는 일정입니다. 부모님과 함께라면 이동은 택시나 디디를 추천해요.",
+    "body": "무리한 이동은 줄이고, 체력 부담은 낮추고, 인생샷과 식사 만족도는 챙기는 부모님 동반 상하이 코스예요. 마사지로 하루를 마무리하는 것을 추천해요.",
     "tags": "가족,효도,부모님,편한코스,야경,한국음식",
-    "place_ids": "yuyuan,chenghuangmiao,huxinting_teahouse,lailai_xiaolong,futiantian_beef_hotpot_renmin_square,nanjing_east,shuanghuadian_nanjing_east,haenyeo_jeju_new_world,waitan",
+    "place_ids": "yuyuan,chenghuangmiao,huxinting_teahouse,lailai_xiaolong,futiantian_beef_hotpot_renmin_square,nanjing_east,shuanghuadian_nanjing_east,haenyeo_jeju_new_world,waitan,taoyuanxiang,zhengyuanyuan,kangdao_massage",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_001.jpg",
     "estimated_time": "1일",
     "recommended_time": "오전~저녁",
     "difficulty": "쉬움",
     "sort_order": 1,
-    "status": "active"
+    "status": "active",
+    "route_sections": [
+      {
+        "time_label": "오전",
+        "icon": "garden",
+        "title": "예원 · 성황묘 · 호심정 찻집",
+        "description": "전통 정원과 찻집 분위기를 천천히 즐기며 부모님과 가볍게 시작해보세요.",
+        "place_ids": [
+          "yuyuan",
+          "chenghuangmiao",
+          "huxinting_teahouse"
+        ],
+        "image_url": "/images/magazines/routes/mag_001_morning.jpg"
+      },
+      {
+        "time_label": "점심",
+        "icon": "food",
+        "title": "라이라이 샤오롱바오 · 푸텐티엔 선뉴난바오",
+        "description": "게살 만두나 향신료 부담이 적은 광동식 훠궈로 편하게 식사해요.",
+        "place_ids": [
+          "lailai_xiaolong",
+          "futiantian_beef_hotpot_renmin_square"
+        ],
+        "image_url": "/images/magazines/routes/mag_001_lunch.jpg"
+      },
+      {
+        "time_label": "오후",
+        "icon": "walk",
+        "title": "난징동루 · 쌍화점 난징동루점",
+        "description": "이동 부담을 줄이고 대표 보행거리와 익숙한 한국 음식을 함께 챙겨요.",
+        "place_ids": [
+          "nanjing_east",
+          "shuanghuadian_nanjing_east"
+        ],
+        "image_url": "/images/magazines/routes/mag_001_afternoon.jpg"
+      },
+      {
+        "time_label": "저녁",
+        "icon": "night",
+        "title": "해녀제주요리 신세계성점 · 와이탄",
+        "description": "익숙한 식사로 마무리한 뒤 와이탄 야경까지 보는 효도 코스예요.",
+        "place_ids": [
+          "haenyeo_jeju_new_world",
+          "waitan"
+        ],
+        "image_url": "/images/magazines/routes/mag_001_evening.jpg"
+      },
+      {
+        "time_label": "밤",
+        "icon": "massage",
+        "title": "마사지샵 · 와이탄 야경",
+        "description": "하루 종일 걸은 뒤 마사지로 피로를 풀며 가볍게 마무리해요.",
+        "place_ids": [
+          "taoyuanxiang"
+          "zhengyuanyuan",
+          "kangdao_massage"
+        ],
+        "image_url": "/images/magazines/routes/mag_001_evening.jpg"
+      },
+    ]
   },
   {
     "id": "mag_002",
@@ -25,7 +84,52 @@
     "recommended_time": "오후",
     "difficulty": "보통",
     "sort_order": 2,
-    "status": "active"
+    "status": "active",
+    "route_sections": [
+      {
+        "time_label": "준비",
+        "icon": "sparkle",
+        "title": "중티 감성 준비",
+        "description": "호텔이나 숙소에서 메이크업과 스타일을 준비한 뒤 쇼핑 코스로 이동해요.",
+        "place_ids": [],
+        "image_url": "/images/magazines/routes/mag_002_prep.jpg"
+      },
+      {
+        "time_label": "오후",
+        "icon": "shopping",
+        "title": "징안다위에청 · 왕샤오뻔",
+        "description": "중티 감성의 시작점으로 쇼핑몰과 인기 브랜드를 먼저 둘러보세요.",
+        "place_ids": [
+          "jingan_joy_city",
+          "wangxiaoben_jingan_joy_city"
+        ],
+        "image_url": "/images/magazines/routes/mag_002_afternoon.jpg"
+      },
+      {
+        "time_label": "쇼핑",
+        "icon": "bag",
+        "title": "KKV · WOW COLOUR · THE COLORIST · TOP TOY",
+        "description": "뷰티, 잡화, 피규어까지 한 번에 둘러보며 중국식 쇼핑 감성을 즐겨요.",
+        "place_ids": [
+          "kkv_jingan_joy_city",
+          "wow_colour_jingan_joy_city",
+          "the_colorist_jingan_joy_city",
+          "toptoy_jingan_joy_city"
+        ],
+        "image_url": "/images/magazines/routes/mag_002_shopping.jpg"
+      },
+      {
+        "time_label": "마무리",
+        "icon": "food",
+        "title": "헌지우이치엔 · G3-STUDIO",
+        "description": "현지식 식사와 개성 있는 공간까지 더하면 중티 하루 코스가 완성돼요.",
+        "place_ids": [
+          "henjiu_yiqian",
+          "g3_studio_yanping_road"
+        ],
+        "image_url": "/images/magazines/routes/mag_002_finish.jpg"
+      }
+    ]
   },
   {
     "id": "mag_003",
@@ -39,7 +143,51 @@
     "recommended_time": "오후",
     "difficulty": "쉬움",
     "sort_order": 3,
-    "status": "active"
+    "status": "active",
+    "route_sections": [
+      {
+        "time_label": "시작",
+        "icon": "camera",
+        "title": "우캉멘션 · 쑹칭링 고거",
+        "description": "상하이 감성 산책의 대표 출발점에서 건축과 오래된 거리 분위기를 느껴보세요.",
+        "place_ids": [
+          "wukang_building",
+          "soong_chingling_former_residence"
+        ],
+        "image_url": "/images/magazines/routes/mag_003_start.jpg"
+      },
+      {
+        "time_label": "향기",
+        "icon": "sparkle",
+        "title": "관샤 상하이",
+        "description": "니치 향수와 감각적인 공간을 둘러보며 조용한 상하이 감성을 이어가요.",
+        "place_ids": [
+          "to_summer_shanghai"
+        ],
+        "image_url": "/images/magazines/routes/mag_003_scent.jpg"
+      },
+      {
+        "time_label": "산책",
+        "icon": "walk",
+        "title": "태원로·영가로 화원양방 · 하옌 옛집",
+        "description": "오래된 저택과 조용한 골목을 따라 사진 찍기 좋은 산책 코스예요.",
+        "place_ids": [
+          "taiyuan_yongjia_garden_villas",
+          "xia_yan_former_residence"
+        ],
+        "image_url": "/images/magazines/routes/mag_003_walk.jpg"
+      },
+      {
+        "time_label": "마무리",
+        "icon": "coffee",
+        "title": "루이진빈관 일대",
+        "description": "정원과 호텔 주변 분위기를 천천히 보며 여유롭게 마무리해요.",
+        "place_ids": [
+          "ruijin_hotel"
+        ],
+        "image_url": "/images/magazines/routes/mag_003_finish.jpg"
+      }
+    ]
   },
   {
     "id": "mag_004",
@@ -53,7 +201,55 @@
     "recommended_time": "오후",
     "difficulty": "쉬움",
     "sort_order": 4,
-    "status": "active"
+    "status": "active",
+    "route_sections": [
+      {
+        "time_label": "오전",
+        "icon": "sun",
+        "title": "상하이 박물관 · 상하이 역사박물관",
+        "description": "중국 고대 문화와 상하이의 역사를 무료 전시로 만나보세요.",
+        "place_ids": [
+          "shanghai_museum",
+          "shanghai_history_museum"
+        ],
+        "image_url": "/images/magazines/routes/mag_004_morning.jpg"
+      },
+      {
+        "time_label": "점심·휴식",
+        "icon": "food",
+        "title": "상하이 IFC 몰 · 정대광장",
+        "description": "다양한 레스토랑과 카페가 있는 실내몰에서 식사와 휴식을 즐겨보세요.",
+        "place_ids": [
+          "shanghai_ifc_mall",
+          "super_brand_mall"
+        ],
+        "image_url": "/images/magazines/routes/mag_004_lunch.jpg"
+      },
+      {
+        "time_label": "오후",
+        "icon": "art",
+        "title": "서안미술관 · 롱미술관 서안관 · 상하이 당대예술박물관",
+        "description": "현대 예술 전시를 감상하며 여유로운 시간을 보내세요.",
+        "place_ids": [
+          "west_bund_museum",
+          "long_museum_west_bund",
+          "power_station_of_art"
+        ],
+        "image_url": "/images/magazines/routes/mag_004_afternoon.jpg"
+      },
+      {
+        "time_label": "마무리",
+        "icon": "coffee",
+        "title": "두윈서원 · 루자쭈이 실내몰 카페",
+        "description": "감성 서점과 카페에서 편안하게 하루를 마무리해요.",
+        "place_ids": [
+          "duoyun_bookstore",
+          "shanghai_ifc_mall",
+          "super_brand_mall"
+        ],
+        "image_url": "/images/magazines/routes/mag_004_finish.jpg"
+      }
+    ]
   },
   {
     "id": "mag_005",
@@ -67,7 +263,53 @@
     "recommended_time": "오후~저녁",
     "difficulty": "보통",
     "sort_order": 5,
-    "status": "active"
+    "status": "active",
+    "route_sections": [
+      {
+        "time_label": "시작",
+        "icon": "hotel",
+        "title": "카펠라 상하이 · 불가리 호텔 상하이",
+        "description": "프랑스 조계지와 고급 호텔 분위기로 감각적인 하루를 시작해요.",
+        "place_ids": [
+          "capella_shanghai",
+          "bulgari_hotel_shanghai"
+        ],
+        "image_url": "/images/magazines/routes/mag_005_start.jpg"
+      },
+      {
+        "time_label": "쇼핑",
+        "icon": "bag",
+        "title": "하메이 · 메종동량",
+        "description": "뷰티 편집샵과 명품 편집샵을 둘러보며 상하이식 감도를 느껴보세요.",
+        "place_ids": [
+          "harmay",
+          "maison_dongliang"
+        ],
+        "image_url": "/images/magazines/routes/mag_005_shopping.jpg"
+      },
+      {
+        "time_label": "문화",
+        "icon": "camera",
+        "title": "프라다 롱자이",
+        "description": "프라다가 복원한 저택 공간에서 건축과 전시, 사진 스팟을 함께 즐겨요.",
+        "place_ids": [
+          "prada_rongzhai"
+        ],
+        "image_url": "/images/magazines/routes/mag_005_culture.jpg"
+      },
+      {
+        "time_label": "마무리",
+        "icon": "walk",
+        "title": "프랑스 조계지 산책",
+        "description": "숙소와 쇼핑 스팟 주변을 가볍게 걸으며 분위기 있게 마무리해요.",
+        "place_ids": [
+          "capella_shanghai",
+          "harmay",
+          "maison_dongliang"
+        ],
+        "image_url": "/images/magazines/routes/mag_005_finish.jpg"
+      }
+    ]
   },
   {
     "id": "mag_006",
@@ -81,7 +323,53 @@
     "recommended_time": "오전~밤",
     "difficulty": "보통",
     "sort_order": 6,
-    "status": "active"
+    "status": "active",
+    "route_sections": [
+      {
+        "time_label": "브런치",
+        "icon": "camera",
+        "title": "하쿠나마타타 화이하이중루점",
+        "description": "MZ가 많이 가는 빈티지 감성 즉석사진 스튜디오에서 스냅 촬영을 해요.",
+        "place_ids": [
+          "hakuna_matata"
+        ],
+        "image_url": "/images/magazines/routes/mag_006_camera.jpg"
+      },
+      {
+        "time_label": "점심",
+        "icon": "food",
+        "title": "쑤샤오류",
+        "description": "상하이식 딤섬으로 부담 없이 현지 음식을 즐겨보세요.",
+        "place_ids": [
+          "su_xiaoliu"
+        ],
+        "image_url": "/images/magazines/routes/mag_006_lunch.jpg"
+      },
+      {
+        "time_label": "오후",
+        "icon": "shopping",
+        "title": "프라다 롱자이 · 하메이 · 라벨후드 · 슈슈통 · 블란버니",
+        "description": "공간, 쇼핑, 사진까지 한 번에 즐기는 감도 높은 오후 코스예요.",
+        "place_ids": [
+          "prada_rongzhai",
+          "harmay",
+          "labelhood",
+          "shushu_tong",
+          "blanbunny"
+        ],
+        "image_url": "/images/magazines/routes/mag_006_afternoon.jpg"
+      },
+      {
+        "time_label": "저녁",
+        "icon": "night",
+        "title": "헌지우이치엔",
+        "description": "현지 분위기 가득한 양꼬치 맛집에서 하루를 든든하게 마무리해요.",
+        "place_ids": [
+          "henjiu_yiqian"
+        ],
+        "image_url": "/images/magazines/routes/mag_006_evening.jpg"
+      }
+    ]
   },
   {
     "id": "mag_007",
@@ -95,7 +383,60 @@
     "recommended_time": "오전~밤",
     "difficulty": "보통",
     "sort_order": 7,
-    "status": "active"
+    "status": "active",
+    "route_sections": [
+      {
+        "time_label": "시작",
+        "icon": "food",
+        "title": "디엔더우더 · 희차",
+        "description": "한국인 여행자들이 자주 찾는 무난한 맛집과 음료로 시작해요.",
+        "place_ids": [
+          "diandoude",
+          "heytea"
+        ],
+        "image_url": "/images/magazines/routes/mag_007_start.jpg"
+      },
+      {
+        "time_label": "관광",
+        "icon": "camera",
+        "title": "와이탄 · 예원 · 임시정부 · 신천지",
+        "description": "처음 상하이에 왔다면 놓치기 아쉬운 대표 스팟을 한 곳 정해 둘러봐요.",
+        "place_ids": [
+          "waitan",
+          "yuyuan",
+          "korean_provisional_government",
+          "xintiandi"
+        ],
+        "image_url": "/images/magazines/routes/mag_007_sightseeing.jpg"
+      },
+      {
+        "time_label": "간식·쇼핑",
+        "icon": "bag",
+        "title": "차지 · 릴리안 에그타르트 · 미니소 · 하메이 · 우캉멘션",
+        "description": "간식과 쇼핑, 사진 스팟을 섞어 실패 확률 낮은 동선을 만들어요.",
+        "place_ids": [
+          "chagee",
+          "lillian_egg_tart",
+          "miniso",
+          "harmay",
+          "wukang_building"
+        ],
+        "image_url": "/images/magazines/routes/mag_007_shopping.jpg"
+      },
+      {
+        "time_label": "저녁",
+        "icon": "night",
+        "title": "양스덤플링 · 장볜청와이 · 홍쿠이자 · 레드립스",
+        "description": "취향에 맞는 현지식 또는 익숙한 맛으로 하루를 마무리해요.",
+        "place_ids": [
+          "yangs_dumpling",
+          "jiangbianchengwai",
+          "hongkuijia",
+          "red_lips"
+        ],
+        "image_url": "/images/magazines/routes/mag_007_evening.jpg"
+      }
+    ]
   },
   {
     "id": "mag_008",
@@ -109,7 +450,57 @@
     "recommended_time": "아침~저녁",
     "difficulty": "쉬움",
     "sort_order": 8,
-    "status": "active"
+    "status": "active",
+    "route_sections": [
+      {
+        "time_label": "아침",
+        "icon": "coffee",
+        "title": "스타벅스 · 루이싱커피 · 파리바게뜨",
+        "description": "익숙한 커피와 빵으로 중국 여행 중 아는 맛의 아침을 챙겨요.",
+        "place_ids": [
+          "starbucks",
+          "luckin_coffee",
+          "paris_baguette"
+        ],
+        "image_url": "/images/magazines/routes/mag_008_morning.jpg"
+      },
+      {
+        "time_label": "점심",
+        "icon": "food",
+        "title": "맥도날드 · KFC · 피자헛 · 도미노피자",
+        "description": "현지 음식이 부담스러울 때 실패 적은 글로벌 프랜차이즈를 활용해요.",
+        "place_ids": [
+          "mcdonalds",
+          "kfc",
+          "pizza_hut",
+          "dominos_pizza"
+        ],
+        "image_url": "/images/magazines/routes/mag_008_lunch.jpg"
+      },
+      {
+        "time_label": "브런치",
+        "icon": "plate",
+        "title": "Wagas · Baker & Spice",
+        "description": "조금 더 든든하고 깔끔한 브런치형 식사를 원할 때 좋아요.",
+        "place_ids": [
+          "wagas",
+          "baker_spice"
+        ],
+        "image_url": "/images/magazines/routes/mag_008_brunch.jpg"
+      },
+      {
+        "time_label": "장보기",
+        "icon": "mart",
+        "title": "허마센셩 · 알디 · 세븐일레븐",
+        "description": "과일, 요거트, 간편식으로 숙소에서 편하게 한 끼를 해결해보세요.",
+        "place_ids": [
+          "hema_fresh",
+          "aldi",
+          "seven_eleven"
+        ],
+        "image_url": "/images/magazines/routes/mag_008_mart.jpg"
+      }
+    ]
   },
   {
     "id": "mag_009",
@@ -123,7 +514,58 @@
     "recommended_time": "아침~저녁",
     "difficulty": "쉬움",
     "sort_order": 9,
-    "status": "active"
+    "status": "active",
+    "route_sections": [
+      {
+        "time_label": "카페",
+        "icon": "coffee",
+        "title": "코메다 커피 · 아라비카",
+        "description": "일본식 카페와 감성 커피로 가볍게 시작하기 좋아요.",
+        "place_ids": [
+          "komeda_coffee",
+          "arabica"
+        ],
+        "image_url": "/images/magazines/routes/mag_009_cafe.jpg"
+      },
+      {
+        "time_label": "식사",
+        "icon": "food",
+        "title": "스키야 · 요시노야 · 사이제리야 · 코코이치방야",
+        "description": "규동, 양식, 카레까지 익숙한 메뉴로 부담 없이 식사해요.",
+        "place_ids": [
+          "sukiya",
+          "yoshinoya",
+          "saizeriya",
+          "coco_ichibanya"
+        ],
+        "image_url": "/images/magazines/routes/mag_009_meal.jpg"
+      },
+      {
+        "time_label": "라멘",
+        "icon": "noodle",
+        "title": "아지센 라멘 · 잇푸도 · 하카타 잇코샤",
+        "description": "중국 음식이 지칠 때 따뜻한 라멘으로 쉬어가기 좋아요.",
+        "place_ids": [
+          "ajisen_ramen",
+          "ippudo",
+          "hakata_ikkousha"
+        ],
+        "image_url": "/images/magazines/routes/mag_009_ramen.jpg"
+      },
+      {
+        "time_label": "저녁",
+        "icon": "night",
+        "title": "하마스시 · 갓텐스시 · 카츠쿠라 · 토리키조쿠",
+        "description": "스시, 돈카츠, 꼬치까지 일본식 저녁 선택지를 모아봤어요.",
+        "place_ids": [
+          "hamazushi",
+          "gatten_sushi",
+          "katsukura",
+          "torikizoku"
+        ],
+        "image_url": "/images/magazines/routes/mag_009_evening.jpg"
+      }
+    ]
   },
   {
     "id": "mag_010",
@@ -163,7 +605,41 @@
       "현지인 일상 분위기 느끼기 쉬움"
     ],
     "status": "active",
-    "sort_order": 10
+    "sort_order": 10,
+    "route_sections": [
+      {
+        "time_label": "시작",
+        "icon": "mart",
+        "title": "로손 · 패밀리마트",
+        "description": "중국 편의점에서 도시락, 음료, 간식을 가볍게 둘러보세요.",
+        "place_ids": [
+          "lawson",
+          "familymart"
+        ],
+        "image_url": "/images/magazines/routes/mag_010_start.jpg"
+      },
+      {
+        "time_label": "로컬",
+        "icon": "bag",
+        "title": "편리봉 · 하오터마이",
+        "description": "현지 편의점과 할인 간식 매장에서 중국식 야식 구경을 해보세요.",
+        "place_ids": [
+          "bianlifeng",
+          "haotemai"
+        ],
+        "image_url": "/images/magazines/routes/mag_010_local.jpg"
+      },
+      {
+        "time_label": "마무리",
+        "icon": "food",
+        "title": "허마 미니",
+        "description": "과일, 요거트, 간편식까지 숙소에서 먹기 좋은 메뉴를 챙겨요.",
+        "place_ids": [
+          "hema_mini"
+        ],
+        "image_url": "/images/magazines/routes/mag_010_finish.jpg"
+      }
+    ]
   },
   {
     "id": "mag_011",
@@ -204,7 +680,41 @@
       "커피 + 디저트 문화 체험 가능"
     ],
     "status": "active",
-    "sort_order": 11
+    "sort_order": 11,
+    "route_sections": [
+      {
+        "time_label": "오전",
+        "icon": "coffee",
+        "title": "Manner Coffee · Seesaw Coffee",
+        "description": "가성비 커피와 조용한 분위기의 카페에서 하루를 시작해요.",
+        "place_ids": [
+          "manner_coffee",
+          "seesaw_coffee"
+        ],
+        "image_url": "/images/magazines/routes/mag_011_morning.jpg"
+      },
+      {
+        "time_label": "오후",
+        "icon": "camera",
+        "title": "% Arabica · Peet's Coffee",
+        "description": "사진 찍기 좋은 감성 카페와 안정적인 커피 브랜드를 둘러봐요.",
+        "place_ids": [
+          "arabica_shanghai",
+          "peets_coffee"
+        ],
+        "image_url": "/images/magazines/routes/mag_011_afternoon.jpg"
+      },
+      {
+        "time_label": "마무리",
+        "icon": "laptop",
+        "title": "Grid Coffee",
+        "description": "작업하기 좋은 분위기에서 커피와 디저트로 여유롭게 마무리해요.",
+        "place_ids": [
+          "grid_coffee"
+        ],
+        "image_url": "/images/magazines/routes/mag_011_finish.jpg"
+      }
+    ]
   },
   {
     "id": "mag_012",
@@ -245,6 +755,49 @@
       "현지인들의 진짜 밤 분위기 느끼기 좋음"
     ],
     "status": "active",
-    "sort_order": 12
+    "sort_order": 12,
+    "route_sections": [
+      {
+        "time_label": "밤 10시",
+        "icon": "hotpot",
+        "title": "하이디라오",
+        "description": "늦은 시간에도 부담 없이 먹기 좋은 훠궈로 야식 코스를 시작해요.",
+        "place_ids": [
+          "haidilao"
+        ],
+        "image_url": "/images/magazines/routes/mag_012_hotpot.jpg"
+      },
+      {
+        "time_label": "밤거리",
+        "icon": "night",
+        "title": "쓰징 야시장",
+        "description": "중국식 꼬치와 맥주, 현지 밤 분위기를 제대로 느껴보세요.",
+        "place_ids": [
+          "sijing_night_market"
+        ],
+        "image_url": "/images/magazines/routes/mag_012_market.jpg"
+      },
+      {
+        "time_label": "편의점",
+        "icon": "mart",
+        "title": "로손 · 패밀리마트",
+        "description": "간단한 컵라면, 음료, 간식으로 숙소 야식을 챙기기 좋아요.",
+        "place_ids": [
+          "lawson",
+          "familymart"
+        ],
+        "image_url": "/images/magazines/routes/mag_012_convenience.jpg"
+      },
+      {
+        "time_label": "마무리",
+        "icon": "food",
+        "title": "하오샹라이",
+        "description": "할인마트에서 부담 없는 현지 간식을 구경해봐요.",
+        "place_ids": [
+          "haoxianglai"
+        ],
+        "image_url": "/images/magazines/routes/mag_012_finish.jpg"
+      }
+    ]
   }
 ]
