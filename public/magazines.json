@@ -6,7 +6,7 @@
     "body": "엄빠도 만족하는 여행 코스. 무리한 이동은 줄이고, 체력 부담은 낮추고, 인생샷과 식사 만족도 upup! 하루 마무리는 마시지로",
     "tags": "가족,효도,부모님,편한코스,야경,한국음식",
     "place_ids": "yuyuan,chenghuangmiao,huxinting_teahouse,lailai_xiaolong,futiantian_beef_hotpot_renmin_square,nanjing_east,shuanghuadian_nanjing_east,haenyeo_jeju_new_world,waitan,taoyuanxiang,zhengyuanyuan,kangdao_massage",
-    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_001.jpg",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_001_thumb.webp?v=1",
     "estimated_time": "1일",
     "recommended_time": "오전~저녁",
     "difficulty": "쉬움",
@@ -64,13 +64,14 @@
         "title": "마사지샵 · 와이탄 야경",
         "description": "하루 종일 걸은 뒤 마사지로 피로를 풀며 가볍게 마무리해요.",
         "place_ids": [
-          "taoyuanxiang"
+          "taoyuanxiang",
           "zhengyuanyuan",
           "kangdao_massage"
         ],
         "image_url": "/images/magazines/routes/mag_001_evening.jpg"
-      },
-    ]
+      }
+    ],
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_001.jpg?v=1"
   },
   {
     "id": "mag_002",
@@ -79,7 +80,7 @@
     "body": "제대로 중티 감성을 즐겨보는 쇼핑 코스예요. 호텔에서 출장 메이크업을 받고, 징안다위에청으로 이동해 쇼핑하고 사진 찍기!",
     "tags": "중티,쇼핑,사진,핫플,메이크업,감성",
     "place_ids": "jingan_joy_city,wangxiaoben_jingan_joy_city,kkv_jingan_joy_city,wow_colour_jingan_joy_city,the_colorist_jingan_joy_city,henjiu_yiqian,toptoy_jingan_joy_city,g3_studio_yanping_road",
-    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_002.jpg",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_002_thumb.webp?v=1",
     "estimated_time": "반나절",
     "recommended_time": "오후",
     "difficulty": "보통",
@@ -125,11 +126,12 @@
         "title": "헌지우이치엔",
         "description": "내몽고식 양꼬치까지 더하면 중티 하루 코스가 완성돼요.",
         "place_ids": [
-          "henjiu_yiqian",
+          "henjiu_yiqian"
         ],
         "image_url": "/images/magazines/routes/mag_002_finish.jpg"
       }
-    ]
+    ],
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_002.jpg?v=1"
   },
   {
     "id": "mag_003",
@@ -138,7 +140,7 @@
     "body": "오래된 저택, 카페, 건축, 정원, 향까지...상하이의 조용하고 감각적인 분위기를 느끼고 싶은 당신에게 추천하는 코스. ",
     "tags": "감성,산책,카페,건축,향수,사진,프랑스조계지",
     "place_ids": "wukang_building,soong_chingling_former_residence,to_summer_shanghai,taiyuan_yongjia_garden_villas,xia_yan_former_residence,ruijin_hotel",
-    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_003.jpg",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_003_thumb.webp?v=1",
     "estimated_time": "반나절",
     "recommended_time": "오후",
     "difficulty": "쉬움",
@@ -187,7 +189,8 @@
         ],
         "image_url": "/images/magazines/routes/mag_003_finish.jpg"
       }
-    ]
+    ],
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_003.jpg?v=1"
   },
   {
     "id": "mag_004",
@@ -196,7 +199,7 @@
     "body": "날씨 요정이 안 도와줘도 끄떡 없어요! 실내에서 아늑하게 즐겨보는 코스~",
     "tags": "비,실내,미술관,박물관,카페,쇼핑몰,전시",
     "place_ids": "shanghai_museum,shanghai_history_museum,shanghai_ifc_mall,super_brand_mall,duoyun_bookstore,west_bund_museum,long_museum_west_bund,power_station_of_art",
-    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_004.jpg",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_004_thumb.webp?v=1",
     "estimated_time": "반나절~1일",
     "recommended_time": "오후",
     "difficulty": "쉬움",
@@ -249,7 +252,8 @@
         ],
         "image_url": "/images/magazines/routes/mag_004_finish.jpg"
       }
-    ]
+    ],
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_004.jpg?v=1"
   },
   {
     "id": "mag_005",
@@ -258,7 +262,7 @@
     "body": "연예인을 따라 상하이를 조금 더 고급스럽고 감각적으로 즐기고 싶다면? 호텔 라운지나 주변 산책 코스, 쇼핑 스팟만 골라서 즐겨도 충분해요!",
     "tags": "강민경,감성,쇼핑,호텔,프랑스조계지,핫플,사진",
     "place_ids": "capella_shanghai,bulgari_hotel_shanghai,harmay,maison_dongliang,prada_rongzhai",
-    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_005.jpg",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_005_thumb.webp?v=1",
     "estimated_time": "반나절~1일",
     "recommended_time": "오후~저녁",
     "difficulty": "보통",
@@ -308,7 +312,8 @@
         ],
         "image_url": "/images/magazines/routes/mag_005_finish.jpg"
       }
-    ]
+    ],
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_005.jpg?v=1"
   },
   {
     "id": "mag_006",
@@ -317,7 +322,7 @@
     "body": "연예인 따라 상하이 당일치기 하기! 하루만 즐겨야 한다면 이 코스를 저장해보세요. 이동이 많은 편이라 이동편은 디디를 추천해요.",
     "tags": "전소미,당일치기,쇼핑,브런치,핫플,프라다롱자이,양꼬치",
     "place_ids": "hakuna_matata,su_xiaoliu,prada_rongzhai,harmay,labelhood,shushu_tong,blanbunny,henjiu_yiqian",
-    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_006.jpg",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_006_thumb.webp?v=1",
     "estimated_time": "1일",
     "recommended_time": "오전~밤",
     "difficulty": "보통",
@@ -368,7 +373,8 @@
         ],
         "image_url": "/images/magazines/routes/mag_006_evening.jpg"
       }
-    ]
+    ],
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_006.jpg?v=1"
   },
   {
     "id": "mag_007",
@@ -377,7 +383,7 @@
     "body": "상하이 처음 가는 한국인이라면 한 번쯤 봤을 국룰 코스! 한국인 여행자들이 자주 찾는 맛집과 음료 스팟을 모았어요.",
     "tags": "한국인국룰,SNS코스,맛집,간식,핫플,상하이처음",
     "place_ids": "diandoude,heytea,henjiu_yiqian,waitan,red_lips,yangs_dumpling,chagee,korean_provisional_government,xintiandi,polux_xintiandi,wukang_building,harmay,jiangbianchengwai,lillian_egg_tart,miniso,yuyuan,hongkuijia",
-    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_007.jpg",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_007_thumb.webp?v=1",
     "estimated_time": "1~2일",
     "recommended_time": "오전~밤",
     "difficulty": "보통",
@@ -424,14 +430,15 @@
         "icon": "night",
         "title": "강변성외(카오위) · 홍쿠이지아(롱샤) · 레드립스(마라반)",
         "description": "취향에 맞는 현지식으로 하루를 마무리해요.",
-        "place_ids": [,
+        "place_ids": [
           "jiangbianchengwai",
           "hongkuijia",
           "red_lips"
         ],
         "image_url": "/images/magazines/routes/mag_007_evening.jpg"
       }
-    ]
+    ],
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_007.jpg?v=1"
   },
   {
     "id": "mag_008",
@@ -440,7 +447,7 @@
     "body": "중국 여행이 즐거워도 급 익숙한 맛이 그리워질 때가 있음... 그럴 땐 무리해서 새로운 메뉴에 도전하기보다, 프랜차이즈를 활용해보세요! ",
     "tags": "중국음식적응,프랜차이즈,아는맛,맥도날드,스타벅스,KFC,여행팁",
     "place_ids": "mcdonalds,kfc,starbucks,luckin_coffee,wagas,baker_spice,paris_baguette,hema_fresh,pizza_hut,dominos_pizza,aldi,seven_eleven",
-    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_008.jpg",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_008_thumb.webp?v=1",
     "estimated_time": "30분~1시간",
     "recommended_time": "아침~저녁",
     "difficulty": "쉬움",
@@ -495,7 +502,8 @@
         ],
         "image_url": "/images/magazines/routes/mag_008_mart.jpg"
       }
-    ]
+    ],
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_008.jpg?v=1"
   },
   {
     "id": "mag_009",
@@ -504,7 +512,7 @@
     "body": "상하이는 일본 현지 외식 브랜드가 꽤 많은 도시예요. 현지 음식이 부담스럽거나 익숙한 일본식 메뉴가 생각날 때 추천!",
     "tags": "일본프랜차이즈,라멘,스시,카페,아는맛,상하이맛집",
     "place_ids": "hamazushi,sukiya,komeda_coffee,yoshinoya,ajisen_ramen,saizeriya,yamazaki_bakery,coco_ichibanya,ippudo,hakata_ikkousha,arabica,katsukura,gatten_sushi,torikizoku",
-    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_009.jpg",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_009_thumb.webp?v=1",
     "estimated_time": "30분~1시간",
     "recommended_time": "아침~저녁",
     "difficulty": "쉬움",
@@ -555,19 +563,20 @@
         "place_ids": [
           "hamazushi",
           "gatten_sushi",
-          "katsukura",
+          "katsukura"
         ],
         "image_url": "/images/magazines/routes/mag_009_evening.jpg"
       }
-    ]
+    ],
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_009.jpg?v=1"
   },
   {
     "id": "mag_010",
     "title": "#중국 편의점 털기",
     "subtitle": "중국 여행 초보라면 한 번쯤 꼭 해봐야 하는 야식 코스",
     "description": "일본식 편의점부터 로컬 편의점까지 한국과 비슷하면서도 꽤 달라요. 전자레인지 사용법이나 QR 결제 팁까지 함께 정리했어요.",
-    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_010_thumb.jpg",
-    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_010_cover.jpg",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_010_thumb.webp?v=1",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_010.jpg?v=1",
     "category": "food",
     "city": "상하이",
     "tags": [
@@ -630,8 +639,8 @@
     "title": "#중국 카페 감성 투어",
     "subtitle": "상하이에서 발견하는 중국식 카페 감성",
     "description": "상하이=중국 1위 커피 소비 도시. 중국 오리지널 브랜드를 통해 중국 카페만의 감성을 느껴보시길 강추합니다!",
-    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_011_thumb.jpg",
-    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_011_cover.jpg",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_011_thumb.webp?v=1",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_011.jpg?v=1",
     "category": "cafe",
     "city": "상하이",
     "tags": [
@@ -642,7 +651,7 @@
       "상하이카페"
     ],
     "place_ids": [
-      "ops_cafe"
+      "ops_cafe",
       "three_and_half_cafe",
       "manner_coffee",
       "luckin_coffee",
@@ -653,7 +662,7 @@
     "difficulty": "쉬움",
     "tips": [
       "Manner Coffee는 가성비, O.P.S는 스페셜티 카페로 유명해요.",
-      "주문은 미니프로그램이나 QR 주문 방식인 경우가 많아요.",
+      "주문은 미니프로그램이나 QR 주문 방식인 경우가 많아요."
     ],
     "highlights": [
       "한국보다 감성적인 인테리어",
@@ -681,18 +690,18 @@
         "title": "O.P.S 카페 · 3½ 삼과 이분의 일",
         "description": "상하이 대표 스페셜티 카페. 두 가게 거리가 멀지 않아요. 항상 웨이팅이 있어서 오픈런을 추천해요.",
         "place_ids": [
-          "ops_cafe"
-          "three_and_half_cafe",
+          "ops_cafe",
+          "three_and_half_cafe"
         ],
         "image_url": "/images/magazines/routes/mag_011_afternoon.jpg"
       },
       {
         "time_label": "마무리",
         "icon": "laptop",
-        "title": "그리드 커피 · 시소 커피"
+        "title": "그리드 커피 · 시소 커피",
         "description": "작업하기 좋은 분위기에서 커피와 디저트로 여유롭게 휴식해요.",
         "place_ids": [
-          "grid_coffee"
+          "grid_coffee",
           "seesaw_coffee"
         ],
         "image_url": "/images/magazines/routes/mag_011_finish.jpg"
@@ -704,8 +713,8 @@
     "title": "#중국 야식 추천",
     "subtitle": "상하이에서 밤 늦게까지 즐기는 중국식 야식 문화",
     "description": "중국은 밤이 되면 진짜 여행이 시작된다는 말이 있어요. 새벽까지 운영하는 훠궈집부터 길거리 꼬치, 야시장, 편의점 야식까지.",
-    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_012_thumb.jpg",
-    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_012_cover.jpg",
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_012_thumb.webp?v=1",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_012.jpg?v=1",
     "category": "food",
     "city": "상하이",
     "tags": [
@@ -728,7 +737,7 @@
     "tips": [
       "중국은 새벽까지 운영하는 식당이 많아서 늦은 시간에도 먹을 곳 찾기 쉬워요.",
       "烧烤(샤오카오)는 꼬치구이 느낌으로 맥주랑 같이 먹는 문화가 강해요.",
-      "편의점에서도 간단한 야식, 맥주, 컵라면 종류가 정말 다양해요.",
+      "편의점에서도 간단한 야식, 맥주, 컵라면 종류가 정말 다양해요."
     ],
     "highlights": [
       "밤 12시 이후에도 갈 곳 많음",
