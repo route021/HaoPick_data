@@ -7,6 +7,7 @@
     "tags": "가족,효도,부모님,편한코스,야경,한국음식",
     "place_ids": "yuyuan,chenghuangmiao,huxinting_teahouse,lailai_xiaolong,futiantian_beef_hotpot_renmin_square,nanjing_east,shuanghuadian_nanjing_east,haenyeo_jeju_new_world,waitan,taoyuanxiang,zhengyuanyuan,kangdao_massage",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_001_thumb.webp?v=1",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_001_thumb.webp?v=1",
     "estimated_time": "1일",
     "recommended_time": "오전~저녁",
     "difficulty": "쉬움",
@@ -23,7 +24,7 @@
           "chenghuangmiao",
           "huxinting_teahouse"
         ],
-        "image_url": "/images/magazines/routes/mag_001_morning.jpg"
+        "image_url": "/images/magazines/routes/mag_001_morning.webp"
       },
       {
         "time_label": "점심",
@@ -34,7 +35,7 @@
           "lailai_xiaolong",
           "futiantian_beef_hotpot_renmin_square"
         ],
-        "image_url": "/images/magazines/routes/mag_001_lunch.jpg"
+        "image_url": "/images/magazines/routes/mag_001_lunch.webp"
       },
       {
         "time_label": "오후",
@@ -45,7 +46,7 @@
           "nanjing_east",
           "shuanghuadian_nanjing_east"
         ],
-        "image_url": "/images/magazines/routes/mag_001_afternoon.jpg"
+        "image_url": "/images/magazines/routes/mag_001_afternoon.webp"
       },
       {
         "time_label": "저녁",
@@ -56,7 +57,7 @@
           "haenyeo_jeju_new_world",
           "waitan"
         ],
-        "image_url": "/images/magazines/routes/mag_001_evening.jpg"
+        "image_url": "/images/magazines/routes/mag_001_evening.webp"
       },
       {
         "time_label": "밤",
@@ -68,7 +69,7 @@
           "zhengyuanyuan",
           "kangdao_massage"
         ],
-        "image_url": "/images/magazines/routes/mag_001_evening.jpg"
+        "image_url": "/images/magazines/routes/mag_001_evening.webp"
       }
     ],
     "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_001.jpg?v=1"
@@ -81,6 +82,7 @@
     "tags": "중티,쇼핑,사진,핫플,메이크업,감성",
     "place_ids": "jingan_joy_city,wangxiaoben_jingan_joy_city,kkv_jingan_joy_city,wow_colour_jingan_joy_city,the_colorist_jingan_joy_city,henjiu_yiqian,toptoy_jingan_joy_city,g3_studio_yanping_road",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_002_thumb.webp?v=1",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_002_thumb.webp?v=1",
     "estimated_time": "반나절",
     "recommended_time": "오후",
     "difficulty": "보통",
@@ -93,7 +95,7 @@
         "title": "중티 감성 준비",
         "description": "숙소에서 출장 메이크업 혹은 셀프 도우인 메이크업으로 스타일을 준비한 뒤 쇼핑 코스로 이동해요.",
         "place_ids": [],
-        "image_url": "/images/magazines/routes/mag_002_prep.jpg"
+        "image_url": "/images/magazines/routes/mag_002_prep.webp"
       },
       {
         "time_label": "오후",
@@ -104,7 +106,7 @@
           "jingan_joy_city",
           "wangxiaoben_jingan_joy_city"
         ],
-        "image_url": "/images/magazines/routes/mag_002_afternoon.jpg"
+        "image_url": "/images/magazines/routes/mag_002_afternoon.webp"
       },
       {
         "time_label": "쇼핑",
@@ -118,7 +120,7 @@
           "toptoy_jingan_joy_city",
           "g3_studio_yanping_road"
         ],
-        "image_url": "/images/magazines/routes/mag_002_shopping.jpg"
+        "image_url": "/images/magazines/routes/mag_002_shopping.webp"
       },
       {
         "time_label": "마무리",
@@ -128,7 +130,7 @@
         "place_ids": [
           "henjiu_yiqian"
         ],
-        "image_url": "/images/magazines/routes/mag_002_finish.jpg"
+        "image_url": "/images/magazines/routes/mag_002_finish.webp"
       }
     ],
     "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_002.jpg?v=1"
@@ -141,6 +143,7 @@
     "tags": "감성,산책,카페,건축,향수,사진,프랑스조계지",
     "place_ids": "wukang_building,soong_chingling_former_residence,to_summer_shanghai,taiyuan_yongjia_garden_villas,xia_yan_former_residence,ruijin_hotel",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_003_thumb.webp?v=1",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_003_thumb.webp?v=1",
     "estimated_time": "반나절",
     "recommended_time": "오후",
     "difficulty": "쉬움",
@@ -156,7 +159,7 @@
           "wukang_building",
           "soong_chingling_former_residence"
         ],
-        "image_url": "/images/magazines/routes/mag_003_start.jpg"
+        "image_url": "/images/magazines/routes/mag_003_start.webp"
       },
       {
         "time_label": "향기",
@@ -166,7 +169,7 @@
         "place_ids": [
           "to_summer_shanghai"
         ],
-        "image_url": "/images/magazines/routes/mag_003_scent.jpg"
+        "image_url": "/images/magazines/routes/mag_003_scent.webp"
       },
       {
         "time_label": "산책",
@@ -177,7 +180,7 @@
           "taiyuan_yongjia_garden_villas",
           "xia_yan_former_residence"
         ],
-        "image_url": "/images/magazines/routes/mag_003_walk.jpg"
+        "image_url": "/images/magazines/routes/mag_003_walk.webp"
       },
       {
         "time_label": "마무리",
@@ -187,7 +190,7 @@
         "place_ids": [
           "ruijin_hotel"
         ],
-        "image_url": "/images/magazines/routes/mag_003_finish.jpg"
+        "image_url": "/images/magazines/routes/mag_003_finish.webp"
       }
     ],
     "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_003.jpg?v=1"
@@ -200,6 +203,7 @@
     "tags": "비,실내,미술관,박물관,카페,쇼핑몰,전시",
     "place_ids": "shanghai_museum,shanghai_history_museum,shanghai_ifc_mall,super_brand_mall,duoyun_bookstore,west_bund_museum,long_museum_west_bund,power_station_of_art",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_004_thumb.webp?v=1",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_004_thumb.webp?v=1",
     "estimated_time": "반나절~1일",
     "recommended_time": "오후",
     "difficulty": "쉬움",
@@ -215,7 +219,7 @@
           "shanghai_museum",
           "shanghai_history_museum"
         ],
-        "image_url": "/images/magazines/routes/mag_004_morning.jpg"
+        "image_url": "/images/magazines/routes/mag_004_morning.webp"
       },
       {
         "time_label": "점심·휴식",
@@ -226,7 +230,7 @@
           "shanghai_ifc_mall",
           "super_brand_mall"
         ],
-        "image_url": "/images/magazines/routes/mag_004_lunch.jpg"
+        "image_url": "/images/magazines/routes/mag_004_lunch.webp"
       },
       {
         "time_label": "오후",
@@ -238,7 +242,7 @@
           "long_museum_west_bund",
           "power_station_of_art"
         ],
-        "image_url": "/images/magazines/routes/mag_004_afternoon.jpg"
+        "image_url": "/images/magazines/routes/mag_004_afternoon.webp"
       },
       {
         "time_label": "마무리",
@@ -250,7 +254,7 @@
           "shanghai_ifc_mall",
           "super_brand_mall"
         ],
-        "image_url": "/images/magazines/routes/mag_004_finish.jpg"
+        "image_url": "/images/magazines/routes/mag_004_finish.webp"
       }
     ],
     "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_004.jpg?v=1"
@@ -263,6 +267,7 @@
     "tags": "강민경,감성,쇼핑,호텔,프랑스조계지,핫플,사진",
     "place_ids": "capella_shanghai,bulgari_hotel_shanghai,harmay,maison_dongliang,prada_rongzhai",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_005_thumb.webp?v=1",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_005_thumb.webp?v=1",
     "estimated_time": "반나절~1일",
     "recommended_time": "오후~저녁",
     "difficulty": "보통",
@@ -278,7 +283,7 @@
           "capella_shanghai",
           "bulgari_hotel_shanghai"
         ],
-        "image_url": "/images/magazines/routes/mag_005_start.jpg"
+        "image_url": "/images/magazines/routes/mag_005_start.webp"
       },
       {
         "time_label": "쇼핑",
@@ -288,7 +293,7 @@
         "place_ids": [
           "maison_dongliang"
         ],
-        "image_url": "/images/magazines/routes/mag_005_shopping.jpg"
+        "image_url": "/images/magazines/routes/mag_005_shopping.webp"
       },
       {
         "time_label": "식사",
@@ -298,7 +303,7 @@
         "place_ids": [
           "prada_rongzhai"
         ],
-        "image_url": "/images/magazines/routes/mag_005_culture.jpg"
+        "image_url": "/images/magazines/routes/mag_005_culture.webp"
       },
       {
         "time_label": "마무리",
@@ -310,7 +315,7 @@
           "harmay",
           "maison_dongliang"
         ],
-        "image_url": "/images/magazines/routes/mag_005_finish.jpg"
+        "image_url": "/images/magazines/routes/mag_005_finish.webp"
       }
     ],
     "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_005.jpg?v=1"
@@ -323,6 +328,7 @@
     "tags": "전소미,당일치기,쇼핑,브런치,핫플,프라다롱자이,양꼬치",
     "place_ids": "hakuna_matata,su_xiaoliu,prada_rongzhai,harmay,labelhood,shushu_tong,blanbunny,henjiu_yiqian",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_006_thumb.webp?v=1",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_006_thumb.webp?v=1",
     "estimated_time": "1일",
     "recommended_time": "오전~밤",
     "difficulty": "보통",
@@ -337,7 +343,7 @@
         "place_ids": [
           "hakuna_matata"
         ],
-        "image_url": "/images/magazines/routes/mag_006_camera.jpg"
+        "image_url": "/images/magazines/routes/mag_006_camera.webp"
       },
       {
         "time_label": "점심",
@@ -347,7 +353,7 @@
         "place_ids": [
           "su_xiaoliu"
         ],
-        "image_url": "/images/magazines/routes/mag_006_lunch.jpg"
+        "image_url": "/images/magazines/routes/mag_006_lunch.webp"
       },
       {
         "time_label": "오후",
@@ -361,7 +367,7 @@
           "shushu_tong",
           "blanbunny"
         ],
-        "image_url": "/images/magazines/routes/mag_006_afternoon.jpg"
+        "image_url": "/images/magazines/routes/mag_006_afternoon.webp"
       },
       {
         "time_label": "저녁",
@@ -371,7 +377,7 @@
         "place_ids": [
           "henjiu_yiqian"
         ],
-        "image_url": "/images/magazines/routes/mag_006_evening.jpg"
+        "image_url": "/images/magazines/routes/mag_006_evening.webp"
       }
     ],
     "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_006.jpg?v=1"
@@ -384,6 +390,7 @@
     "tags": "한국인국룰,SNS코스,맛집,간식,핫플,상하이처음",
     "place_ids": "diandoude,heytea,henjiu_yiqian,waitan,red_lips,yangs_dumpling,chagee,korean_provisional_government,xintiandi,polux_xintiandi,wukang_building,harmay,jiangbianchengwai,lillian_egg_tart,miniso,yuyuan,hongkuijia",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_007_thumb.webp?v=1",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_007_thumb.webp?v=1",
     "estimated_time": "1~2일",
     "recommended_time": "오전~밤",
     "difficulty": "보통",
@@ -399,7 +406,7 @@
           "yangs_dumpling",
           "heytea"
         ],
-        "image_url": "/images/magazines/routes/mag_007_start.jpg"
+        "image_url": "/images/magazines/routes/mag_007_start.webp"
       },
       {
         "time_label": "관광",
@@ -412,7 +419,7 @@
           "korean_provisional_government",
           "xintiandi"
         ],
-        "image_url": "/images/magazines/routes/mag_007_sightseeing.jpg"
+        "image_url": "/images/magazines/routes/mag_007_sightseeing.webp"
       },
       {
         "time_label": "쇼핑",
@@ -423,7 +430,7 @@
           "harmay",
           "wukang_building"
         ],
-        "image_url": "/images/magazines/routes/mag_007_shopping.jpg"
+        "image_url": "/images/magazines/routes/mag_007_shopping.webp"
       },
       {
         "time_label": "저녁",
@@ -435,7 +442,7 @@
           "hongkuijia",
           "red_lips"
         ],
-        "image_url": "/images/magazines/routes/mag_007_evening.jpg"
+        "image_url": "/images/magazines/routes/mag_007_evening.webp"
       }
     ],
     "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_007.jpg?v=1"
@@ -448,6 +455,7 @@
     "tags": "중국음식적응,프랜차이즈,아는맛,맥도날드,스타벅스,KFC,여행팁",
     "place_ids": "mcdonalds,kfc,starbucks,luckin_coffee,wagas,baker_spice,paris_baguette,hema_fresh,pizza_hut,dominos_pizza,aldi,seven_eleven",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_008_thumb.webp?v=1",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_008_thumb.webp?v=1",
     "estimated_time": "30분~1시간",
     "recommended_time": "아침~저녁",
     "difficulty": "쉬움",
@@ -464,7 +472,7 @@
           "luckin_coffee",
           "paris_baguette"
         ],
-        "image_url": "/images/magazines/routes/mag_008_morning.jpg"
+        "image_url": "/images/magazines/routes/mag_008_morning.webp"
       },
       {
         "time_label": "점심",
@@ -477,7 +485,7 @@
           "pizza_hut",
           "dominos_pizza"
         ],
-        "image_url": "/images/magazines/routes/mag_008_lunch.jpg"
+        "image_url": "/images/magazines/routes/mag_008_lunch.webp"
       },
       {
         "time_label": "브런치",
@@ -488,7 +496,7 @@
           "wagas",
           "baker_spice"
         ],
-        "image_url": "/images/magazines/routes/mag_008_brunch.jpg"
+        "image_url": "/images/magazines/routes/mag_008_brunch.webp"
       },
       {
         "time_label": "장보기",
@@ -500,7 +508,7 @@
           "aldi",
           "seven_eleven"
         ],
-        "image_url": "/images/magazines/routes/mag_008_mart.jpg"
+        "image_url": "/images/magazines/routes/mag_008_mart.webp"
       }
     ],
     "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_008.jpg?v=1"
@@ -513,6 +521,7 @@
     "tags": "일본프랜차이즈,라멘,스시,카페,아는맛,상하이맛집",
     "place_ids": "hamazushi,sukiya,komeda_coffee,yoshinoya,ajisen_ramen,saizeriya,yamazaki_bakery,coco_ichibanya,ippudo,hakata_ikkousha,arabica,katsukura,gatten_sushi,torikizoku",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_009_thumb.webp?v=1",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_009_thumb.webp?v=1",
     "estimated_time": "30분~1시간",
     "recommended_time": "아침~저녁",
     "difficulty": "쉬움",
@@ -528,7 +537,7 @@
           "komeda_coffee",
           "arabica"
         ],
-        "image_url": "/images/magazines/routes/mag_009_cafe.jpg"
+        "image_url": "/images/magazines/routes/mag_009_cafe.webp"
       },
       {
         "time_label": "식사",
@@ -541,7 +550,7 @@
           "saizeriya",
           "coco_ichibanya"
         ],
-        "image_url": "/images/magazines/routes/mag_009_meal.jpg"
+        "image_url": "/images/magazines/routes/mag_009_meal.webp"
       },
       {
         "time_label": "라멘",
@@ -553,7 +562,7 @@
           "ippudo",
           "hakata_ikkousha"
         ],
-        "image_url": "/images/magazines/routes/mag_009_ramen.jpg"
+        "image_url": "/images/magazines/routes/mag_009_ramen.webp"
       },
       {
         "time_label": "저녁",
@@ -565,7 +574,7 @@
           "gatten_sushi",
           "katsukura"
         ],
-        "image_url": "/images/magazines/routes/mag_009_evening.jpg"
+        "image_url": "/images/magazines/routes/mag_009_evening.webp"
       }
     ],
     "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_009.jpg?v=1"
@@ -576,7 +585,7 @@
     "subtitle": "중국 여행 초보라면 한 번쯤 꼭 해봐야 하는 야식 코스",
     "description": "일본식 편의점부터 로컬 편의점까지 한국과 비슷하면서도 꽤 달라요. 전자레인지 사용법이나 QR 결제 팁까지 함께 정리했어요.",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_010_thumb.webp?v=1",
-    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_010.jpg?v=1",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_010_thumb.webp?v=1",
     "category": "food",
     "city": "상하이",
     "tags": [
@@ -619,7 +628,7 @@
           "lawson",
           "familymart"
         ],
-        "image_url": "/images/magazines/routes/mag_010_start.jpg"
+        "image_url": "/images/magazines/routes/mag_010_start.webp"
       },
       {
         "time_label": "로컬",
@@ -630,7 +639,7 @@
           "bianlifeng",
           "haotemai"
         ],
-        "image_url": "/images/magazines/routes/mag_010_local.jpg"
+        "image_url": "/images/magazines/routes/mag_010_local.webp"
       }
     ]
   },
@@ -640,7 +649,7 @@
     "subtitle": "상하이에서 발견하는 중국식 카페 감성",
     "description": "상하이=중국 1위 커피 소비 도시. 중국 오리지널 브랜드를 통해 중국 카페만의 감성을 느껴보시길 강추합니다!",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_011_thumb.webp?v=1",
-    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_011.jpg?v=1",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_011_thumb.webp?v=1",
     "category": "cafe",
     "city": "상하이",
     "tags": [
@@ -682,7 +691,7 @@
           "manner_coffee",
           "luckin_coffee"
         ],
-        "image_url": "/images/magazines/routes/mag_011_morning.jpg"
+        "image_url": "/images/magazines/routes/mag_011_morning.webp"
       },
       {
         "time_label": "오후",
@@ -693,7 +702,7 @@
           "ops_cafe",
           "three_and_half_cafe"
         ],
-        "image_url": "/images/magazines/routes/mag_011_afternoon.jpg"
+        "image_url": "/images/magazines/routes/mag_011_afternoon.webp"
       },
       {
         "time_label": "마무리",
@@ -704,7 +713,7 @@
           "grid_coffee",
           "seesaw_coffee"
         ],
-        "image_url": "/images/magazines/routes/mag_011_finish.jpg"
+        "image_url": "/images/magazines/routes/mag_011_finish.webp"
       }
     ]
   },
@@ -714,7 +723,7 @@
     "subtitle": "상하이에서 밤 늦게까지 즐기는 중국식 야식 문화",
     "description": "중국은 밤이 되면 진짜 여행이 시작된다는 말이 있어요. 새벽까지 운영하는 훠궈집부터 길거리 꼬치, 야시장, 편의점 야식까지.",
     "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_012_thumb.webp?v=1",
-    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_012.jpg?v=1",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_012_thumb.webp?v=1",
     "category": "food",
     "city": "상하이",
     "tags": [
@@ -755,7 +764,7 @@
         "place_ids": [
           "haidilao"
         ],
-        "image_url": "/images/magazines/routes/mag_012_hotpot.jpg"
+        "image_url": "/images/magazines/routes/mag_012_hotpot.webp"
       },
       {
         "time_label": "밤거리",
@@ -765,7 +774,7 @@
         "place_ids": [
           "sijing_night_market"
         ],
-        "image_url": "/images/magazines/routes/mag_012_market.jpg"
+        "image_url": "/images/magazines/routes/mag_012_market.webp"
       },
       {
         "time_label": "편의점",
@@ -776,7 +785,7 @@
           "lawson",
           "familymart"
         ],
-        "image_url": "/images/magazines/routes/mag_012_convenience.jpg"
+        "image_url": "/images/magazines/routes/mag_012_convenience.webp"
       },
       {
         "time_label": "꼬치구이",
@@ -788,7 +797,7 @@
           "fengmao_skewer",
           "huiweixiang_bbq"
         ],
-        "image_url": "/images/magazines/routes/mag_012_finish.jpg"
+        "image_url": "/images/magazines/routes/mag_012_finish.webp"
       }
     ]
   }
