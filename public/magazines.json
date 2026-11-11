@@ -800,5 +800,79 @@
         "image_url": "/images/routes/mag_012_finish.webp"
       }
     ]
+  },
+  {
+    "id": "mag_013",
+    "title": "#귀여운 건 못 참지",
+    "subtitle": "키링부터 문구까지, 상하이 골목 소품샵 털기",
+    "body": "구경만 하려고 했는데 어느새 손에 쇼핑백이… 귀여운 생활소품과 작가 문구를 찾아 걷는 반나절 코스예요. 취향에 맞는 곳을 골라 들러보세요. 방문 정보는 2026.11.11 확인 기준이에요.",
+    "tags": "소품샵,문구,키링,쇼핑,기념품,안푸루,옌칭루",
+    "place_ids": [
+      "yogurcraft_anfu",
+      "tagi",
+      "paper_message_shanghai",
+      "goodees_world_shanghai",
+      "moonmoonhome"
+    ],
+    "thumbnail_url": "https://hao-pick-data.vercel.app/images/magazines/mag_013_thumb.webp",
+    "thumbnail_webp": "https://hao-pick-data.vercel.app/images/magazines/mag_013_card.webp",
+    "cover_image_url": "https://hao-pick-data.vercel.app/images/magazines/mag_013_thumb.webp",
+    "estimated_time": "반나절",
+    "recommended_time": "오후",
+    "difficulty": "쉬움",
+    "sort_order": 13,
+    "status": "active",
+    "route_sections": [
+      {
+        "time_label": "시작",
+        "icon": "art",
+        "title": "위가오상점 · 작가 소품 구경",
+        "description": "안푸루 골목의 수공예·문구 편집숍에서 시작해요. 11:00–18:00 운영으로 안내돼 있으며, 예약제 관련 후기가 있어 방문 전 예약 방법과 적용 요일을 확인하세요.",
+        "place_ids": [
+          "yogurcraft_anfu"
+        ],
+        "image_url": "/images/places/default_shopping.webp"
+      },
+      {
+        "time_label": "소품",
+        "icon": "bag",
+        "title": "타기 · 컬러풀한 생활소품",
+        "description": "폰케이스부터 키링, 가방과 컵까지 취향에 맞는 소품을 골라보세요. 우루무치중루점은 10:00–21:00로 안내돼요. 주말에는 대기줄이 생길 수 있어요.",
+        "place_ids": [
+          "tagi"
+        ],
+        "image_url": "/images/places/default_shopping.webp"
+      },
+      {
+        "time_label": "문구",
+        "icon": "shopping",
+        "title": "페이퍼 메시지 · 여행 기념 문구",
+        "description": "종이 문구와 노트를 좋아한다면 들러보세요. 화이하이중루 골목 안쪽 2호동 102호에 있으며, 영업시간은 11:00–18:00예요. 주말 예약 여부는 방문 전 확인하세요.",
+        "place_ids": [
+          "paper_message_shanghai"
+        ],
+        "image_url": "/images/places/default_shopping.webp"
+      },
+      {
+        "time_label": "구경",
+        "icon": "sparkle",
+        "title": "구디스 월드 · 복슬복슬한 소품",
+        "description": "옌칭팡 A동에서 인형과 가방 장식, 생활소품을 둘러봐요. 11:00–20:00 운영으로 안내돼요. 예약 필수 안내는 확인되지 않았지만 방문일 공지는 다시 확인해 주세요.",
+        "place_ids": [
+          "goodees_world_shanghai"
+        ],
+        "image_url": "/images/places/default_shopping.webp"
+      },
+      {
+        "time_label": "마무리",
+        "icon": "shopping",
+        "title": "무무 · 다이어리 꾸미기",
+        "description": "스티커·마스킹테이프·도장을 고르며 마무리해요. 최근 이전한 푸민루197弄 구바이샤오취 11호 앞문으로 찾아가세요. 영업시간은 13:00–19:30이며 정기휴무·예약 여부는 방문 전 확인하세요.",
+        "place_ids": [
+          "moonmoonhome"
+        ],
+        "image_url": "/images/places/default_shopping.webp"
+      }
+    ]
   }
 ]
