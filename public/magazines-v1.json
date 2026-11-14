@@ -865,5 +865,78 @@
         "image_url": "/images/magazines-v1/places/default_shopping.webp"
       }
     ]
+  },
+  {
+    "id": "mag_014",
+    "city_id": "shanghai",
+    "title": "상하이 가성비 여행법",
+    "subtitle": "커피 한 잔으로 고층 전망, 2위안으로 황푸강 건너기",
+    "body": "상하이의 화려한 풍경을 즐기는 데 꼭 큰돈이 필요한 건 아니에요. 52층 서점에서 해 질 무렵의 도시를 내려다보고, 페리로 강을 건넌 뒤 저녁 한 끼까지. 늦은 오후부터 시작하는 가성비 여행 코스예요.",
+    "tags": "가성비,야경,서점,커피,페리,와이탄,저녁",
+    "place_ids": [
+      "duoyun_bookstore",
+      "dongchang_road_ferry",
+      "fuxing_east_road_ferry",
+      "waitan",
+      "hefu_noodles"
+    ],
+    "thumbnail_url": "/images/magazines-v1/magazines/mag_014_thumb.webp",
+    "thumbnail_webp": "/images/magazines-v1/magazines/mag_014_card.webp",
+    "cover_image_url": "/images/magazines-v1/magazines/mag_014_thumb.webp",
+    "estimated_time": "반나절",
+    "recommended_time": "일몰 전~저녁",
+    "difficulty": "보통",
+    "sort_order": 14,
+    "status": "active",
+    "tips": [
+      "오후 5시 전후를 참고하되, 계절별 일몰 전에 서점에 도착하도록 조정하세요. 밤에는 유리 반사로 풍경이 잘 보이지 않을 수 있어요.",
+      "페리는 관광 유람선이 아닌 대중교통이에요. 보행자 편도 2위안이며 음료·식사·추가 이동 비용은 별도예요.",
+      "페리 운항과 막차는 당일 上海轮渡(상하이 페리) 공지를 확인하세요. 운항이 중단되면 지하철·택시로 이동하세요.",
+      "2026년 11월 12일 둥푸선은 07:00~18:15 임시 운항 중단 공지가 있어요.",
+      "허푸라오몐의 게살국수·게살만두 판매 여부와 가격은 방문할 지점에서 확인하세요."
+    ],
+    "route_sections": [
+      {
+        "time_label": "일몰 전",
+        "icon": "coffee",
+        "title": "커피 한 잔과 함께, 52층에서 바라보는 상하이",
+        "description": "상하이타워 52층 朵云书院(둬윈서원·구름서점)에서 책과 소품을 구경하고, 음료를 주문해 전망 구역에서 도시를 내려다보세요. 밝은 풍경부터 해 질 무렵까지 천천히 즐겨요. 상하이타워 유료 전망대와는 별도 공간이며, 음료 가격과 전망 구역 이용 조건은 현장 안내를 확인하세요.",
+        "place_ids": [
+          "duoyun_bookstore"
+        ],
+        "image_url": "/images/magazines-v1/magazines/mag_014_thumb.webp"
+      },
+      {
+        "time_label": "강 건너기",
+        "icon": "night",
+        "title": "2위안으로 강을 건너는 작은 여행",
+        "description": "东昌路渡口(둥창루 선착장)에서 东复线(둥푸선)을 타고 复兴东路渡口(푸싱둥루 선착장)로 이동해요. 밤에도 운항하는 노선이지만 당일 운항과 막차를 먼저 확인하세요. 金陵东路(진링둥루)로 가는 东金线(둥진선)은 일찍 종료하므로 야간에는 노선을 헷갈리지 않도록 주의하세요.",
+        "place_ids": [
+          "dongchang_road_ferry",
+          "fuxing_east_road_ferry"
+        ],
+        "image_url": "/images/places/default_transport.webp"
+      },
+      {
+        "time_label": "야경 산책",
+        "icon": "walk",
+        "title": "강을 건너 와이탄 야경 한 번 더",
+        "description": "푸싱둥루 선착장에서 와이탄으로 이동해 강 건너 루자쭈이의 불빛을 바라보세요. 선착장이 와이탄 중심에 바로 붙어 있는 것은 아니에요. 추가 이동 시간을 잡고, 많이 걷기 힘들면 택시로 이동하세요.",
+        "place_ids": [
+          "waitan"
+        ],
+        "image_url": "/images/routes/mag_001_evening.webp"
+      },
+      {
+        "time_label": "저녁",
+        "icon": "food",
+        "title": "허푸라오몐에서 부담 없이 저녁 한 끼",
+        "description": "和府捞面(허푸라오몐)의 가까운 영업 지점을 찾아 국수와 사이드 메뉴로 마무리해요. 게살국수와 게살만두를 먹고 싶다면 방문할 지점의 판매 여부와 가격을 먼저 확인하세요. 메뉴는 지점·시즌에 따라 달라질 수 있어요. 폐점 안내가 있는 와이탄 SOHO점은 제외하고 찾아주세요.",
+        "place_ids": [
+          "hefu_noodles"
+        ],
+        "image_url": "/images/magazines-v1/magazines/mag_014_thumb.webp"
+      }
+    ]
   }
 ]
